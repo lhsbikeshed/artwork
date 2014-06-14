@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg4189"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="beamattempt.svg">
+  <defs
+     id="defs3">
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path5549"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lend"
+       style="overflow:visible;">
+      <path
+         id="path5570"
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path5552"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective3217" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:document-units="mm"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.79358205"
+     inkscape:cx="123.27963"
+     inkscape:cy="649.56728"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     units="mm"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-5"
+     inkscape:window-y="-5"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer">
+    <rect
+       style="color:#000000;fill:#000000;stroke:#ffff00;stroke-width:8.08582687;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3028"
+       width="703.91504"
+       height="253.05301"
+       x="17.820635"
+       y="255.77983"
+       ry="28.513016"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\jamoverlay.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="color:#000000;fill:#ffff00;fill-opacity:1;stroke:#267575;stroke-width:1.75999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.51960784;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path4200"
+       sodipodi:sides="3"
+       sodipodi:cx="-167.59451"
+       sodipodi:cy="306.37753"
+       sodipodi:r1="211.79584"
+       sodipodi:r2="125.15932"
+       sodipodi:arg1="0.53021579"
+       sodipodi:arg2="1.5774133"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 15.121324,413.48682 -351.7118,411.05945 -166.19307,94.586332 z"
+       transform="matrix(0.65129263,0,0,0.65129263,286.50544,211.60564)"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\jamoverlay.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:206.79919434px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="149.44475"
+       y="462.49915"
+       id="text4202"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\jamoverlay.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4204"
+         x="149.44475"
+         y="462.49915">!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:47.41603851px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       x="270.00824"
+       y="330.56418"
+       id="text4206"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\jamoverlay.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4208"
+         x="270.00824"
+         y="330.56418">!!WARNING!!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       x="287.80328"
+       y="368.94083"
+       id="text3784"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\jamoverlay.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="287.80328"
+         y="368.94083"
+         id="tspan3794">TRANSPORTER ACTIVITY</tspan><tspan
+         sodipodi:role="line"
+         x="287.80328"
+         y="396.44083"
+         id="tspan3026">DETECTED</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\jamoverlay.png"
+       sodipodi:linespacing="125%"
+       id="text3799"
+       y="416.48087"
+       x="288.5351"
+       style="font-size:17.47075462px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       xml:space="preserve"><tspan
+         y="416.48087"
+         x="288.5351"
+         sodipodi:role="line"
+         id="tspan3807">JAMMING CONTROLS</tspan><tspan
+         y="438.31931"
+         x="288.5351"
+         sodipodi:role="line"
+         id="tspan3811">ACTIVATED</tspan></text>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\intruderoverlay.png"
+       ry="28.513016"
+       y="572.09607"
+       x="17.820635"
+       height="253.05301"
+       width="703.91504"
+       id="rect4426"
+       style="color:#000000;fill:#000000;stroke:#ffff00;stroke-width:8.08582687;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\intruderoverlay.png"
+       transform="matrix(0.54009289,0,0,0.54009289,240.16907,556.1707)"
+       d="M 15.121324,413.48682 -351.7118,411.05945 -166.19307,94.586332 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="1.5774133"
+       sodipodi:arg1="0.53021579"
+       sodipodi:r2="125.15932"
+       sodipodi:r1="211.79584"
+       sodipodi:cy="306.37753"
+       sodipodi:cx="-167.59451"
+       sodipodi:sides="3"
+       id="path4428"
+       style="color:#000000;fill:#ffff00;fill-opacity:1;stroke:#267575;stroke-width:1.75999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.51960784;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="star" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\intruderoverlay.png"
+       sodipodi:linespacing="125%"
+       id="text4430"
+       y="764.22742"
+       x="126.5097"
+       style="font-size:171.49092102px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="764.22742"
+         x="126.5097"
+         id="tspan4432"
+         sodipodi:role="line">!</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\intruderoverlay.png"
+       sodipodi:linespacing="125%"
+       id="text4434"
+       y="636.18805"
+       x="256.64276"
+       style="font-size:47.41603851px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       xml:space="preserve"><tspan
+         y="636.18805"
+         x="256.64276"
+         id="tspan4436"
+         sodipodi:role="line">!!WARNING!!</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\intruderoverlay.png"
+       sodipodi:linespacing="125%"
+       id="text4438"
+       y="686.52045"
+       x="258.03717"
+       style="font-size:23.72067451px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       xml:space="preserve"><tspan
+         id="tspan4442"
+         y="686.52045"
+         x="258.03717"
+         sodipodi:role="line">INTRUDER DETECTED</tspan><tspan
+         y="716.17126"
+         x="258.03717"
+         sodipodi:role="line"
+         id="tspan4456">IN TRANSPORTER ROOM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:47.41603851px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       x="256.64276"
+       y="792.11859"
+       id="text4452"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\intruderoverlay.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4454"
+         x="256.64276"
+         y="792.11859">!!WARNING!!</tspan></text>
+    <path
+       style="color:#000000;fill:#000000;stroke:#ffff00;stroke-width:8.08582687;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -842.90625,864.34375 c -15.79621,0 -28.53125,12.73504 -28.53125,28.53125 l 0,196.0312 c 0,15.7963 12.73504,28.5 28.53125,28.5 l 262.8125,0 0,190.5 c 0,15.9123 12.8065,28.7188 28.71875,28.7188 l 355.70864,0 c 15.91225,0 28.71875,-12.8065 28.71875,-28.7188 -1.21672,-140.4196 -0.55239,-274.7987 -0.55239,-415.0312 0,-15.79621 -12.73504,-28.53125 -28.53125,-28.53125 z"
+       id="rect3079"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssscsssccss"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\airlockoverlay.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="color:#000000;fill:#ffff00;fill-opacity:1;stroke:#267575;stroke-width:1.75999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.51960784;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3081"
+       sodipodi:sides="3"
+       sodipodi:cx="-167.59451"
+       sodipodi:cy="306.37753"
+       sodipodi:r1="211.79584"
+       sodipodi:r2="125.15932"
+       sodipodi:arg1="0.53021579"
+       sodipodi:arg2="1.5774133"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 15.121324,413.48682 -351.7118,411.05945 -166.19307,94.586332 z"
+       transform="matrix(0.54009289,0,0,0.54009289,-649.08058,848.4291)"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\airlockoverlay.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:171.49092102px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-762.73999"
+       y="1056.4858"
+       id="text3083"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\airlockoverlay.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3085"
+         x="-762.73999"
+         y="1056.4858">!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:23.72067451px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       x="-638.34076"
+       y="978.77887"
+       id="text3091"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\airlockoverlay.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         id="tspan3095"
+         sodipodi:role="line"
+         x="-638.34076"
+         y="978.77887">AIRLOCK SAFETY LOCK</tspan><tspan
+         sodipodi:role="line"
+         x="-638.34076"
+         y="1008.4297"
+         id="tspan3103">DISABLED </tspan><tspan
+         sodipodi:role="line"
+         x="-638.34076"
+         y="1038.0806"
+         id="tspan3127">USE AIRLOCK DUMP</tspan><tspan
+         sodipodi:role="line"
+         x="-638.34076"
+         y="1067.7314"
+         id="tspan5004">SWITCH</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\airlockoverlay.png"
+       sodipodi:linespacing="125%"
+       id="text3107"
+       y="938.24786"
+       x="-632.60687"
+       style="font-size:47.41603851px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       xml:space="preserve"><tspan
+         y="938.24786"
+         x="-632.60687"
+         id="tspan3109"
+         sodipodi:role="line">!!WARNING!!</tspan></text>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\airlockFailedOverlay.png"
+       ry="28.513016"
+       y="1137.9012"
+       x="17.820635"
+       height="253.05301"
+       width="703.91504"
+       id="rect3025"
+       style="color:#000000;fill:#000000;stroke:#ffff00;stroke-width:8.08582687;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\airlockFailedOverlay.png"
+       transform="matrix(0.54009289,0,0,0.54009289,233.93185,1121.9758)"
+       d="M 15.121324,413.48682 -351.7118,411.05945 -166.19307,94.586332 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="1.5774133"
+       sodipodi:arg1="0.53021579"
+       sodipodi:r2="125.15932"
+       sodipodi:r1="211.79584"
+       sodipodi:cy="306.37753"
+       sodipodi:cx="-167.59451"
+       sodipodi:sides="3"
+       id="path3027"
+       style="color:#000000;fill:#ffff00;fill-opacity:1;stroke:#267575;stroke-width:1.75999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.51960784;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="star" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\airlockFailedOverlay.png"
+       sodipodi:linespacing="125%"
+       id="text3029"
+       y="1330.0326"
+       x="120.27248"
+       style="font-size:171.49092102px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="1330.0326"
+         x="120.27248"
+         id="tspan3031"
+         sodipodi:role="line">!</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\airlockFailedOverlay.png"
+       sodipodi:linespacing="125%"
+       id="text3033"
+       y="1252.3256"
+       x="241.10757"
+       style="font-size:23.72067451px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       xml:space="preserve"><tspan
+         id="tspan3041"
+         y="1252.3256"
+         x="241.10757"
+         sodipodi:role="line">INTRUDER HAS DISABLED</tspan><tspan
+         y="1281.9764"
+         x="241.10757"
+         sodipodi:role="line"
+         id="tspan3056">EMERGENCY AIRLOCK </tspan><tspan
+         y="1311.6272"
+         x="241.10757"
+         sodipodi:role="line"
+         id="tspan3060">DUMP. PREPARE FOR </tspan><tspan
+         y="1341.2781"
+         x="241.10757"
+         sodipodi:role="line"
+         id="tspan3064">BOARDING</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:47.41603851px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       x="256.64276"
+       y="1211.7946"
+       id="text3043"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\airlockFailedOverlay.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3045"
+         x="256.64276"
+         y="1211.7946">!!WARNING!!</tspan></text>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\jammingoverlay.png"
+       ry="28.513016"
+       y="1423.9225"
+       x="16.929615"
+       height="253.05301"
+       width="703.91504"
+       id="rect3025-1"
+       style="color:#000000;fill:#000000;stroke:#ffff00;stroke-width:8.08582687;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\jammingoverlay.png"
+       transform="matrix(0.54009289,0,0,0.54009289,233.04083,1407.9969)"
+       d="M 15.121324,413.48682 -351.7118,411.05945 -166.19307,94.586332 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="1.5774133"
+       sodipodi:arg1="0.53021579"
+       sodipodi:r2="125.15932"
+       sodipodi:r1="211.79584"
+       sodipodi:cy="306.37753"
+       sodipodi:cx="-167.59451"
+       sodipodi:sides="3"
+       id="path3027-7"
+       style="color:#000000;fill:#ffff00;fill-opacity:1;stroke:#267575;stroke-width:1.75999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.51960784;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="star" />
+    <text
+       xml:space="preserve"
+       style="font-size:36.49987411px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       x="189.74609"
+       y="1486.5656"
+       id="text3043-4"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\jammingoverlay.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="189.74609"
+         y="1486.5656"
+         id="tspan3911">JAMMING SIGNAL..</tspan></text>
+    <rect
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:16.23543358;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3135"
+       width="17.820635"
+       height="53.461903"
+       x="133.65475"
+       y="1569.1605"
+       ry="8.4648018"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\jammingoverlay.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:5.31496048;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3905"
+       sodipodi:cx="142.11955"
+       sodipodi:cy="1570.0516"
+       sodipodi:rx="18.711666"
+       sodipodi:ry="17.375118"
+       d="m 160.14018,1565.3733 a 18.711666,17.375118 0 1 1 -27.20052,-10.4621"
+       sodipodi:start="6.0105657"
+       sodipodi:end="10.482799"
+       sodipodi:open="true"
+       transform="matrix(-0.94111101,0.33809773,-0.33809773,-0.94111101,807.29915,3003.03)"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\jammingoverlay.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(-1.5104978,0.54265212,-0.54265212,-1.5104978,1209.3826,3865.1036)"
+       sodipodi:open="true"
+       sodipodi:end="10.446013"
+       sodipodi:start="6.0345276"
+       d="M 160.25572,1565.7756 A 18.711666,17.375118 0 1 1 132.3462,1555.2349"
+       sodipodi:ry="17.375118"
+       sodipodi:rx="18.711666"
+       sodipodi:cy="1570.0516"
+       sodipodi:cx="142.11955"
+       id="path3907"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:3.31146979;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\jammingoverlay.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:2.16184044;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3909"
+       sodipodi:cx="142.11955"
+       sodipodi:cy="1570.0516"
+       sodipodi:rx="18.711666"
+       sodipodi:ry="17.375118"
+       d="m 160.30332,1565.9536 a 18.711666,17.375118 0 1 1 -28.74931,-10.2422"
+       sodipodi:start="6.0450849"
+       sodipodi:end="10.395565"
+       sodipodi:open="true"
+       transform="matrix(-2.3137545,0.83122516,-0.83122516,-2.3137545,1777.0633,5083.0156)"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\jammingoverlay.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#000000;stroke:#ffff00;stroke-width:8.08582687;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3219"
+       width="703.91504"
+       height="253.05301"
+       x="16.929615"
+       y="1698.3602"
+       ry="28.513016"
+       inkscape:export-filename="/home/tactical/Dropbox/starship/engineerconsole/data/jumpEnableOverlay.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/tactical/Dropbox/starship/engineerconsole/data/jumpEnableOverlay.png"
+       sodipodi:linespacing="125%"
+       id="text3223"
+       y="1799.652"
+       x="371.4425"
+       style="font-size:59.75325394px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       xml:space="preserve"><tspan
+         id="tspan3225"
+         y="1799.652"
+         x="371.44247"
+         sodipodi:role="line">ENGAGE JUMP</tspan><tspan
+         y="1874.3435"
+         x="371.4425"
+         sodipodi:role="line"
+         id="tspan3235">ENGINE</tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#ffff00;stroke-width:4.50400019;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.0999999;stroke-opacity:1;stroke-dasharray:none"
+       id="rect5006"
+       width="173.89507"
+       height="183.97594"
+       x="-458.67975"
+       y="1118.5179"
+       ry="28.722481"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\airlockoverlay.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ff0000;fill-opacity:1;stroke:#ffff00;stroke-width:4.50400019;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.0999999;stroke-opacity:1;stroke-dasharray:none"
+       id="path5008"
+       sodipodi:cx="-355.03577"
+       sodipodi:cy="1246.104"
+       sodipodi:rx="34.337975"
+       sodipodi:ry="34.337975"
+       d="m -320.69779,1246.104 a 34.337975,34.337975 0 1 1 -68.67595,0 34.337975,34.337975 0 1 1 68.67595,0 z"
+       transform="matrix(1.4907507,0,0,1.4907507,159.42776,-615.62176)"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\airlockoverlay.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\airlockoverlay.png"
+       sodipodi:linespacing="125%"
+       id="text5010"
+       y="1144.5726"
+       x="-371.83276"
+       style="font-size:19.89268494px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       xml:space="preserve"><tspan
+         id="tspan5018"
+         y="1144.5726"
+         x="-371.83276"
+         sodipodi:role="line">AIRLOCK</tspan><tspan
+         y="1169.4385"
+         x="-371.83276"
+         sodipodi:role="line"
+         id="tspan5029">DUMP</tspan></text>
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:#ffff00;stroke-width:4.50400019;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.0999999;stroke-opacity:1;stroke-dasharray:none"
+       id="rect5031"
+       width="22.05191"
+       height="88.207642"
+       x="-381.81308"
+       y="1197.9048"
+       ry="11.025955"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\airlockoverlay.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#ffffff;stroke-width:4.504673;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.0999999;stroke-opacity:1;stroke-dasharray:none;marker-mid:none;marker-end:none"
+       id="path5033"
+       sodipodi:cx="-371.56024"
+       sodipodi:cy="1243.043"
+       sodipodi:rx="44.551586"
+       sodipodi:ry="44.551586"
+       d="m -327.00866,1243.043 a 44.551586,44.551586 0 0 1 -60.19191,41.716"
+       sodipodi:start="0"
+       sodipodi:end="1.9295003"
+       transform="matrix(-0.26601458,-1.3858328,1.3858328,-0.26601458,-2193.0959,1059.7886)"
+       sodipodi:open="true"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\airlockoverlay.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:6.35669279;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.0999999;stroke-opacity:1"
+       d="m -309.26836,1256.6649 26.76335,-12.8552 -28.57775,36.1192 -22.97645,-39.4929 z"
+       id="rect7101"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\airlockoverlay.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="color:#000000;fill:#ffff00;fill-opacity:1;stroke:#267575;stroke-width:1.75999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.51960784;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path4200-1"
+       sodipodi:sides="3"
+       sodipodi:cx="-167.59451"
+       sodipodi:cy="306.37753"
+       sodipodi:r1="211.79584"
+       sodipodi:r2="125.15932"
+       sodipodi:arg1="0.53021579"
+       sodipodi:arg2="1.5774133"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 15.121324,413.48682 -351.7118,411.05945 -166.19307,94.586332 z"
+       transform="matrix(0.32544953,0,0,0.37436653,-409.75442,240.57538)"
+       inkscape:export-filename="C:\Users\tom\Documents\sketch\bannertest\data\warningicon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:110.83144379px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-512.92706"
+       y="358.77112"
+       id="text4202-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\tom\Documents\sketch\bannertest\data\warningicon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="scale(0.93238081,1.0725231)"><tspan
+         sodipodi:role="line"
+         id="tspan4204-4"
+         x="-512.92706"
+         y="358.77112">!</tspan></text>
+  </g>
+</svg>

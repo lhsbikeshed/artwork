@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="background.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="336.92699"
+     inkscape:cy="554.49044"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.64199996;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2985"
+       width="1024"
+       height="768"
+       x="-140.00002"
+       y="49.505035"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\commsconsole\data\idlebg.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer">
+    <g
+       id="g3963"
+       transform="translate(-17.538143,-226.94588)"
+       inkscape:export-filename="C:\Users\tom\Documents\Processing\commstest\hold.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="translate(264.79449,442.91046)"
+         style="stroke:none;display:inline"
+         inkscape:label="Logo"
+         id="layer2-1">
+        <g
+           transform="matrix(2.3176288,0,0,2.3176288,1.21488,1.2265818)"
+           id="g2942"
+           style="stroke:none;display:inline">
+          <circle
+             d="M 114,57 C 114,88.480231 88.480231,114 57,114 25.519769,114 0,88.480231 0,57 0,25.519769 25.519769,0 57,0 c 31.480231,0 57,25.519769 57,57 z"
+             sodipodi:ry="57"
+             sodipodi:rx="57"
+             sodipodi:cy="57"
+             sodipodi:cx="57"
+             cx="57"
+             cy="57"
+             r="57"
+             id="circle236"
+             style="fill:#3528a8;fill-opacity:1;stroke:none" />
+        </g>
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path3918"
+         d="m 508.62342,467.50587 c -6.40809,0.10191 -13.43943,1.00503 -21.0625,2.75 0.36624,0.301 0.73082,0.6014 1.09375,0.90625 43.32127,-2.15439 57.44698,19.7544 38.34375,53.59375 3.49722,9.0575 6.00804,18.60489 7.4375,28.5 34.40868,-45.8896 20.99411,-86.49435 -25.8125,-85.75 z"
+         style="fill:#3528a8;fill-opacity:1;stroke:none" />
+      <path
+         id="path3916"
+         d="m 519.6875,529.4375 c -0.65126,1.09062 -1.34392,2.16748 -2.0625,3.28125 0.71752,-1.11138 1.41239,-2.1927 2.0625,-3.28125 z"
+         style="fill:#3528a8;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3910"
+         d="m 259.52268,595.43671 c -45.92731,45.23952 -30.70745,95.45873 32.25,88.65625 5.52288,-0.59674 11.27761,-1.44393 17.1875,-2.5625 -6.7418,-5.32032 -12.94487,-11.29785 -18.53125,-17.8125 -50.87883,3.64378 -63.99291,-24.83834 -30.90625,-68.28125 z"
+         style="fill:#3528a8;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:transform-center-y="-4.819018"
+         inkscape:transform-center-x="17.735297"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path3829"
+         d="m 328.99298,661.84878 c 1.09122,-0.27387 81.428,-32.71146 120.61147,-73.72293 10.30334,3.53213 42.80067,7.77702 9.38896,26.07008 -27.2388,14.24168 -70.51429,30.08902 -130.00043,47.65285 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      <g
+         inkscape:transform-center-y="12.639534"
+         inkscape:transform-center-x="26.051002"
+         id="g3867"
+         inkscape:label="Logo"
+         style="stroke:#ffffff;stroke-width:21.2039299;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         transform="matrix(0.22527188,0.03312068,-0.03312068,0.22527188,443.80582,555.03018)">
+        <g
+           style="stroke:#ffffff;stroke-width:9.14897537;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+           id="g3869"
+           transform="matrix(2.3176288,0,0,2.3176288,1.21488,1.2265818)">
+          <circle
+             style="fill:#3528a8;fill-opacity:1;stroke:#ffffff;stroke-width:9.14897537;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             id="circle3871"
+             r="57"
+             cy="57"
+             cx="57"
+             sodipodi:cx="57"
+             sodipodi:cy="57"
+             sodipodi:rx="57"
+             sodipodi:ry="57"
+             d="M 114,57 C 114,88.480231 88.480231,114 57,114 25.519769,114 0,88.480231 0,57 0,25.519769 25.519769,0 57,0 c 31.480231,0 57,25.519769 57,57 z" />
+        </g>
+      </g>
+      <g
+         inkscape:transform-center-y="12.226329"
+         inkscape:transform-center-x="25.471292"
+         id="g238"
+         style="display:inline"
+         transform="matrix(0.46284477,0.06804993,-0.06804993,0.46284477,447.49915,558.8079)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path240"
+           d="M 57,98.501 43.999,85.5 46.217,83.282 30.717,67.781 28.499,70 15.498,57 34.987,37.51 l 13.002,13 -4.234,4.235 2.66,2.661 10.992,-10.993 -2.66,-2.66 -4.089,4.089 L 37.656,34.841 57,15.497 70.001,28.498 67.784,30.716 83.282,46.216 85.501,43.998 98.503,57 79.159,76.343 66.157,63.342 70.246,59.253 68.083,57.09 57.091,68.083 59.253,70.245 63.487,66.011 76.49,79.014 57,98.501 z"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+    <rect
+       style="fill:none;stroke:#ffff00;stroke-width:3.442;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3976"
+       width="999.04089"
+       height="743.47229"
+       x="-127.31982"
+       y="60.372078"
+       ry="16.162441" />
+    <g
+       id="g3998"
+       transform="translate(0,30)">
+      <rect
+         ry="16.162441"
+         y="514.27954"
+         x="-31.996235"
+         height="220.04106"
+         width="813.52563"
+         id="rect3992"
+         style="fill:#333333;fill-opacity:1;stroke:#ffff00;stroke-width:2.29929495;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         rx="16.162441" />
+      <flowRoot
+         transform="translate(-317.1879,-57.578695)"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+         id="flowRoot3978"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3980"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#ffffff;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+             y="575.57019"
+             x="114.14724"
+             height="158.59395"
+             width="546.49255"
+             id="rect3982" /></flowRegion><flowPara
+           id="flowPara3986">COMMS</flowPara><flowPara
+           id="flowPara3990">FREQUENCY</flowPara></flowRoot>      <rect
+         ry="16.162441"
+         y="528.09302"
+         x="367.69553"
+         height="83.842659"
+         width="394.96964"
+         id="rect3994"
+         style="fill:#483737;fill-opacity:1;stroke:#ffff00;stroke-width:1.64199996;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <rect
+         style="fill:#483737;fill-opacity:1;stroke:#ffff00;stroke-width:2.29224467;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect4007"
+         width="775.74799"
+         height="83.192413"
+         x="-14.836497"
+         y="629.84674"
+         ry="16.162441"
+         rx="16.162441" />
+    </g>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#ffff00;stroke-width:2.98841858;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3996"
+       width="439.6843"
+       height="88.539902"
+       x="-127.50602"
+       y="60.165592"
+       ry="16.162441"
+       rx="16.162441" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4777"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       transform="matrix(1.7371552,0,0,1.7371552,65.633279,-109.31619)"><flowRegion
+         id="flowRegion4779"><rect
+           id="rect4781"
+           width="508.57144"
+           height="151.42857"
+           x="-104.28571"
+           y="96.647896"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff0000;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended" /></flowRegion><flowPara
+         id="flowPara4783">COMMS</flowPara></flowRoot>  </g>
+</svg>

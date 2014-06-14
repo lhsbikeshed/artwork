@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="dropscene2.svg"
+   inkscape:export-filename="C:\Users\tom\Dropbox\starship\tacticalconsole\data\dropscene.png"
+   inkscape:export-xdpi="115.2"
+   inkscape:export-ydpi="115.2"
+   sodipodi:version="0.32"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3839">
+      <stop
+         style="stop-color:#e4f800;stop-opacity:1;"
+         offset="0"
+         id="stop3841" />
+      <stop
+         style="stop-color:#aa0000;stop-opacity:1;"
+         offset="1"
+         id="stop3843" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective25" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3839"
+       id="radialGradient5308"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.4048887,437.90767,-151.40426)"
+       cx="134.77696"
+       cy="373.9405"
+       fx="134.77696"
+       fy="373.9405"
+       r="69.012643" />
+    <linearGradient
+       id="linearGradient4638-7">
+      <stop
+         style="stop-color:#00c9de;stop-opacity:1;"
+         offset="0"
+         id="stop4640-4" />
+      <stop
+         style="stop-color:#503cbb;stop-opacity:1;"
+         offset="1"
+         id="stop4642-0" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6155">
+      <stop
+         style="stop-color:#00c9de;stop-opacity:1;"
+         offset="0"
+         id="stop6157" />
+      <stop
+         style="stop-color:#503cbb;stop-opacity:1;"
+         offset="1"
+         id="stop6159" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6162">
+      <stop
+         style="stop-color:#00c9de;stop-opacity:1;"
+         offset="0"
+         id="stop6164" />
+      <stop
+         style="stop-color:#503cbb;stop-opacity:1;"
+         offset="1"
+         id="stop6166" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6169">
+      <stop
+         style="stop-color:#00c9de;stop-opacity:1;"
+         offset="0"
+         id="stop6171" />
+      <stop
+         style="stop-color:#503cbb;stop-opacity:1;"
+         offset="1"
+         id="stop6173" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4638-7"
+       id="radialGradient6275"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.93381227,0,36.512321)"
+       cx="-24.285713"
+       cy="551.64789"
+       fx="-24.285713"
+       fy="551.64789"
+       r="146.15289" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4638-7"
+       id="radialGradient6277"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.93381227,0,36.512321)"
+       cx="-24.285713"
+       cy="551.64789"
+       fx="-24.285713"
+       fy="551.64789"
+       r="146.15289" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4638-7"
+       id="radialGradient6279"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.93381227,0,36.512321)"
+       cx="-24.285713"
+       cy="551.64789"
+       fx="-24.285713"
+       fy="551.64789"
+       r="146.15289" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4638-7"
+       id="radialGradient6281"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.93381227,0,36.512321)"
+       cx="-24.285713"
+       cy="551.64789"
+       fx="-24.285713"
+       fy="551.64789"
+       r="146.15289" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.1383913"
+     inkscape:cx="353.22087"
+     inkscape:cy="668.65619"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.30433083;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect2985"
+       width="800"
+       height="600"
+       x="-18.539585"
+       y="84.399925"
+       ry="0"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\tacticalconsole\data\dropBackground.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2" />
+    <text
+       xml:space="preserve"
+       style="font-size:37.88477325000000200px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       x="-8.3714933"
+       y="125.74284"
+       id="text3026"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\tacticalconsole\data\dropBackground.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2"><tspan
+         sodipodi:role="line"
+         x="-8.3714933"
+         y="125.74284"
+         id="tspan3030">DAMAGE REPORT</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4334"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       transform="translate(-641.12572,-67.639306)"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\tacticalconsole\data\tacticalOffline.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion4336"><rect
+           id="rect4338"
+           width="704.50293"
+           height="102.7766"
+           x="53.584385"
+           y="246.83954"
+           style="font-size:28px;fill:#ff0000" /></flowRegion><flowPara
+         id="flowPara4340">JUMP SYSTEM OFFLINE</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4342"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       transform="translate(-51.82752,168.65906)"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\tacticalconsole\data\dropBackground.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2"><flowRegion
+         id="flowRegion4344"><rect
+           id="rect4346"
+           width="679.9068"
+           height="115.07466"
+           x="62.36871"
+           y="360.15735"
+           style="font-size:14px;fill:#ffff00" /></flowRegion><flowPara
+         id="flowPara4350">&gt; EMERGENCY POWER NEEDS TO BE ROUTED TO JUMP  </flowPara><flowPara
+         id="flowPara2406">   SYSTEM</flowPara><flowPara
+         id="flowPara2410">&gt; OPEN PANEL ABOVE YOUR HEAD MARKED &quot;ACCESS PANEL&quot;</flowPara><flowPara
+         id="flowPara2402">&gt; CHECK WITH ENGINEER FOR INSTRUCTIONS</flowPara><flowPara
+         id="flowPara4354" /></flowRoot>    <g
+       id="g3002"
+       transform="matrix(0.62676255,0,0,0.62676255,421.3994,-172.89144)"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\tacticalconsole\data\dropBackground.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2">
+      <path
+         transform="matrix(0.65129263,0,0,0.65129263,499.63349,366.87797)"
+         d="M 15.121324,413.48682 -351.7118,411.05945 -166.19307,94.586332 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="1.5774133"
+         sodipodi:arg1="0.53021579"
+         sodipodi:r2="125.15932"
+         sodipodi:r1="211.79584"
+         sodipodi:cy="306.37753"
+         sodipodi:cx="-167.59451"
+         sodipodi:sides="3"
+         id="path4200"
+         style="color:#000000;fill:#ffff00;fill-opacity:1;stroke:#267575;stroke-width:1.75999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.51960784;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="star" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4202"
+         y="617.77148"
+         x="362.57278"
+         style="font-size:206.79919434px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="617.77148"
+           x="362.57278"
+           id="tspan4204"
+           sodipodi:role="line">!</tspan></text>
+    </g>
+    <g
+       id="g5303"
+       transform="translate(72.674039,0)"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\tacticalconsole\data\dropBackground.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2">
+      <rect
+         ry="55.289577"
+         y="281.05939"
+         x="507.74597"
+         height="185.76222"
+         width="129.87735"
+         id="rect3829"
+         style="fill:url(#radialGradient5308);fill-opacity:1;stroke:#00ffff;stroke-width:8.14793682;stroke-miterlimit:4;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3847"
+         y="490.54861"
+         x="509.21799"
+         style="font-size:17.93544769px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+         xml:space="preserve"><tspan
+           y="490.54861"
+           x="509.21799"
+           id="tspan3849"
+           sodipodi:role="line">REACTOR</tspan></text>
+    </g>
+    <rect
+       style="fill:#4d4d4d;stroke:#ffff00;stroke-width:2.54399991;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect3855"
+       width="249.07939"
+       height="193.17628"
+       x="227.96045"
+       y="274.06671"
+       ry="0"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\tacticalconsole\data\dropBackground.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2" />
+    <rect
+       style="fill:#1a1a1a;stroke:#ffff00;stroke-width:1.8155551;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect3851"
+       width="168.89264"
+       height="57.627411"
+       x="306.85718"
+       y="274.94476"
+       ry="28.813705"
+       rx="0"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\tacticalconsole\data\dropBackground.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2" />
+    <rect
+       rx="0"
+       ry="40.300175"
+       y="274.76215"
+       x="228.6559"
+       height="80.600349"
+       width="77.054047"
+       id="rect3853"
+       style="fill:#1a1a1a;stroke:#ffff00;stroke-width:1.45029283;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\tacticalconsole\data\dropBackground.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2" />
+    <rect
+       style="fill:#4d4d4d;stroke:none"
+       id="rect3857"
+       width="105.1923"
+       height="33.160831"
+       x="337.92944"
+       y="285.49054"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\tacticalconsole\data\dropBackground.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2" />
+    <path
+       transform="matrix(0.20561118,0.02835246,-0.02835246,0.20561118,50.479871,203.82979)"
+       inkscape:transform-center-y="-5.0578268"
+       inkscape:transform-center-x="9.9946946"
+       d="M 63.571426,665.9336 -79.331472,684.87726 -167.18861,570.59155 -112.14285,437.36218 30.760046,418.41852 118.61719,532.70423 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="1.4390016"
+       sodipodi:arg1="0.91540282"
+       sodipodi:r2="72.076523"
+       sodipodi:r1="144.15305"
+       sodipodi:cy="551.64789"
+       sodipodi:cx="-24.285713"
+       sodipodi:sides="6"
+       id="path4699"
+       style="fill:url(#radialGradient6281);fill-opacity:1;stroke:#00ffff;stroke-width:6.5;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="star"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\tacticalconsole\data\dropBackground.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2" />
+    <path
+       sodipodi:type="star"
+       style="fill:url(#radialGradient6279);fill-opacity:1;stroke:#00ffff;stroke-width:6.5;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4701"
+       sodipodi:sides="6"
+       sodipodi:cx="-24.285713"
+       sodipodi:cy="551.64789"
+       sodipodi:r1="144.15305"
+       sodipodi:r2="72.076523"
+       sodipodi:arg1="0.91540282"
+       sodipodi:arg2="1.4390016"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 63.571426,665.9336 -79.331472,684.87726 -167.18861,570.59155 -112.14285,437.36218 30.760046,418.41852 118.61719,532.70423 z"
+       inkscape:transform-center-x="9.9946945"
+       inkscape:transform-center-y="-5.0578328"
+       transform="matrix(0.20561118,0.02835246,-0.02835246,0.20561118,95.788101,230.09541)"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\tacticalconsole\data\dropBackground.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2" />
+    <path
+       sodipodi:type="star"
+       style="fill:url(#radialGradient6277);fill-opacity:1;stroke:#00ffff;stroke-width:6.5;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4705"
+       sodipodi:sides="6"
+       sodipodi:cx="-24.285713"
+       sodipodi:cy="551.64789"
+       sodipodi:r1="144.15305"
+       sodipodi:r2="72.076523"
+       sodipodi:arg1="0.91540282"
+       sodipodi:arg2="1.4390016"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 63.571426,665.9336 -79.331472,684.87726 -167.18861,570.59155 -112.14285,437.36218 30.760046,418.41852 118.61719,532.70423 z"
+       inkscape:transform-center-x="9.9946908"
+       inkscape:transform-center-y="-5.0578268"
+       transform="matrix(0.20561118,0.02835246,-0.02835246,0.20561118,141.09633,203.82979)"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\tacticalconsole\data\dropBackground.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2" />
+    <path
+       transform="matrix(0.20561118,0.02835246,-0.02835246,0.20561118,95.788101,178.22079)"
+       inkscape:transform-center-y="-5.0578292"
+       inkscape:transform-center-x="9.9946945"
+       d="M 63.571426,665.9336 -79.331472,684.87726 -167.18861,570.59155 -112.14285,437.36218 30.760046,418.41852 118.61719,532.70423 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="1.4390016"
+       sodipodi:arg1="0.91540282"
+       sodipodi:r2="72.076523"
+       sodipodi:r1="144.15305"
+       sodipodi:cy="551.64789"
+       sodipodi:cx="-24.285713"
+       sodipodi:sides="6"
+       id="path4703"
+       style="fill:url(#radialGradient6275);fill-opacity:1;stroke:#00ffff;stroke-width:6.5;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="star"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\tacticalconsole\data\dropBackground.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3847-3"
+       y="380.74234"
+       x="77.632851"
+       style="font-size:11.51911736px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\tacticalconsole\data\dropBackground.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2"><tspan
+         y="380.74234"
+         x="77.632851"
+         id="tspan3849-1"
+         sodipodi:role="line">FORWARD</tspan><tspan
+         y="395.14124"
+         x="77.632851"
+         sodipodi:role="line"
+         id="tspan6304">WARP</tspan><tspan
+         y="409.54013"
+         x="77.632851"
+         sodipodi:role="line"
+         id="tspan6308">ARRAY</tspan></text>
+    <rect
+       style="fill:none;stroke:#808000;stroke-width:2.54399991;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect6312"
+       width="130.88631"
+       height="50.509903"
+       x="325.02008"
+       y="357.08279"
+       ry="14.933353"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\tacticalconsole\data\dropBackground.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2" />
+    <path
+       style="fill:none;stroke:#00ffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 149.77275,316.23569 56.21969,0 14.05492,-14.05492 122.54134,0"
+       id="path6314"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\tacticalconsole\data\dropBackground.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2" />
+    <text
+       xml:space="preserve"
+       style="font-size:20.92436409px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       x="-503.56427"
+       y="438.07019"
+       id="text6316"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\tacticalconsole\data\tacticalOffline.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         id="tspan6322"
+         sodipodi:role="line"
+         x="-503.56427"
+         y="438.07019">OFFLINE</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path6329"
+       d="m 583.05961,327.98473 -26.13337,-25.80396 -118.808,0"
+       style="fill:none;stroke:#00ffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\tacticalconsole\data\dropBackground.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2" />
+    <g
+       id="g7086"
+       transform="translate(-718.04435,39.75332)"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\tacticalconsole\data\dropDamage.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6333"
+         d="m 369.3809,302.61998 51.82752,-51.82752 59.73341,0"
+         style="fill:none;stroke:#ffff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-size:11.99396038px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+         x="491.13269"
+         y="247.01178"
+         id="text6335"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan6337"
+           sodipodi:role="line"
+           x="491.13269"
+           y="247.01178">CONDUIT </tspan><tspan
+           id="tspan6339"
+           sodipodi:role="line"
+           x="491.13269"
+           y="262.00424">DAMAGED</tspan></text>
+      <rect
+         ry="14.933353"
+         y="233.88263"
+         x="480.50259"
+         height="32.941223"
+         width="114.63545"
+         id="rect6343"
+         style="fill:none;stroke:#ffff00;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g7080"
+       transform="translate(36.894168,0)"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\tacticalconsole\data\dropBackground.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2">
+      <path
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.25696266;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         d="m 372.14333,457.84877 9.89858,18.42236 -7.97386,4.28153 -9.89858,-18.42236 7.97386,-4.28153 z"
+         id="path6485"
+         inkscape:connector-curvature="0" />
+      <path
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.25696266;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         d="m 321.64037,458.65121 8.64162,2.67104 -5.38138,17.51892 -8.64161,-2.67105 5.38137,-17.51891 z"
+         id="path6487"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#818181;fill-opacity:1;stroke:#000000;stroke-width:1.2568593;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 392.96177,359.53073 c 0.62593,0.0321 1.24351,0.14224 1.88544,0.31424 5.13541,1.37602 8.16433,6.72514 6.75618,11.98043 l -20.93629,78.0888 c -0.044,0.16422 -0.10571,0.31137 -0.15712,0.47136 0.10006,0.49165 0.15712,1.00985 0.15712,1.53192 l 0,3.61377 c 0,4.17657 -3.3652,7.54178 -7.54177,7.54178 l -55.69916,0 c -4.17657,0 -7.54177,-3.36521 -7.54177,-7.54178 l 0,-3.61377 c 0,-4.17657 3.3652,-7.54177 7.54177,-7.54177 l 36.80544,0 28.83158,-77.53888 c 1.65752,-4.46272 5.51711,-7.53076 9.89858,-7.3061 z"
+         id="path6489" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path6491"
+         sodipodi:cx="189.28572"
+         sodipodi:cy="249.86218"
+         sodipodi:rx="6.7857141"
+         sodipodi:ry="6.7857141"
+         d="m 196.07143,249.86218 c 0,3.74765 -3.03806,6.78572 -6.78571,6.78572 -3.74765,0 -6.78571,-3.03807 -6.78571,-6.78572 0,-3.74764 3.03806,-6.78571 6.78571,-6.78571 3.74765,0 6.78571,3.03807 6.78571,6.78571 z"
+         transform="matrix(-1.2569626,0,0,1.2569626,603.84531,136.50404)" />
+    </g>
+    <path
+       style="fill:#585858;fill-opacity:1;stroke:#000000;stroke-width:0.76800001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 243.35288,365.75897 -18.03125,7 -0.0625,-0.0625 c -2.91353,-1.8248 -10.77831,-2.96509 -12.6031,-0.0516 l 0.4781,7.67656 c -1.82479,2.91353 -0.92414,6.70519 1.96875,8.5625 l 73.96875,47.5 0.34375,46.25 67.84376,0.375 -0.375,-62.125 c 2.4171,-2.44462 -54.02398,0.41855 -56.93751,-1.40625 l -48.5625,-30.40625 0.875,-0.34375 z"
+       id="rect4899"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccc"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\tacticalconsole\data\dropBackground.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2" />
+    <rect
+       style="fill:none;stroke:#ffff00;stroke-width:4.30000019;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect7096"
+       width="536.66968"
+       height="49.691654"
+       x="-13.044058"
+       y="88.344162"
+       ry="18.634369"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\tacticalconsole\data\dropBackground.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2" />
+  </g>
+</svg>

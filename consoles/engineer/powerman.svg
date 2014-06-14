@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="powerman.svg"
+   inkscape:export-filename="/home/tactical/Dropbox/starship/engineerconsole/data/powerman.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective117" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="618.468"
+     inkscape:cy="459.95128"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="725"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     sodipodi:insensitive="true">
+    <rect
+       style="color:#000000;fill-opacity:1;stroke:none;stroke-width:2.28500009;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect2985"
+       width="1024"
+       height="768"
+       x="-143.96671"
+       y="21.827047" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer">
+    <rect
+       style="color:#000000;fill:none;stroke:#ffff00;stroke-width:3.97453022;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect2996"
+       width="505.48944"
+       height="64.763237"
+       x="-131.63144"
+       y="29.302172"
+       ry="20.724237" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3781"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Hanzel Extended;font-style:normal;font-weight:normal;font-size:10px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Hanzel Extended;font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion3783"><rect
+           id="rect3785"
+           width="124.24876"
+           height="31.31473"
+           x="466.69049"
+           y="222.01678" /></flowRegion><flowPara
+         id="flowPara3787" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2988"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       transform="matrix(4.0134145,0,0,4.0134145,-74.282886,-322.5043)"><flowRegion
+         id="flowRegion2990"><rect
+           id="rect2992"
+           width="222.85715"
+           height="90"
+           x="-10"
+           y="89.505043"
+           style="fill:#ff0000" /></flowRegion><flowPara
+         id="flowPara2994">SHIP SYSTEMS</flowPara></flowRoot>    <g
+       transform="matrix(0,-1,1,0,28.535713,737.15625)"
+       id="g4252">
+      <flowRoot
+         transform="matrix(0.6834277,1.1837315,-1.1837315,0.6834277,371.11972,651.01872)"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+         id="flowRoot4254"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4256"><rect
+             style="fill:#ffff00"
+             y="186.66145"
+             x="-50.507626"
+             height="26.263966"
+             width="90.913727"
+             id="rect4258" /></flowRegion><flowPara
+           id="flowPara4260">WEAPONS</flowPara></flowRoot>      <path
+         style="color:#000000;fill:none;stroke:#ffff00;stroke-width:2.81100011;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 28.15625,589.82589 c -4.143229,0 -7.46875,3.32552 -7.46875,7.46875 l 0.75,217.58036 c 0,8.89567 7.166828,16.0625 16.0625,16.0625 l 622.15625,0 c 8.89567,0 16.0625,-7.16683 16.0625,-16.0625 l 0,-208.59375 c 0,-8.89567 -7.16683,-16.0625 -16.0625,-16.0625 l -373.45982,0 z"
+         id="path4262"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccssssscc" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4264"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+         transform="matrix(0.6848066,1.1829344,-1.1829344,0.6848066,503.75611,655.32499)"><flowRegion
+           id="flowRegion4266"><rect
+             id="rect4268"
+             width="90.913727"
+             height="26.263966"
+             x="-50.507626"
+             y="186.66145"
+             style="fill:#ffff00" /></flowRegion><flowPara
+           id="flowPara4270">SENSORS</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4272"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+         transform="matrix(0.6834277,1.1837315,-1.1837315,0.6834277,655.95395,650.8315)"><flowRegion
+           id="flowRegion4274"><rect
+             id="rect4276"
+             width="90.913727"
+             height="26.263966"
+             x="-50.507626"
+             y="186.66145"
+             style="fill:#ffff00" /></flowRegion><flowPara
+           id="flowPara4278">INTERNAL </flowPara><flowPara
+           id="flowPara4280">SYSTEMS</flowPara></flowRoot>      <flowRoot
+         transform="matrix(0.6834277,1.1837315,-1.1837315,0.6834277,798.01033,660.56061)"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+         id="flowRoot4282"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4284"><rect
+             style="fill:#ffff00"
+             y="186.66145"
+             x="-50.507626"
+             height="26.263966"
+             width="90.913727"
+             id="rect4286" /></flowRegion><flowPara
+           id="flowPara4288">ENGINES</flowPara></flowRoot>      <path
+         style="fill:none;stroke:#ffff00;stroke-width:2.30385876;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 74.947487,712.36218 526.530283,0"
+         id="path4290"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4292"
+         d="m 74.947487,675.93361 526.530283,0"
+         style="fill:none;stroke:#ffff00;stroke-width:1.19800651;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         style="fill:none;stroke:#ffff00;stroke-width:1.19800651;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 74.947487,640.21932 526.530283,0"
+         id="path4294"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4296"
+         d="m 74.947487,607.36218 526.530283,0"
+         style="fill:none;stroke:#ffff00;stroke-width:1.19800651;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4298"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+         transform="matrix(0.97649992,0,0,0.97649992,80.690623,522.08383)"><flowRegion
+           id="flowRegion4300"><rect
+             id="rect4302"
+             width="90.913727"
+             height="26.263966"
+             x="-50.507626"
+             y="186.66145"
+             style="fill:#ff0000" /></flowRegion><flowPara
+           id="flowPara4304">OFF</flowPara></flowRoot>      <flowRoot
+         transform="matrix(0.97649992,0,0,0.97649992,80.690623,487.23357)"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+         id="flowRoot4306"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4308"><rect
+             style="fill:#ff0000"
+             y="186.66145"
+             x="-50.507626"
+             height="26.263966"
+             width="90.913727"
+             id="rect4310" /></flowRegion><flowPara
+           id="flowPara4312">LOW</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4314"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+         transform="matrix(0.97649992,0,0,0.97649992,80.690623,452.13077)"><flowRegion
+           id="flowRegion4316"><rect
+             id="rect4318"
+             width="90.913727"
+             height="26.263966"
+             x="-50.507626"
+             y="186.66145"
+             style="fill:#ff0000" /></flowRegion><flowPara
+           id="flowPara4320">MED</flowPara></flowRoot>      <flowRoot
+         transform="matrix(0.97649992,0,0,0.97649992,80.690623,419.80589)"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+         id="flowRoot4322"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4324"><rect
+             style="fill:#ff0000"
+             y="186.66145"
+             x="-50.507626"
+             height="26.263966"
+             width="90.913727"
+             id="rect4326" /></flowRegion><flowPara
+           id="flowPara4328">HIGH</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4330"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+         transform="matrix(0,1.5381703,-1.5381703,0,797.15269,-394.1396)"><flowRegion
+           id="flowRegion4332"><rect
+             id="rect4334"
+             width="162.14285"
+             height="46.42857"
+             x="647.85712"
+             y="81.647896"
+             style="fill:#ff0000" /></flowRegion><flowPara
+           id="flowPara4336">SYSTEM POWER</flowPara><flowPara
+           id="flowPara4338">ASSIGNMENT</flowPara></flowRoot>    </g>
+    <g
+       id="g4364"
+       transform="translate(4.0406101,79.802052)">
+      <g
+         transform="matrix(1.1204653,0,0,1.1868753,-190.48119,-47.445612)"
+         id="g4188">
+        <path
+           style="color:#000000;fill:none;stroke:#666666;stroke-width:4.82223082;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="m 645.99852,296.67579 -105.59124,8.37031 c -10.64455,0.8438 -19.27427,8.59632 -19.27427,19.27427 l 0,28.15434 c 0,10.67794 8.62972,18.43046 19.27427,19.27427 l 105.59124,8.37031 c 13.31605,1.05557 24.11159,-10.75377 24.11159,-24.1116 l 0,-35.22031 c 0,-13.35783 -10.79554,-25.16716 -24.11159,-24.11159 z"
+           id="rect3766"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="sssssssss" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot3768"
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+           transform="matrix(1.3668554,0,0,1.3668554,622.07211,72.181754)"><flowRegion
+             id="flowRegion3770"><rect
+               id="rect3772"
+               width="90.913727"
+               height="26.263966"
+               x="-50.507626"
+               y="186.66145"
+               style="fill:#ffff00" /></flowRegion><flowPara
+             id="flowPara3774">ENGINES</flowPara></flowRoot>        <rect
+           style="color:#000000;fill:none;stroke:#666666;stroke-width:2.2110312;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect3777"
+           width="136.09547"
+           height="31.910322"
+           x="-366.72546"
+           y="391.63284"
+           ry="4.2236814"
+           transform="matrix(0.58050371,-0.8142576,0.8142576,0.58050371,0,0)" />
+        <rect
+           style="color:#000000;fill:none;stroke:#666666;stroke-width:2.70001411;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect3779"
+           width="133.8688"
+           height="50.784859"
+           x="487.35559"
+           y="485.00153"
+           ry="11.449445" />
+        <flowRoot
+           transform="matrix(1.3668554,0,0,1.3668554,571.38405,235.42417)"
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+           id="flowRoot3789"
+           xml:space="preserve"><flowRegion
+             id="flowRegion3791"><rect
+               style="fill:#ffff00"
+               y="186.66145"
+               x="-50.507626"
+               height="26.263966"
+               width="90.913727"
+               id="rect3793" /></flowRegion><flowPara
+             id="flowPara3795">INTERNAL </flowPara><flowPara
+             id="flowPara3797">SYSTEMS</flowPara></flowRoot>        <rect
+           ry="7.6876655"
+           y="342.25766"
+           x="263.05753"
+           height="34.099205"
+           width="124.27802"
+           id="rect3799"
+           style="color:#000000;fill:none;stroke:#666666;stroke-width:2.13171196;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot3801"
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+           transform="matrix(1.3668554,0,0,1.3668554,339.73313,96.725204)"><flowRegion
+             id="flowRegion3803"><rect
+               id="rect3805"
+               width="90.913727"
+               height="26.263966"
+               x="-50.507626"
+               y="186.66145"
+               style="fill:#ffff00" /></flowRegion><flowPara
+             id="flowPara3809">WEAPONS</flowPara></flowRoot>        <path
+           style="fill:none;stroke:#cdcdcd;stroke-width:10.98802853;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 655.52624,175.29345 -72.69616,1.3339 -92.45418,109.12763 -68.86129,0 c -21.11334,0 -38.0988,16.98544 -38.0988,38.09879 l 0,19.0911 -140.64042,0 c -14.60326,0 -21.38887,12.9879 -29.67871,25.01013 l -99.45702,144.30857 c -21.542761,31.242 11.74077,26.34403 26.34403,26.34403 l 458.26931,0 c 14.60326,0 26.34403,-11.74072 26.34403,-26.34403 l 0,-125.4676 11.75478,0 c 21.11332,0 38.09878,-16.98545 38.09878,-38.09877 l 0,-24.84343 c 0,-15.63514 -9.35138,-28.96122 -22.75922,-34.84748 l 3.83487,-113.71284 z"
+           id="rect2985-1"
+           inkscape:connector-curvature="0" />
+        <flowRoot
+           transform="matrix(0.79346463,-1.1129724,1.1129724,0.79346463,-47.682265,313.0592)"
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+           id="flowRoot4074"
+           xml:space="preserve"><flowRegion
+             id="flowRegion4076"><rect
+               style="fill:#ffff00"
+               y="186.66145"
+               x="-50.507626"
+               height="26.263966"
+               width="90.913727"
+               id="rect4078" /></flowRegion><flowPara
+             id="flowPara4080">SENSORS</flowPara></flowRoot>      </g>
+      <flowRoot
+         transform="matrix(2.7243312,0,0,2.7243312,-149.79695,-877.81055)"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+         id="flowRoot4340"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4342"><rect
+             style="fill:#ffff00"
+             y="472.36218"
+             x="90"
+             height="44.285713"
+             width="187.14285"
+             id="rect4344" /></flowRegion><flowPara
+           id="flowPara4348">HULL STATE: </flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3253"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+         transform="matrix(2.7243312,0,0,2.7243312,-95.248712,-846.49582)"><flowRegion
+           id="flowRegion3255"><rect
+             id="rect3257"
+             width="187.14285"
+             height="44.285713"
+             x="90"
+             y="472.36218"
+             style="fill:#ffff00" /></flowRegion><flowPara
+           id="flowPara3259">O2 LEVEL: </flowPara></flowRoot>      <flowRoot
+         transform="matrix(2.7243312,0,0,2.7243312,-200.30458,-816.19124)"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+         id="flowRoot2923"
+         xml:space="preserve"><flowRegion
+           id="flowRegion2925"><rect
+             style="fill:#ffff00"
+             y="472.36218"
+             x="90"
+             height="44.285713"
+             width="187.14285"
+             id="rect2927" /></flowRegion><flowPara
+           id="flowPara2929">JUMP CHARGE: </flowPara></flowRoot>    </g>
+    <rect
+       ry="19.742384"
+       y="93.204308"
+       x="-133.23332"
+       height="124.82948"
+       width="751.32867"
+       id="rect4352"
+       style="color:#000000;fill:none;stroke:#ffff00;stroke-width:3.91014051;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <flowRoot
+       transform="matrix(4.0134145,0,0,4.0134145,-86.476506,-259.40205)"
+       style="font-size:3.23913717px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       id="flowRoot4354"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4356"><rect
+           style="font-size:3.23913717px;fill:#ff0000"
+           y="89.505043"
+           x="-10"
+           height="90"
+           width="222.85715"
+           id="rect4358" /></flowRegion><flowPara
+         id="flowPara4362">USE THE POWER MANAGEMENT BUTTONS ON THE RIGHT TO INCREASE</flowPara><flowPara
+         id="flowPara4431">POWER TO SUBSYSTEMS. THERE IS ONLY A LIMITED AMOUNT OF POWER</flowPara><flowPara
+         id="flowPara4433">SO ASSIGN CAREFULLY</flowPara><flowPara
+         id="flowPara4393">&gt; <flowSpan
+   style="fill:#ffff00"
+   id="flowSpan4397">SENSORS</flowSpan> ALLOW THE WEAPONS TO <flowSpan
+   style="fill:#00ff00"
+   id="flowSpan4413">TARGET QUICKER</flowSpan></flowPara><flowPara
+         id="flowPara4395">&gt; <flowSpan
+   style="fill:#ffff00"
+   id="flowSpan4399">WEAPONS</flowSpan> WILL ALLOW THE <flowSpan
+   style="fill:#00ff00"
+   id="flowSpan4409">BEAM</flowSpan> AND <flowSpan
+   style="fill:#00ff00"
+   id="flowSpan4411">DECOYS</flowSpan> TO WORK</flowPara><flowPara
+         id="flowPara4401">&gt; <flowSpan
+   style="fill:#ffff00"
+   id="flowSpan4405">ENGINES</flowSpan> CHANGES THE SHIPS <flowSpan
+   style="fill:#00ff00"
+   id="flowSpan4415">ROTATION</flowSpan> AND <flowSpan
+   style="fill:#00ff00"
+   id="flowSpan4417">TOP SPEED</flowSpan></flowPara><flowPara
+         id="flowPara4403">&gt; <flowSpan
+   style="fill:#ffff00"
+   id="flowSpan4407">INTERNAL</flowSpan> SYSTEMS KEEPS THE <flowSpan
+   style="fill:#00ff00"
+   id="flowSpan3251">OXYGEN FLOWING</flowSpan> AND <flowSpan
+   style="fill:#00ff00"
+   id="flowSpan3249">LIGHTS ON</flowSpan></flowPara><flowPara
+         id="flowPara4425">. </flowPara></flowRoot>  </g>
+</svg>

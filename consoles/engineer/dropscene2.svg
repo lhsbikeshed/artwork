@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="dropscene2.svg"
+   inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\dropscene1.png"
+   inkscape:export-xdpi="115.2"
+   inkscape:export-ydpi="115.2"
+   sodipodi:version="0.32"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective25" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.2767826"
+     inkscape:cx="317.70616"
+     inkscape:cy="675.79242"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1003"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.30433083;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect2985"
+       width="800"
+       height="600"
+       x="-18.539585"
+       y="84.399925"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:37.88477325px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       x="-8.3714933"
+       y="125.74284"
+       id="text3026"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="-8.3714933"
+         y="125.74284"
+         id="tspan3030">POWER WARNING</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4334"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       transform="translate(-64.125576,-104.53347)"><flowRegion
+         id="flowRegion4336"><rect
+           id="rect4338"
+           width="704.50293"
+           height="102.7766"
+           x="53.584385"
+           y="246.83954"
+           style="font-size:28px;fill:#ffff00" /></flowRegion><flowPara
+         id="flowPara4340">JUMP SYSTEM OFFLINE</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4342"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       transform="translate(-54.462818,-178.32181)"><flowRegion
+         id="flowRegion4344"><rect
+           id="rect4346"
+           width="698.35388"
+           height="165.58455"
+           x="62.36871"
+           y="360.15735"
+           style="font-size:14px;fill:#ffff00" /></flowRegion><flowPara
+         id="flowPara4354">&gt; POWER LOST TO JUMP SYSTEM</flowPara><flowPara
+         id="flowPara2409">&gt; REROUTE POWER THROUGH CONDUIT #3</flowPara><flowPara
+         id="flowPara2411">&gt; INSTRUCT TACTICAL CREWMEMBER TO REMOVE THE ACCESS PANEL ON CONDUIT #3 (ABOVE THEIR HEAD)</flowPara><flowPara
+         id="flowPara2413">&gt; <flowSpan
+   style="fill:#ff0000"
+   id="flowSpan3018">&gt;&gt; <flowSpan
+   style="fill:none;stroke:#ffffff"
+   id="flowSpan3017">BLACK</flowSpan> CABLE MUST BE CONNECTED FIRST &lt;&lt;</flowSpan></flowPara><flowPara
+         id="flowPara3014">&gt; IF CONNECTED IN WRONG ORDER, <flowSpan
+   style="fill:#ff0000"
+   id="flowSpan3067">DISCONNECT ALL CABLES</flowSpan> AND START AGAIN</flowPara><flowPara
+         id="flowPara3021">&gt; CONNECT <flowSpan
+   style="fill:#d40000"
+   id="flowSpan3023">COLOUR</flowSpan> TO <flowSpan
+   style="fill:#ff0000"
+   id="flowSpan3025">COLOUR </flowSpan></flowPara></flowRoot>    <path
+       sodipodi:type="star"
+       style="color:#000000;fill:#ffff00;fill-opacity:1;stroke:#267575;stroke-width:1.75999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.51960784;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path4200"
+       sodipodi:sides="3"
+       sodipodi:cx="-167.59451"
+       sodipodi:cy="306.37753"
+       sodipodi:r1="211.79584"
+       sodipodi:r2="125.15932"
+       sodipodi:arg1="0.53021579"
+       sodipodi:arg2="1.5774133"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 15.121324,413.48682 -351.7118,411.05945 -166.19307,94.586332 z"
+       transform="matrix(0.65129263,0,0,0.65129263,499.63349,366.87797)" />
+    <text
+       xml:space="preserve"
+       style="font-size:206.79919434px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="362.57278"
+       y="617.77148"
+       id="text4202"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4204"
+         x="362.57278"
+         y="617.77148">!</tspan></text>
+    <flowRoot
+       transform="translate(-51.82752,-25.474543)"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       id="flowRoot2415"
+       xml:space="preserve"><flowRegion
+         id="flowRegion2417"><rect
+           style="font-size:14px;fill:#ffff00"
+           y="360.15735"
+           x="62.36871"
+           height="115.07466"
+           width="617.53809"
+           id="rect2419" /></flowRegion><flowPara
+         id="flowPara2427">1st - <flowSpan
+   style="fill:#000000;stroke:#ffffff"
+   id="flowSpan3027">BLACK</flowSpan></flowPara><flowPara
+         id="flowPara2438">2nd - <flowSpan
+   style="fill:#c8b7b7"
+   id="flowSpan3019">SILVER</flowSpan></flowPara><flowPara
+         id="flowPara2440">3rd - YELLOW</flowPara><flowPara
+         id="flowPara2442">4th - <flowSpan
+   style="fill:#ff00ff"
+   id="flowSpan3015">PURPLE</flowSpan></flowPara><flowPara
+         id="flowPara2444">5th - <flowSpan
+   style="fill:#ffffff"
+   id="flowSpan3013">WHITE</flowSpan></flowPara></flowRoot>  </g>
+</svg>

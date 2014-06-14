@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="600"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="reentry.svg"
+   inkscape:export-filename="C:\Users\tom\Dropbox\starship\pilotconsole\data\reentry.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="466.3639"
+     inkscape:cy="271.41079"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-5"
+     inkscape:window-y="-5"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-452.36218)">
+    <path
+       style="color:#000000;fill:none;stroke:#cdcdcd;stroke-width:6.71010113;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 566.26271,841.10018 c 2.80507,0 5.07304,-2.24776 5.07304,-5.05283 l 0,-4.41519 11.76299,0 0,1.20056 c 0,5.11867 4.1179,9.25678 9.23656,9.25678 l 5.03263,0 c 5.11865,0 9.23656,-4.13811 9.23656,-9.25678 l 0,-51.42056 c 0,-5.11866 -4.11791,-9.23656 -9.23656,-9.23656 l -2.18283,0 0,-59.35808 c 0,-5.11866 -4.13812,-9.23657 -9.25678,-9.23657 l -37.04734,0 c -5.11869,0 -9.2366,4.11791 -9.2366,9.23657 l 0,59.35808 -3.17313,0 c -5.11869,0 -9.2366,4.1179 -9.2366,9.23656 l 0,51.42056 c 0,5.11867 4.11791,9.25678 9.2366,9.25678 l 5.03262,0 c 5.11864,0 9.25676,-4.13811 9.25676,-9.25678 l 0,-1.20056 10.44925,0 0,4.41519 c 0,2.80507 2.24776,5.05283 5.05283,5.05283 z"
+       id="rect3780"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ssccsssssscsssscssssssccss" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       x="57.823799"
+       y="500.43533"
+       id="text3790"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3792"
+         x="57.823799"
+         y="500.43533">WARNING</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3794"
+       y="626.56537"
+       x="465.45096"
+       style="font-size:21.96081352px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       xml:space="preserve"><tspan
+         y="626.56537"
+         x="465.45096"
+         id="tspan3796"
+         sodipodi:role="line">FRONT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16.57090187px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       x="22.231398"
+       y="511.53293"
+       id="text3798"
+       sodipodi:linespacing="125%"
+       transform="scale(0.97122062,1.0296322)"><tspan
+         sodipodi:role="line"
+         x="22.231398"
+         y="511.53293"
+         id="tspan3862">SHIP NOT RATED FOR ATMOSPHERIC FLIGHT</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3802"
+       y="500.43533"
+       x="18.427853"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       xml:space="preserve"><tspan
+         y="500.43533"
+         x="18.427853"
+         id="tspan3804"
+         sodipodi:role="line">!!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       x="361.8797"
+       y="500.43533"
+       id="text3806"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3808"
+         x="361.8797"
+         y="500.43533">!!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:21.96081352px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       x="489.83728"
+       y="930.75977"
+       id="text3810"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3812"
+         x="489.83728"
+         y="930.75977">REAR</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3814"
+       y="693.22302"
+       x="92.788811"
+       style="font-size:21.96081352px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       xml:space="preserve"><tspan
+         y="693.22302"
+         x="92.788811"
+         id="tspan3816"
+         sodipodi:role="line">TOP</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:21.96081352px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       x="120.7306"
+       y="892.91852"
+       id="text3818"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3820"
+         x="120.7306"
+         y="892.91852">BOTTOM</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3844"
+       y="729.73938"
+       x="644.39063"
+       style="font-size:21.96081352px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       xml:space="preserve"><tspan
+         y="729.73938"
+         x="644.39063"
+         id="tspan3846"
+         sodipodi:role="line">RIGHT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:21.96081352px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       x="402.96417"
+       y="732.76984"
+       id="text3848"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3850"
+         x="402.96417"
+         y="732.76984">LEFT</tspan></text>
+    <path
+       style="fill:none;stroke:#cdcdcd;stroke-width:6.18393517;stroke-miterlimit:4;stroke-opacity:1"
+       d="m 284.8849,744.90859 -16.24228,0.29803 -20.65674,24.38204 -15.38546,0 c -4.71729,0 -8.5123,3.79501 -8.5123,8.5123 l 0,4.26546 -31.42284,0 c -3.26276,0 -4.77885,2.90185 -6.63103,5.58794 l -22.22136,32.2424 c -4.81324,6.98031 2.6232,5.88597 5.88596,5.88597 l 102.38967,0 c 3.26276,0 5.88596,-2.6232 5.88596,-5.88597 l 0,-28.03283 2.62634,0 c 4.71728,0 8.51228,-3.795 8.51228,-8.51228 l 0,-5.55069 c 0,-3.49332 -2.08934,-6.47072 -5.08502,-7.78587 l 0.85682,-25.4065 z"
+       id="rect2985"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:none;stroke:#ffff00;stroke-width:0.77499998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3860"
+       sodipodi:cx="654.35791"
+       sodipodi:cy="564.17114"
+       sodipodi:rx="3.1882939"
+       sodipodi:ry="2.4306796"
+       d="m 657.5462,564.17114 c 0,1.34243 -1.42744,2.43068 -3.18829,2.43068 -1.76085,0 -3.18829,-1.08825 -3.18829,-2.43068 0,-1.34242 1.42744,-2.43068 3.18829,-2.43068 1.76085,0 3.18829,1.08826 3.18829,2.43068 z"
+       transform="translate(-10,9.9153651)" />
+    <rect
+       style="color:#000000;fill:none;stroke:#ffff00;stroke-width:3.875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3866"
+       width="774.78699"
+       height="578.81738"
+       x="11.111678"
+       y="9.0607605"
+       transform="translate(0,452.36218)"
+       ry="14.285714" />
+    <rect
+       style="color:#000000;fill:none;stroke:#ffff00;stroke-width:3.875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3868"
+       width="572.75647"
+       height="81.822357"
+       x="10.570707"
+       y="461.12708"
+       ry="14.285714" />
+    <g
+       id="g3876"
+       transform="translate(0,-347.49248)">
+      <text
+         xml:space="preserve"
+         style="font-size:17.06193352px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+         x="18.512926"
+         y="912.58942"
+         id="text3854"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3856"
+           x="18.512926"
+           y="912.58942">ROTATE THE SHIP TO BALANCE THE REENTRY HEAT</tspan><tspan
+           id="tspan3858"
+           sodipodi:role="line"
+           x="18.512926"
+           y="933.91681">DO NOT LET THE HULL REACH MORE THAN 300 C</tspan></text>
+      <rect
+         ry="14.832916"
+         y="890.73773"
+         x="11.194483"
+         height="52.44228"
+         width="714.09509"
+         id="rect3874"
+         style="color:#000000;fill:none;stroke:#ffff00;stroke-width:3.94271517;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="44.446712"
+       y="512.11676"
+       id="text3021"
+       sodipodi:linespacing="125%"
+       transform="translate(0,452.36218)"><tspan
+         sodipodi:role="line"
+         id="tspan3023"
+         x="44.446712"
+         y="512.11676">ALTITUDE</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3025"
+       y="996.42017"
+       x="28.529375"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#f0ff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       xml:space="preserve"><tspan
+         y="996.42017"
+         x="28.529375"
+         id="tspan3027"
+         sodipodi:role="line">ALTITUDE</tspan></text>
+    <rect
+       style="color:#000000;fill:none;stroke:#ffff00;stroke-width:4.50050497;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3797"
+       width="424.26407"
+       height="81.755562"
+       x="335.37064"
+       y="943.24969"
+       ry="20.008089" />
+  </g>
+</svg>

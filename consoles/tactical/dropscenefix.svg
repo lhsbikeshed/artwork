@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.46"
+   sodipodi:docname="dropscenefix.svg"
+   inkscape:export-filename="C:\Users\tom\Documents\My Dropbox\starship\tacticalconsole\data\dropscenefixed.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   sodipodi:version="0.32"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2408" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.56919567"
+     inkscape:cx="392.31892"
+     inkscape:cy="709.48807"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="1004"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.30433083;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect2985"
+       width="1023.9998"
+       height="768.19336"
+       x="-18.539507"
+       y="-83.772148"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:48.49861145px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       x="-5.5250473"
+       y="-30.836014"
+       id="text3026"
+       sodipodi:linespacing="125%"
+       transform="scale(0.9998741,1.0001259)"><tspan
+         sodipodi:role="line"
+         id="tspan3028"
+         x="-5.5250473"
+         y="-30.836014">POWER CONDUIT #3</tspan><tspan
+         sodipodi:role="line"
+         x="-5.5250473"
+         y="29.787251"
+         id="tspan3030">REPAIRED</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4334"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       transform="matrix(1.2799998,0,0,1.2803222,-76.889566,-278.43135)"><flowRegion
+         id="flowRegion4336"><rect
+           id="rect4338"
+           width="704.50293"
+           height="102.7766"
+           x="53.584385"
+           y="246.83954"
+           style="font-size:28px;fill:#ffff00" /></flowRegion><flowPara
+         id="flowPara4340">JUMP SYSTEM </flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4342"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       transform="matrix(1.2799998,0,0,1.2803222,-61.148057,-273.93265)"><flowRegion
+         id="flowRegion4344"><rect
+           id="rect4346"
+           width="617.53809"
+           height="115.07466"
+           x="62.36871"
+           y="360.15735"
+           style="font-size:14px;fill:#ffff00" /></flowRegion><flowPara
+         id="flowPara4350">&gt; REFER TO FLIGHT MANUAL FOR EMERGENCY JUMP PREPARATION INSTRUCTIONS</flowPara><flowPara
+         id="flowPara4354" /></flowRoot>    <path
+       sodipodi:type="star"
+       style="color:#000000;fill:#ffff00;fill-opacity:1;stroke:#267575;stroke-width:1.75999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.51960784;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path4200"
+       sodipodi:sides="3"
+       sodipodi:cx="-167.59451"
+       sodipodi:cy="306.37753"
+       sodipodi:r1="211.79584"
+       sodipodi:r2="125.15932"
+       sodipodi:arg1="0.53021579"
+       sodipodi:arg2="1.5774133"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 15.121324,413.48682 -351.7118,411.05945 -166.19307,94.586332 z"
+       transform="matrix(0.83365444,0,0,0.83386443,644.72193,277.89076)" />
+    <text
+       xml:space="preserve"
+       style="font-size:264.73626709px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="469.34335"
+       y="599.03986"
+       id="text4202"
+       sodipodi:linespacing="125%"
+       transform="scale(0.9998741,1.0001259)"><tspan
+         sodipodi:role="line"
+         id="tspan4204"
+         x="469.34335"
+         y="599.03986">!</tspan></text>
+    <flowRoot
+       transform="matrix(1.2799998,0,0,1.2803222,330.14087,-278.43135)"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       id="flowRoot4495"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4497"><rect
+           style="font-size:28px;fill:#00ff00"
+           y="246.83954"
+           x="53.584385"
+           height="102.7766"
+           width="704.50293"
+           id="rect4499" /></flowRegion><flowPara
+         id="flowPara4501"> ONLINE</flowPara></flowRoot>  </g>
+</svg>

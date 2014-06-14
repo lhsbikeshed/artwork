@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg3035"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="New document 3">
+  <defs
+     id="defs3037" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="462.06382"
+     inkscape:cy="507.09993"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-5"
+     inkscape:window-y="-5"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3040">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="rect3518"
+       width="1024"
+       height="768"
+       x="-175.56482"
+       y="136.42897" />
+    <rect
+       style="color:#000000;fill:none;stroke:#ffff00;stroke-width:3.48425889;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect2996"
+       width="538.78101"
+       height="46.695778"
+       x="-151.16962"
+       y="164.43828"
+       ry="14.942651"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\tacticalconsole\data\towingtitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2988"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       transform="matrix(3.7160127,0,0,3.7160127,-101.75212,-169.00586)"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\tacticalconsole\data\towingtitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion2990"><rect
+           id="rect2992"
+           width="222.85715"
+           height="90"
+           x="-10"
+           y="89.505043"
+           style="fill:#ff0000" /></flowRegion><flowPara
+         id="flowPara2994">TOWING STATUS</flowPara></flowRoot>    <rect
+       style="color:#000000;fill:#000000;stroke:#ffff00;stroke-width:8.08582687;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3028"
+       width="703.91504"
+       height="253.05301"
+       x="-892.30811"
+       y="699.83099"
+       ry="28.513016"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\jamoverlay.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="color:#000000;fill:#ffff00;fill-opacity:1;stroke:#267575;stroke-width:1.75999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.51960784;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path4200"
+       sodipodi:sides="3"
+       sodipodi:cx="-167.59451"
+       sodipodi:cy="306.37753"
+       sodipodi:r1="211.79584"
+       sodipodi:r2="125.15932"
+       sodipodi:arg1="0.53021579"
+       sodipodi:arg2="1.5774133"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 15.121324,413.48682 -351.7118,411.05945 -166.19307,94.586332 z"
+       transform="matrix(0.65129263,0,0,0.65129263,-623.62325,655.65685)"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\jamoverlay.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:206.79919434px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-760.68396"
+       y="906.55029"
+       id="text4202"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\jamoverlay.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4204"
+         x="-760.68396"
+         y="906.55029">!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:47.41603851px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       x="-653.69189"
+       y="754.61536"
+       id="text4206"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\jamoverlay.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4208"
+         x="-653.69189"
+         y="754.61536">!!WARNING!!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:19.56521225px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       x="-428.37393"
+       y="785.46185"
+       id="text3784"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\jamoverlay.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="-428.37393"
+         y="785.46185"
+         id="tspan3026">SELF DESTRUCT ENGAGED</tspan><tspan
+         sodipodi:role="line"
+         x="-428.37393"
+         y="809.91833"
+         id="tspan4372">REACTOR OVERLOAD IN</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\jamoverlay.png"
+       sodipodi:linespacing="125%"
+       id="text4374"
+       y="921.89038"
+       x="-425.51682"
+       style="font-size:19.56521225px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       xml:space="preserve"><tspan
+         id="tspan4378"
+         y="921.89038"
+         x="-425.51682"
+         sodipodi:role="line">SECONDS</tspan></text>
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\hulldamageoverlay.png"
+       style="fill:#4d4d4d;fill-opacity:1;stroke:#cdcdcd;stroke-width:4.64200306;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 741.63621,431.88854 -29.83967,0.57997 -37.94973,47.44864 -28.26555,0 c -8.66639,0 -15.63842,7.38528 -15.63842,16.56535 l 0,8.3008 -57.7288,0 c -5.99421,0 -8.77952,5.64713 -12.18225,10.87439 l -40.82418,62.74527 c -8.84268,13.58401 4.81923,11.45435 10.81344,11.45435 l 188.10616,0 c 5.99421,0 10.81346,-5.10484 10.81346,-11.45435 l 0,-54.55323 4.82501,0 c 8.66639,0 15.63842,-7.38527 15.63842,-16.56533 l 0,-10.8019 c 0,-6.79815 -3.83846,-12.59234 -9.34199,-15.15167 l 1.5741,-49.44229 z"
+       id="path3489"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4816"
+       d="m -221.74386,399.56366 -29.83968,0.57997 -37.94973,47.44864 -28.26555,0 c -8.66639,0 -15.63842,7.38528 -15.63842,16.56535 l 0,8.3008 -57.7288,0 c -5.99421,0 -8.77952,5.64713 -12.18225,10.87439 l -40.82418,62.74527 c -8.84267,13.58401 4.81923,11.45435 10.81344,11.45435 l 188.10617,0 c 5.99421,0 10.81346,-5.10484 10.81346,-11.45435 l 0,-54.55323 4.82501,0 c 8.66639,0 15.63842,-7.38527 15.63842,-16.56533 l 0,-10.8019 c 0,-6.79815 -3.83846,-12.59234 -9.34199,-15.15167 l 1.5741,-49.44229 z"
+       style="fill:#4d4d4d;fill-opacity:1;stroke:#cdcdcd;stroke-width:4.64200306;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\tacticalconsole\data\shipIconSide.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:24.30511475px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       x="20.232941"
+       y="655.23871"
+       id="text3493"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3495"
+         x="20.232941"
+         y="655.23871">TETHER TENSION:</tspan></text>
+  </g>
+</svg>

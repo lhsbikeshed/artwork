@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="600"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="engineerstatus.svg"
+   inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\default.png"
+   inkscape:export-xdpi="92.626396"
+   inkscape:export-ydpi="92.626396">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="446.90765"
+     inkscape:cy="286.58099"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1307"
+     inkscape:window-height="749"
+     inkscape:window-x="55"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-452.36218)">
+    <path
+       style="color:#000000;fill:none;stroke:#cdcdcd;stroke-width:7.90594864;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 482.44207,771.06601 c 2.33697,-2.33697 2.3538,-6.09915 0.0168,-8.43612 l -3.6784,-3.6784 9.80003,-9.80003 1.00023,1.00021 c 4.26448,4.2645 11.14277,4.28132 15.40725,0.0168 l 4.1928,-4.1928 c 4.26448,-4.26448 4.24765,-11.14277 -0.0168,-15.40727 l -42.83973,-42.83972 c -4.26448,-4.26448 -11.12594,-4.26448 -15.39042,0 l -1.81857,1.81856 -49.45266,-49.45267 c -4.26448,-4.26448 -11.14279,-4.24764 -15.40727,0.0168 l -30.86505,30.86504 c -4.26451,4.26451 -4.26449,11.12597 -1e-5,15.39045 l 49.45267,49.45267 -2.64362,2.64362 c -4.26451,4.2645 -4.26451,11.12596 -3e-5,15.39044 l 42.83973,42.83973 c 4.26449,4.26449 11.14278,4.28132 15.40729,0.0168 l 4.1928,-4.19281 c 4.26446,-4.26446 4.26447,-11.15959 -2e-5,-15.42407 l -1.00022,-1.00023 8.70553,-8.70552 3.6784,3.6784 c 2.33697,2.33697 6.0823,2.33697 8.41927,0 z"
+       id="rect3780"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ssccsssssscsssscssssssccss" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       x="19.437986"
+       y="500.43533"
+       id="text3806"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3808"
+         x="19.437986"
+         y="500.43533">SHIP STATUS</tspan></text>
+    <rect
+       style="color:#000000;fill:none;stroke:#ffff00;stroke-width:3.875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3866"
+       width="774.78699"
+       height="578.81738"
+       x="11.111678"
+       y="9.0607605"
+       transform="translate(0,452.36218)"
+       ry="14.285714" />
+    <rect
+       style="color:#000000;fill:none;stroke:#ffff00;stroke-width:3.875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3868"
+       width="433.35541"
+       height="50.507629"
+       x="10.570707"
+       y="461.12708"
+       ry="14.285714"
+       rx="14.285714" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="44.446712"
+       y="512.11676"
+       id="text3021"
+       sodipodi:linespacing="125%"
+       transform="translate(0,452.36218)"><tspan
+         sodipodi:role="line"
+         id="tspan3023"
+         x="44.446712"
+         y="512.11676">ALTITUDE</tspan></text>
+    <path
+       style="color:#000000;fill:none;stroke:#ffff00;stroke-width:3.875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 34.21875 104.15625 C 28.196758 104.15625 23.34375 109.00926 23.34375 115.03125 L 23.34375 134.1875 C 23.34375 135.57441 23.593085 136.90751 24.0625 138.125 C 23.599786 139.66023 23.34375 141.30997 23.34375 143 L 23.34375 540.6875 C 23.34375 549.93817 30.780577 557.375 40.03125 557.375 L 284.21875 557.375 C 293.46942 557.375 300.9375 549.93817 300.9375 540.6875 L 300.9375 143 C 300.9375 133.74933 293.46942 126.28125 284.21875 126.28125 L 204.125 126.28125 L 204.125 115.03125 C 204.125 109.00926 199.27199 104.15625 193.25 104.15625 L 34.21875 104.15625 z "
+       transform="translate(0,452.36218)"
+       id="rect3797" />
+    <text
+       xml:space="preserve"
+       style="font-size:14.73285388999999900px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.36832133000000000;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       x="559.16394"
+       y="876.2774"
+       id="text3169"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3171"
+         x="559.16394"
+         y="876.2774"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff0000;stroke-width:0.36832133000000000;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended;stroke:none">REACTOR</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3173"
+       y="910.62262"
+       x="562.69952"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:#ffff00;stroke-width:0.36832133;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       xml:space="preserve"><tspan
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffff00;stroke-width:0.36832133;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+         y="910.62262"
+         x="562.69952"
+         id="tspan3175"
+         sodipodi:role="line">STATE:</tspan><tspan
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffff00;stroke-width:0.36832133;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+         y="925.62262"
+         x="562.69952"
+         sodipodi:role="line"
+         id="tspan3177">ENERGY:</tspan><tspan
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffff00;stroke-width:0.36832133;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+         y="940.62262"
+         x="562.69952"
+         sodipodi:role="line"
+         id="tspan3238">DAMAGE:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.73285389px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:77.99999714%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       x="567.75562"
+       y="579.56067"
+       id="text3169-1"
+       sodipodi:linespacing="77.999997%"><tspan
+         sodipodi:role="line"
+         id="tspan3171-7"
+         x="567.75562"
+         y="579.56067"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:77.99999714%;fill:#ff0000;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended">WARP</tspan><tspan
+         sodipodi:role="line"
+         x="567.75562"
+         y="591.05231"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:77.99999714%;fill:#ff0000;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+         id="tspan3925">SYSTEM</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3173-4"
+       y="626.02765"
+       x="562.70483"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:#ffff00;stroke-width:0.36832133;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       xml:space="preserve"><tspan
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffff00;stroke-width:0.36832133;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+         y="626.02765"
+         x="562.70483"
+         id="tspan3175-0"
+         sodipodi:role="line">STATE:</tspan><tspan
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffff00;stroke-width:0.36832133;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+         y="641.02765"
+         x="562.70483"
+         sodipodi:role="line"
+         id="tspan3177-9">CHARGE</tspan><tspan
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffff00;stroke-width:0.36832133;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+         y="656.02765"
+         x="562.70483"
+         sodipodi:role="line"
+         id="tspan3216">PERCENT:</tspan><tspan
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffff00;stroke-width:0.36832133;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+         y="671.02765"
+         x="562.70483"
+         sodipodi:role="line"
+         id="tspan3236">DAMAGE:</tspan></text>
+    <path
+       style="color:#000000;fill:none;stroke:#ffff00;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 564.42893,111.5625 c -4.89444,0 -8.84375,3.91806 -8.84375,8.8125 l -0.49143,89.46875 c 0,11.08448 8.91552,20 20,20 l 157.4375,0 c 11.08448,0 20,-8.91552 20,-20 l 0,-52.21875 c 0,-11.08448 -8.91552,-20 -20,-20 l -65.53125,0 0,-17.25 c 0,-4.89444 -3.94931,-8.8125 -8.84375,-8.8125 z"
+       transform="translate(0,452.36218)"
+       id="rect3179-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sccssssscsss" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3220"
+       y="744.98523"
+       x="562.19977"
+       style="font-size:14.73285389px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff0000;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+         y="744.98523"
+         x="562.19977"
+         id="tspan3222"
+         sodipodi:role="line">ENGINES</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.63337993999999900px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:149.99998951%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:#ffff00;stroke-width:0.44914883000000000;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       x="563.11914"
+       y="778.19452"
+       id="text3224"
+       sodipodi:linespacing="149.99998951%"><tspan
+         sodipodi:role="line"
+         id="tspan3226"
+         x="563.11914"
+         y="778.19452"
+         style="font-size:14.63337993999999900px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:149.99998951%;fill:#ffff00;stroke-width:0.44914883000000000;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended">STATE:</tspan><tspan
+         id="tspan3230"
+         sodipodi:role="line"
+         x="563.11914"
+         y="813.75366"
+         style="font-size:14.63337993999999900px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:149.99998951%;fill:#ffff00;stroke-width:0.44914883000000000;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended">DAMAGE:</tspan><tspan
+         sodipodi:role="line"
+         x="563.11914"
+         y="849.31274"
+         style="font-size:14.63337993999999900px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:149.99998951%;fill:#ffff00;stroke-width:0.44914883000000000;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+         id="tspan3932">THROTTLE:</tspan></text>
+    <path
+       style="fill:none;stroke:#ffff00;stroke-width:5.8499999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 553.03194,926.92785 -119.10879,-128.49604 0,-50.71429"
+       id="path3240"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#ffff00;stroke-width:5.8499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 455.94707,788.37233 19.28571,19.28571 80,0"
+       id="path4010"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ffff00;stroke-width:5.8499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 495.84554,742.1381 25.10153,24.09137 34.28571,0"
+       id="path4012"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#ffff00;stroke-width:5.8499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 418.08993,698.37233 49.64285,-49.64286 86.07143,0"
+       id="path4014"
+       inkscape:connector-curvature="0" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3919"
+       y="579.83868"
+       x="38.044689"
+       style="font-size:24.95002937px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       xml:space="preserve"><tspan
+         y="579.83868"
+         x="38.044689"
+         id="tspan3921"
+         sodipodi:role="line">ALERTS</tspan></text>
+    <path
+       sodipodi:nodetypes="sccssssscsss"
+       inkscape:connector-curvature="0"
+       id="path3928"
+       d="m 565.94416,724.53894 c -4.89444,0 -8.84375,3.91806 -8.84375,8.8125 l -0.49143,89.46875 c 0,11.08448 8.91552,20 20,20 l 157.4375,0 c 11.08448,0 20,-8.91552 20,-20 l 0,-52.21875 c 0,-11.08448 -8.91552,-20 -20,-20 l -65.53125,0 0,-17.25 c 0,-4.89444 -3.94931,-8.8125 -8.84375,-8.8125 z"
+       style="color:#000000;fill:none;stroke:#ffff00;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       style="color:#000000;fill:none;stroke:#ffff00;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 565.94416,856.36385 c -4.89444,0 -8.84375,3.91806 -8.84375,8.8125 l -0.49143,66.23524 c 0,11.08448 8.91552,20 20,20 l 124.60754,0 c 11.08448,0 20,-8.91552 20,-20 l 0,-28.98524 c 0,-11.08448 -8.91552,-20 -20,-20 l -32.70129,0 0,-17.25 c 0,-4.89444 -3.94931,-8.8125 -8.84375,-8.8125 z"
+       id="path3936"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sccssssscsss" />
+  </g>
+</svg>

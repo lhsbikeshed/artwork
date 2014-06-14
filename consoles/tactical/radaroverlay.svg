@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="radaroverlay.svg"
+   inkscape:export-filename="C:\Users\tom\Dropbox\starship\pilotconsole\data\overlayImage.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path3859"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.56114725"
+     inkscape:cx="491.51361"
+     inkscape:cy="639.63985"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-5"
+     inkscape:window-y="-5"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer">
+    <path
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.69999981;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -92.935359,-23.653174 0,769.017484 1023.995719,0 0,-769.017484 -1023.995719,0 z m 32.799863,12.816968 955.156006,0 c 10.13025,0 18.27992,8.1604947 18.27992,18.304214 l 0,705.253112 c 0,10.14372 -8.14967,18.30422 -18.27992,18.30422 l -955.156006,0 c -10.130244,0 -18.279924,-8.1605 -18.279924,-18.30422 l 0,-705.253112 c 0,-10.1437193 8.14968,-18.304214 18.279924,-18.304214 z"
+       id="rect3019"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="color:#000000;fill:#1a1a1a;stroke:#ffff00;stroke-width:7.62954377999999970;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3351"
+       width="342.79068"
+       height="212.80444"
+       x="569.49054"
+       y="517.94"
+       ry="20.000452" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3353"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       transform="matrix(2.1931487,0,0,2.1960635,-525.20818,-804.24003)"><flowRegion
+         id="flowRegion3355"><rect
+           id="rect3357"
+           width="131.31982"
+           height="35.355339"
+           x="509.11688"
+           y="604.86462"
+           style="fill:#ff0000" /></flowRegion><flowPara
+         id="flowPara3359">SYSTEM STATUS</flowPara></flowRoot>  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="color:#000000;fill:none;stroke:#ffff00;stroke-width:4.97591448;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3866"
+       width="994.66193"
+       height="743.44836"
+       x="-81.044533"
+       y="-9.9465866"
+       ry="18.348949" />
+    <rect
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:#ffff00;stroke-width:6.26255989;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3868"
+       width="490.58957"
+       height="59.705456"
+       x="-80.569641"
+       y="-9.2268057"
+       ry="13.519601"
+       rx="12.549628" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5138"
+       y="34.044983"
+       x="-68.900566"
+       style="font-size:45.027771px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:1.12569416;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       xml:space="preserve"><tspan
+         style="fill:#ff0000;stroke:#ff0000;stroke-width:1.12569416"
+         y="34.044983"
+         x="-68.900566"
+         id="tspan5140"
+         sodipodi:role="line">SENSORS</tspan></text>
+    <rect
+       style="color:#000000;fill:#1a1a1a;stroke:#ffff00;stroke-width:7.06623793;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3351-1"
+       width="343.35397"
+       height="182.24138"
+       x="570.55237"
+       y="-10.458475"
+       ry="17.127979" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3353-7"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       transform="matrix(2.1931487,0,0,2.1960635,-526.53769,-1335.8611)"><flowRegion
+         id="flowRegion3355-4"><rect
+           id="rect3357-0"
+           width="131.31982"
+           height="35.355339"
+           x="509.11688"
+           y="604.86462"
+           style="fill:#ff0000" /></flowRegion><flowPara
+         id="flowPara3359-9">TARGET INFO</flowPara></flowRoot>  </g>
+</svg>

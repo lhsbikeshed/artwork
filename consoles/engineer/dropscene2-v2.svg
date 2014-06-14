@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="dropscene2-v2.svg"
+   inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\dropscene2.png"
+   inkscape:export-xdpi="115.2"
+   inkscape:export-ydpi="115.2"
+   sodipodi:version="0.32"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective25" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.80496421"
+     inkscape:cx="698.81381"
+     inkscape:cy="488.48325"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1430"
+     inkscape:window-height="1004"
+     inkscape:window-x="-3"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.30433083;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect2985"
+       width="800"
+       height="600"
+       x="-18.539585"
+       y="84.399925"
+       ry="0"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\dropnew.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2" />
+    <g
+       id="g3160"
+       transform="matrix(0.37653183,0,0,0.37653183,437.97538,-64.213462)"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\dropnew.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2">
+      <path
+         transform="matrix(0.65129263,0,0,0.65129263,499.63349,366.87797)"
+         d="M 15.121324,413.48682 -351.7118,411.05945 -166.19307,94.586332 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="1.5774133"
+         sodipodi:arg1="0.53021579"
+         sodipodi:r2="125.15932"
+         sodipodi:r1="211.79584"
+         sodipodi:cy="306.37753"
+         sodipodi:cx="-167.59451"
+         sodipodi:sides="3"
+         id="path4200"
+         style="color:#000000;fill:#ffff00;fill-opacity:1;stroke:#267575;stroke-width:1.75999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.51960784;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="star" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4202"
+         y="617.77148"
+         x="362.57278"
+         style="font-size:206.79919434px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="617.77148"
+           x="362.57278"
+           id="tspan4204"
+           sodipodi:role="line">!</tspan></text>
+    </g>
+    <rect
+       style="fill:#4d4d4d;stroke:#ffff00;stroke-width:4.30000019;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect3671"
+       width="713.0752"
+       height="361.50674"
+       x="37.268738"
+       y="302.01825"
+       ry="44.722485"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\dropnew.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2" />
+    <text
+       xml:space="preserve"
+       style="font-size:37.88477325px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       x="-8.3714933"
+       y="125.74284"
+       id="text3026"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\dropnew.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2"><tspan
+         sodipodi:role="line"
+         x="-8.3714933"
+         y="125.74284"
+         id="tspan3030">POWER WARNING</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4334"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       transform="translate(-64.125576,-104.53347)"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\dropnew.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2"><flowRegion
+         id="flowRegion4336"><rect
+           id="rect4338"
+           width="704.50293"
+           height="102.7766"
+           x="53.584385"
+           y="246.83954"
+           style="font-size:28px;fill:#ffff00" /></flowRegion><flowPara
+         id="flowPara4340">JUMP SYSTEM OFFLINE</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4342"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       transform="translate(-54.462818,-178.32181)"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\dropnew.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2"><flowRegion
+         id="flowRegion4344"><rect
+           id="rect4346"
+           width="698.35388"
+           height="165.58455"
+           x="62.36871"
+           y="360.15735"
+           style="font-size:14px;fill:#ffff00" /></flowRegion><flowPara
+         id="flowPara2413">&gt; INSTRUCT TACTICAL CREWMEMBER TO REMOVE THE ACCESS PANEL ON CONDUIT #3 (ABOVE THEIR HEAD)</flowPara><flowPara
+         id="flowPara3014">&gt; IF CONNECTED IN WRONG ORDER, <flowSpan
+   style="fill:#ff0000"
+   id="flowSpan3067">DISCONNECT ALL CABLES</flowSpan> AND START AGAIN</flowPara><flowPara
+         id="flowPara3021">&gt; CONNECT <flowSpan
+   style="fill:#ff0000"
+   id="flowSpan3023">COLOUR</flowSpan> TO <flowSpan
+   style="fill:#ff0000"
+   id="flowSpan3025">COLOUR </flowSpan></flowPara></flowRoot>    <rect
+       style="fill:#000000;stroke:#ffff00;stroke-width:6.40000009999999970;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect3086"
+       width="635.98517"
+       height="191.49831"
+       x="33.380436"
+       y="755.45197"
+       ry="33.541862"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\dropFailOverlay.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2" />
+    <text
+       xml:space="preserve"
+       style="font-size:29.39840698px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       x="57.336937"
+       y="798.77356"
+       id="text3026-8"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\dropFailOverlay.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2"><tspan
+         sodipodi:role="line"
+         x="57.336937"
+         y="798.77356"
+         id="tspan3030-0">POWER ROUTING FAILED</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4334-1"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       transform="translate(3.1516564,563.40382)"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\dropFailOverlay.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2"><flowRegion
+         id="flowRegion4336-2"><rect
+           id="rect4338-5"
+           width="704.50293"
+           height="102.7766"
+           x="53.584385"
+           y="246.83954"
+           style="font-size:28px;fill:#ffff00" /></flowRegion><flowPara
+         id="flowPara4340-0">DISCONNECT ALL CABLES</flowPara><flowPara
+         id="flowPara3088">AND START AGAIN</flowPara></flowRoot>    <g
+       id="g3160-9"
+       transform="matrix(0.38842867,0,0,0.38842867,398.93038,684.35116)"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\dropFailOverlay.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2">
+      <path
+         transform="matrix(0.65129263,0,0,0.65129263,499.63349,366.87797)"
+         d="M 15.121324,413.48682 -351.7118,411.05945 -166.19307,94.586332 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="1.5774133"
+         sodipodi:arg1="0.53021579"
+         sodipodi:r2="125.15932"
+         sodipodi:r1="211.79584"
+         sodipodi:cy="306.37753"
+         sodipodi:cx="-167.59451"
+         sodipodi:sides="3"
+         id="path4200-4"
+         style="color:#000000;fill:#ffff00;fill-opacity:1;stroke:#267575;stroke-width:1.75999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.51960784;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="star" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4202-7"
+         y="617.77148"
+         x="362.57278"
+         style="font-size:206.79919434px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="617.77148"
+           x="362.57278"
+           id="tspan4204-8"
+           sodipodi:role="line">!</tspan></text>
+    </g>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4591"
+       d="m 723.70098,468.48529 c -90.96554,0 -112.47359,-121.77188 -199.89474,-122.92441"
+       style="fill:none;stroke:#262626;stroke-width:13.30000019;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\dropnew.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2" />
+    <g
+       transform="matrix(0,1,-1,0,912.31426,212.44102)"
+       id="use3749"
+       inkscape:tile-x0="258.32125"
+       inkscape:tile-y0="322.24509"
+       inkscape:tile-cx="391.62339"
+       inkscape:tile-cy="344.42551"
+       inkscape:tile-w="266.60429"
+       inkscape:tile-h="44.36084"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\dropnew.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2">
+      <path
+         sodipodi:nodetypes="sssccss"
+         inkscape:connector-curvature="0"
+         id="path3761"
+         d="m 120.78448,387.38872 22.40003,0 c 6.08314,0 10.9804,4.89726 10.9804,10.98041 l 0,50.50987 -44.36084,0 0,-50.50987 c 0,-6.08315 4.89726,-10.98041 10.98041,-10.98041 z"
+         style="fill:none;stroke:#ffff00;stroke-width:7.74499989;stroke-miterlimit:4" />
+      <path
+         style="fill:none;stroke:#ffff00;stroke-width:7.74499989;stroke-miterlimit:4"
+         d="m 120.78448,653.99301 22.40003,0 c 6.08314,0 10.9804,-4.89726 10.9804,-10.98041 l 0,-50.50987 -44.36084,0 0,50.50987 c 0,6.08315 4.89726,10.98041 10.98041,10.98041 z"
+         id="path3763"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssccss" />
+    </g>
+    <path
+       style="fill:none;stroke:#262626;stroke-width:13.30000019;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 60.872272,468.48529 c 90.965538,0 112.473588,-121.77188 199.894738,-122.92441"
+       id="path3789"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\dropnew.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4561"
+       d="m 60.872272,468.48529 c 90.965538,0 106.324568,-55.011 193.745718,-56.16353"
+       style="fill:none;stroke:#262626;stroke-width:13.30000019;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\dropnew.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4565"
+       d="m 60.872272,481.71793 c 90.965538,0 108.959858,0.54818 196.381008,1.70071"
+       style="fill:none;stroke:#262626;stroke-width:13.30000019;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\dropnew.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4587"
+       d="m 60.872272,494.01598 c 90.965538,0 112.473588,121.77188 199.894738,122.92441"
+       style="fill:none;stroke:#262626;stroke-width:13.30000019;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\dropnew.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2" />
+    <path
+       style="fill:none;stroke:#262626;stroke-width:13.30000019;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 723.70098,468.48529 c -90.96554,0 -106.32457,-55.011 -193.74572,-56.16353"
+       id="path4593"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\dropnew.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use3749"
+       xlink:href="#use3749"
+       id="use4577"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\dropnew.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2" />
+    <path
+       style="fill:none;stroke:#262626;stroke-width:13.30000019;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 60.872272,494.01598 c 90.965538,0 106.324568,55.011 193.745718,56.16353"
+       id="path4589"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\dropnew.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2" />
+    <path
+       style="fill:none;stroke:#262626;stroke-width:13.30000019;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 723.70098,481.71793 c -90.96554,0 -108.95986,0.54818 -196.38101,1.70071"
+       id="path4595"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\dropnew.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use3749"
+       xlink:href="#use3749"
+       transform="translate(0,68.315694)"
+       id="use4579"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\dropnew.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2" />
+    <path
+       style="fill:none;stroke:#262626;stroke-width:13.30000019;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 723.70098,494.01598 c -90.96554,0 -112.47359,121.77188 -199.89474,122.92441"
+       id="path4597"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\dropnew.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use3749"
+       xlink:href="#use3749"
+       transform="translate(0,136.63139)"
+       id="use4581"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\dropnew.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4599"
+       d="m 723.70098,494.01598 c -90.96554,0 -106.32457,55.011 -193.74572,56.16353"
+       style="fill:none;stroke:#262626;stroke-width:13.30000019;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\dropnew.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use3749"
+       xlink:href="#use3749"
+       transform="translate(0,204.94708)"
+       id="use4583"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\dropnew.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use3749"
+       xlink:href="#use3749"
+       transform="translate(0,273.26277)"
+       id="use4585"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\dropnew.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2" />
+    <path
+       style="fill:#4d4d4d;stroke:#ffff00;stroke-width:2.26581073000000010;stroke-miterlimit:4;fill-opacity:1"
+       d="M 870.625 446.8125 C 857.56958 446.8125 847.03125 457.31958 847.03125 470.375 L 847.03125 613.75 C 847.03125 626.80542 857.56958 637.3125 870.625 637.3125 L 1199.2188 637.3125 C 1212.2742 637.3125 1222.7812 626.80542 1222.7812 613.75 L 1222.7812 470.375 C 1222.7812 457.31958 1212.2741 446.8125 1199.2188 446.8125 L 870.625 446.8125 z M 888.59375 519.90625 L 939.09375 519.90625 L 939.09375 564.25 L 888.59375 564.25 C 882.5106 564.25 877.625 559.36439 877.625 553.28125 L 877.625 530.875 C 877.625 524.79185 882.5106 519.90625 888.59375 519.90625 z M 1082.7188 519.90625 L 1133.25 519.90625 C 1139.3331 519.90625 1144.2188 524.79185 1144.2188 530.875 L 1144.2188 553.28125 C 1144.2188 559.36439 1139.3331 564.25 1133.25 564.25 L 1082.7188 564.25 L 1082.7188 519.90625 z "
+       id="rect4607" />
+    <use
+       id="use4601"
+       xlink:href="#use3749"
+       inkscape:tiled-clone-of="#use3749"
+       y="0"
+       x="0"
+       transform="translate(620.1734,196.76888)"
+       width="744.09448"
+       height="1052.3622"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\dropPlugs.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2" />
+  </g>
+</svg>

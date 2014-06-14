@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="launch.svg"
+   inkscape:export-filename="C:\Users\tom\Dropbox\starship\pilotconsole\data\launchdisplay.png"
+   inkscape:export-xdpi="115.2"
+   inkscape:export-ydpi="115.2">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path3859"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="386.17583"
+     inkscape:cy="560.24623"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-5"
+     inkscape:window-y="-5"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer">
+    <rect
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.69999981;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3019"
+       width="800"
+       height="600"
+       x="0"
+       y="145.24519"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\pilotconsole\data\launchdisplay.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="color:#000000;fill:none;stroke:#ffff00;stroke-width:3.875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3866"
+       width="774.78699"
+       height="578.81738"
+       x="13.217606"
+       y="155.23486"
+       ry="14.285714"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\pilotconsole\data\launchdisplay.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2" />
+    <rect
+       style="color:#000000;fill:none;stroke:#ffff00;stroke-width:6.26255989;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3868"
+       width="416.84842"
+       height="57.68515"
+       x="14.242958"
+       y="154.72304"
+       ry="13.519601"
+       rx="12.549628"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\pilotconsole\data\launchdisplay.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5138"
+       y="197.99483"
+       x="25.912033"
+       style="font-size:45.027771px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:1.12569416;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\pilotconsole\data\launchdisplay.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2"><tspan
+         style="fill:#ff0000;stroke:#ff0000;stroke-width:1.12569416"
+         y="197.99483"
+         x="25.912033"
+         id="tspan5140"
+         sodipodi:role="line">PILOT SHIP</tspan></text>
+    <rect
+       rx="12.682364"
+       ry="3.7780871"
+       y="213.86493"
+       x="12.775711"
+       height="71.731346"
+       width="280.3819"
+       id="rect5144"
+       style="color:#000000;fill:none;stroke:#ffff00;stroke-width:3.32805586;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\pilotconsole\data\launchdisplay.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3814"
+       d="m -159.40136,597.41726 25.875,25.90625 1.6875,1.65625 0,2.375 0,34.8125 -11.40625,0 0,-32.4375 -24.21875,-24.25 8.0625,-8.0625 z"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:3.29999995;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\pilotconsole\data\shipfeet.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2" />
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:3.29999995;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m -359.90137,597.41726 -25.875,25.90625 -1.6875,1.65625 0,2.375 0,34.8125 11.40625,0 0,-32.4375 24.21875,-24.25 -8.0625,-8.0625 z"
+       id="path3808"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\pilotconsole\data\shipfeet.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2" />
+    <rect
+       style="fill:none;stroke:#ffffff;stroke-width:7.90458965;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3022"
+       width="592.09546"
+       height="322.0954"
+       x="98.952293"
+       y="356.31448"
+       rx="12.348337"
+       ry="3.7882829"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\pilotconsole\data\launchdisplay.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:6.9220953;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -261.90583,384.94851 c -5.03662,0 -9.09375,1.43407 -9.09375,3.25 l 0,62.46875 c -15.44672,4.29705 -26.78125,18.46503 -26.78125,35.28125 0,11.53551 5.35137,21.81929 13.6875,28.53125 l -68.6875,0 c -5.91924,0 -10.6875,1.46532 -10.6875,3.28125 l 0,116.6875 c 0,1.81593 4.76826,3.28125 10.6875,3.28125 l 185.78125,0 c 5.91924,0 10.6875,-1.46532 10.6875,-3.28125 l 0,-116.6875 c 0,-1.81593 -4.76826,-3.28125 -10.6875,-3.28125 l -71.21875,0 c 8.33613,-6.71196 13.6875,-16.99574 13.6875,-28.53125 0,-17.35209 -12.0795,-31.87903 -28.28125,-35.65625 l 0,-62.09375 c 0,-1.81593 -4.05713,-3.25 -9.09375,-3.25 z"
+       id="rect3798"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\pilotconsole\data\shipbehind.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#979797;stroke-width:7.19999981;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.64978901;stroke-dasharray:none"
+       id="rect2995"
+       width="167.85715"
+       height="24.285715"
+       x="310"
+       y="669.50507"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\pilotconsole\data\launchdisplay.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2" />
+  </g>
+</svg>

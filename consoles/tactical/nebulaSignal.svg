@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="nebulaSignal.svg"
+   inkscape:export-filename="C:\Users\tom\Dropbox\starship\tacticalconsole\data\nebulaSignal.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="417.08333"
+     inkscape:cy="561.74526"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="759"
+     inkscape:window-height="442"
+     inkscape:window-x="132"
+     inkscape:window-y="132"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#000000"
+       id="rect2985"
+       width="1024"
+       height="768"
+       x="-72.730995"
+       y="86.372299"
+       ry="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer">
+    <rect
+       style="fill:#000000;stroke:#ffff00;stroke-width:4.80000019;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2988"
+       width="1004.0915"
+       height="749.53308"
+       x="-62.629456"
+       y="95.747719"
+       ry="8.0812197" />
+    <rect
+       ry="2.1422451"
+       y="98.338852"
+       x="-61.08437"
+       height="83.660294"
+       width="577.62482"
+       id="rect3758"
+       style="fill:#000000;stroke:#ffff00;stroke-width:6.34116602;stroke-miterlimit:4;stroke-dasharray:none" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3760"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:85.00000237999999800%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       transform="translate(-27.274119,-12.121831)"><flowRegion
+         id="flowRegion3762"><rect
+           id="rect3764"
+           width="845.49768"
+           height="144.45181"
+           x="-29.294424"
+           y="123.02184"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:85.00000237999999800%;fill:#ff0000;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended;stroke:none" /></flowRegion><flowPara
+         id="flowPara3766">DISTRESS SIGNAL TRACKING</flowPara></flowRoot>    <path
+       style="fill:#000000;stroke:#ffff00;stroke-width:7.74499989;stroke-miterlimit:4"
+       d="m 866.49645,671.93196 -845.191563,0 c -6.474828,0 -11.6874153,-5.21259 -11.6874153,-11.68741 l 0,-433.04943"
+       id="rect3768"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssc" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3771"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended;font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion3773"><rect
+           id="rect3775"
+           width="523.25903"
+           height="42.426407"
+           x="130.30968"
+           y="461.42294"
+           style="fill:#ffff00;stroke:none;-inkscape-font-specification:Hanzel Extended;font-family:Hanzel Extended;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal" /></flowRegion><flowPara
+         id="flowPara3777">SIGNAL STRENGTH</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3779"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       transform="matrix(0,-0.6413328,0.6413328,0,-334.26793,774.64618)"><flowRegion
+         id="flowRegion3781"><rect
+           id="rect3783"
+           width="685.89355"
+           height="108.08633"
+           x="241.42645"
+           y="464.4534"
+           style="fill:#ffff00" /></flowRegion><flowPara
+         id="flowPara3785">SIGNAL STRENGTH</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#ffff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 13.131983,298.78838 845.497677,0"
+       id="path3787"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3789"
+       d="m 13.131983,395.76302 845.497677,0"
+       style="fill:none;stroke:#ffff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3791"
+       d="m 13.131983,486.67675 845.497677,0"
+       style="fill:none;stroke:#ffff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#ffff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 13.131983,583.65139 845.497677,0"
+       id="path3793"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#000000;stroke:#ffff00;stroke-width:7.43556881;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect3795"
+       width="943.21582"
+       height="70.444061"
+       x="-37.303665"
+       y="755.48517"
+       ry="1.8038237" />
+    <flowRoot
+       transform="translate(4.0406099,646.49762)"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:85.00000238%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       id="flowRoot3797"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3799"><rect
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:85.00000238%;fill:#ffff00;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+           y="123.02184"
+           x="-29.294424"
+           height="144.45181"
+           width="845.49768"
+           id="rect3801" /></flowRegion><flowPara
+         id="flowPara3805">THE <flowSpan
+   style="fill:#ff0000"
+   id="flowSpan3813">MAIN SHIP ANTENNA</flowSpan> IS DIRECTIONAL, ROTATE THE SHIP UNTIL THE SIGNAL STRENGTH IS <flowSpan
+   style="font-weight:bold;fill:#ff0000"
+   id="flowSpan3809">HIGHEST</flowSpan>. FLY IN THAT DIRECTION TO FIND THE SOURCE</flowPara></flowRoot>  </g>
+</svg>
