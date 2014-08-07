@@ -236,50 +236,6 @@
     </linearGradient>
     <radialGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4638-7"
-       id="radialGradient4655"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,0.93381227,0,36.512321)"
-       cx="-24.285713"
-       cy="551.64789"
-       fx="-24.285713"
-       fy="551.64789"
-       r="146.15289" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4638-7"
-       id="radialGradient4657"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,0.93381227,0,36.512321)"
-       cx="-24.285713"
-       cy="551.64789"
-       fx="-24.285713"
-       fy="551.64789"
-       r="146.15289" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4638-7"
-       id="radialGradient4659"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,0.93381227,0,36.512321)"
-       cx="-24.285713"
-       cy="551.64789"
-       fx="-24.285713"
-       fy="551.64789"
-       r="146.15289" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4638-7"
-       id="radialGradient4661"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,0.93381227,0,36.512321)"
-       cx="-24.285713"
-       cy="551.64789"
-       fx="-24.285713"
-       fy="551.64789"
-       r="146.15289" />
-    <radialGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient4574-1"
        id="radialGradient4695-0"
        gradientUnits="userSpaceOnUse"
@@ -340,14 +296,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="213.63506"
-     inkscape:cy="652.98748"
+     inkscape:zoom="0.60839844"
+     inkscape:cx="36.931683"
+     inkscape:cy="579.21976"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-height="1057"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -602,7 +558,7 @@
     </g>
     <g
        id="g4771"
-       transform="translate(227.94529,18.448877)"
+       transform="translate(-250.35968,7.7650886)"
        inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\powerman2.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
@@ -622,156 +578,20 @@
            id="flowPara4904">LIFE SUPPORT</flowPara><flowPara
            id="flowPara4906" /></flowRoot>      <flowRoot
          transform="matrix(0.8118025,0,0,0.8118025,-174.32961,577.63381)"
-         style="font-size:13.55009365000000100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+         style="font-size:13.55009365px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
          id="flowRoot4918"
          xml:space="preserve"><flowRegion
            id="flowRegion4920"><rect
-             style="font-size:13.55009365000000100px;text-align:end;text-anchor:end;fill:#ffffff;stroke:none"
+             style="font-size:13.55009365px;text-align:end;text-anchor:end;fill:#ffffff;stroke:none"
              y="94.737572"
              x="376.28183"
              height="85.357887"
              width="223.24371"
              id="rect4922" /></flowRegion><flowPara
-           id="flowPara4924">CABIN O2 LEVEL:</flowPara><flowPara
-           id="flowPara4126">DAMAGE:</flowPara><flowPara
-           id="flowPara4926" /></flowRoot>      <path
-         style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:3.63933730000000020;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         d="m 142.44024,642.03247 12.89701,0 c 5.50666,0 9.93982,3.71851 9.93982,8.33746 l 0,34.02473 -32.77664,0 0,-34.02473 c 0,-4.61895 4.43315,-8.33746 9.93981,-8.33746 z"
-         id="rect4872"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="sssccss" />
-      <text
-         xml:space="preserve"
-         style="font-size:10.35451411999999900px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:#ffffff;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
-         x="138.16922"
-         y="658.82068"
-         id="text5413"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan5415"
-           x="138.16922"
-           y="658.82068">O</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:6.10771941999999960px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:#ffffff;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
-         x="149.91922"
-         y="661.70557"
-         id="text5417"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan5419"
-           x="149.91922"
-           y="661.70557">2</tspan></text>
-    </g>
-    <g
-       transform="matrix(0.53933239,0,0,0.53933239,103.74248,660.53852)"
-       id="g4484"
-       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\powerman2.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <path
-         sodipodi:type="star"
-         style="fill:url(#radialGradient4655);fill-opacity:1;stroke:#00ffff;stroke-width:6.5;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         id="path4699"
-         sodipodi:sides="6"
-         sodipodi:cx="-24.285713"
-         sodipodi:cy="551.64789"
-         sodipodi:r1="144.15305"
-         sodipodi:r2="72.076523"
-         sodipodi:arg1="0.91540282"
-         sodipodi:arg2="1.4390016"
-         inkscape:flatsided="true"
-         inkscape:rounded="0"
-         inkscape:randomized="0"
-         d="M 63.571426,665.9336 -79.331472,684.87726 -167.18861,570.59155 -112.14285,437.36218 30.760046,418.41852 118.61719,532.70423 z"
-         inkscape:transform-center-x="5.863676"
-         inkscape:transform-center-y="-2.9673243"
-         transform="matrix(0.22366124,0.03084144,-0.03084144,0.22366124,500.94057,31.373632)" />
-      <path
-         transform="matrix(0.22366124,0.03084144,-0.03084144,0.22366124,550.22629,59.945062)"
-         inkscape:transform-center-y="-2.9673243"
-         inkscape:transform-center-x="5.863676"
-         d="M 63.571426,665.9336 -79.331472,684.87726 -167.18861,570.59155 -112.14285,437.36218 30.760046,418.41852 118.61719,532.70423 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="true"
-         sodipodi:arg2="1.4390016"
-         sodipodi:arg1="0.91540282"
-         sodipodi:r2="72.076523"
-         sodipodi:r1="144.15305"
-         sodipodi:cy="551.64789"
-         sodipodi:cx="-24.285713"
-         sodipodi:sides="6"
-         id="path4701"
-         style="fill:url(#radialGradient4657);fill-opacity:1;stroke:#00ffff;stroke-width:6.5;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         sodipodi:type="star" />
-      <path
-         transform="matrix(0.22366124,0.03084144,-0.03084144,0.22366124,599.512,31.373632)"
-         inkscape:transform-center-y="-2.9673243"
-         inkscape:transform-center-x="5.863676"
-         d="M 63.571426,665.9336 -79.331472,684.87726 -167.18861,570.59155 -112.14285,437.36218 30.760046,418.41852 118.61719,532.70423 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="true"
-         sodipodi:arg2="1.4390016"
-         sodipodi:arg1="0.91540282"
-         sodipodi:r2="72.076523"
-         sodipodi:r1="144.15305"
-         sodipodi:cy="551.64789"
-         sodipodi:cx="-24.285713"
-         sodipodi:sides="6"
-         id="path4705"
-         style="fill:url(#radialGradient4659);fill-opacity:1;stroke:#00ffff;stroke-width:6.5;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         sodipodi:type="star" />
-      <path
-         sodipodi:type="star"
-         style="fill:url(#radialGradient4661);fill-opacity:1;stroke:#00ffff;stroke-width:6.5;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         id="path4703"
-         sodipodi:sides="6"
-         sodipodi:cx="-24.285713"
-         sodipodi:cy="551.64789"
-         sodipodi:r1="144.15305"
-         sodipodi:r2="72.076523"
-         sodipodi:arg1="0.91540282"
-         sodipodi:arg2="1.4390016"
-         inkscape:flatsided="true"
-         inkscape:rounded="0"
-         inkscape:randomized="0"
-         d="M 63.571426,665.9336 -79.331472,684.87726 -167.18861,570.59155 -112.14285,437.36218 30.760046,418.41852 118.61719,532.70423 z"
-         inkscape:transform-center-x="5.863676"
-         inkscape:transform-center-y="-2.9673243"
-         transform="matrix(0.22366124,0.03084144,-0.03084144,0.22366124,550.22629,3.5164923)" />
-      <flowRoot
-         transform="matrix(1.9808949,0,0,1.9808949,-192.01392,-1014.0008)"
-         style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
-         id="flowRoot4802"
-         xml:space="preserve"><flowRegion
-           id="flowRegion4804"><rect
-             style="font-size:9px;fill:#ffff00"
-             y="561.64789"
-             x="405"
-             height="107.14285"
-             width="208.57143"
-             id="rect4806" /></flowRegion><flowPara
-           style="fill:#ff0000;fill-opacity:1"
-           id="flowPara4504">WARP FIELD ARRAY</flowPara><flowPara
-           id="flowPara4812">  </flowPara></flowRoot>      <flowRoot
-         xml:space="preserve"
-         id="flowRoot4510"
-         style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
-         transform="matrix(1.9808949,0,0,1.9808949,-478.08188,-994.13497)"><flowRegion
-           id="flowRegion4512"><rect
-             id="rect4514"
-             width="208.57143"
-             height="107.14285"
-             x="405"
-             y="561.64789"
-             style="font-size:9px;text-align:end;text-anchor:end;fill:#ffff00;stroke:none" /></flowRegion><flowPara
-           id="flowPara4516"
-           style="text-align:end;text-anchor:end;fill:#ffff00;fill-opacity:1;stroke:none">CHARGE:</flowPara><flowPara
-           id="flowPara4520"
-           style="text-align:end;text-anchor:end;fill:#ffff00;fill-opacity:1;stroke:none" /><flowPara
-           id="flowPara4518">  </flowPara></flowRoot>    </g>
+           id="flowPara4924">CABIN O<flowSpan
+   style="font-size:80.06873593%;baseline-shift:sub"
+   id="flowSpan3376">2</flowSpan> LEVEL:</flowPara><flowPara
+           id="flowPara4926" /></flowRoot>    </g>
     <path
        style="fill:#000000;fill-opacity:0.59071733;stroke:#ffff00;stroke-width:2.88499355;stroke-linecap:round;stroke-miterlimit:3.0999999;stroke-opacity:1;stroke-dasharray:none"
        d="m 221.0301,177.72881 c -6.63741,0 -11.98855,6.63975 -11.98855,14.89161 l 0,7.90277 c -1.3174,-1.09462 -2.88631,-1.74721 -4.59651,-1.74721 -4.59415,0 -8.30597,4.61037 -8.30597,10.32198 l 0,25.72431 c 0,5.7116 3.71182,10.32198 8.30597,10.32198 3.27123,0 6.06773,-2.34779 7.41892,-5.75236 2.19436,3.2419 5.47579,5.29539 9.16614,5.29539 3.47746,0 6.57818,-1.8348 8.76293,-4.75778 1.42447,3.11101 4.10724,5.21475 7.20388,5.21475 4.59415,0 8.30597,-4.61038 8.30597,-10.32198 l 0,-25.72431 c 0,-5.71161 -3.71182,-10.32198 -8.30597,-10.32198 -1.46022,0 -2.81588,0.47309 -4.00514,1.29024 l 0,-7.4458 c 0,-8.25186 -5.32427,-14.89161 -11.96167,-14.89161 z"
@@ -1264,14 +1084,14 @@
            style="font-size:9px;fill:#ffff00" /></flowRegion><flowPara
          id="flowPara4800">TURBINE  #2:  </flowPara></flowRoot>    <path
        style="fill:#ffffff;fill-opacity:1;stroke:#cdcdcd;stroke-width:4.64200306;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 112.29304,592.53524 -29.839664,0.57997 -37.94973,47.44863 -28.26555,0 c -8.6663996,0 -15.63842964,7.38528 -15.63842964,16.56535 l 0,8.3008 -57.72879036,0 c -5.99421,0 -8.77952,5.64713 -12.18225,10.87439 l -40.824186,62.74528 c -8.84268,13.58401 4.81923,11.45435 10.813446,11.45435 l 188.10616,0 c 5.99421,0 10.81346,-5.10484 10.81346,-11.45435 l 0,-54.55324 4.825004,0 c 8.66639,0 15.63842,-7.38527 15.63842,-16.56533 l 0,-10.8019 c 0,-6.79815 -3.83846,-12.59234 -9.34199,-15.15167 l 1.5741,-49.44228 z"
+       d="m 241.43289,655.81615 -16.46799,0.31766 -20.9438,25.98911 -15.59926,0 c -4.78284,0 -8.63058,4.04515 -8.63058,9.07336 l 0,4.54661 -31.85952,0 c -3.3081,0 -4.84527,3.09311 -6.72317,5.95624 l -22.53016,34.36756 c -4.88012,7.44039 2.65965,6.27391 5.96775,6.27391 l 103.81253,0 c 3.3081,0 5.96776,-2.79608 5.96776,-6.27391 l 0,-29.88052 2.66284,0 c 4.78283,0 8.63057,-4.04514 8.63057,-9.07335 l 0,-5.91654 c 0,-3.72356 -2.11838,-6.89722 -5.15568,-8.29904 l 0.86871,-27.08109 z"
        id="rect2985-1"
        inkscape:connector-curvature="0"
        inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\powerman2.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <flowRoot
-       transform="matrix(1.5411805,0,0,1.5411805,-256.23744,28.808459)"
+       transform="matrix(1.5411805,0,0,1.5411805,-86.118659,19.768331)"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
        id="flowRoot4340-2"
        xml:space="preserve"
@@ -1286,33 +1106,6 @@
            width="187.14285"
            id="rect4344-4" /></flowRegion><flowPara
          id="flowPara4348-9">HULL STATE: </flowPara></flowRoot>    <g
-       id="g4119"
-       transform="matrix(0.88706647,0,0,0.88706647,244.77096,80.008616)"
-       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\powerman2.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <rect
-         style="color:#000000;fill:none;stroke:#ffff00;stroke-width:2.43676996;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect4109"
-         width="376.80478"
-         height="32.65741"
-         x="34.274857"
-         y="608.83276"
-         ry="10.450371" />
-      <flowRoot
-         xml:space="preserve"
-         id="flowRoot4111"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
-         transform="matrix(2.5191257,0,0,2.5191257,67.738155,383.28824)"><flowRegion
-           id="flowRegion4113"><rect
-             id="rect4115"
-             width="222.85715"
-             height="90"
-             x="-10"
-             y="89.505043"
-             style="fill:#ff0000" /></flowRegion><flowPara
-           id="flowPara4117">SYSTEMS REPORT</flowPara></flowRoot>    </g>
-    <g
        id="g4663"
        transform="translate(-725.38489,-401.77458)"
        inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\powerman2.png"
@@ -1482,7 +1275,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path4816"
-       d="m -253.38218,494.55045 -29.83967,0.57997 -37.94973,47.44863 -28.26555,0 c -8.66639,0 -15.63842,7.38528 -15.63842,16.56535 l 0,8.3008 -57.7288,0 c -5.99421,0 -8.77952,5.64713 -12.18225,10.87439 l -40.82418,62.74528 c -8.84268,13.58401 4.81923,11.45435 10.81344,11.45435 l 188.10616,0 c 5.99421,0 10.81346,-5.10484 10.81346,-11.45435 l 0,-54.55324 4.82501,0 c 8.66639,0 15.63842,-7.38527 15.63842,-16.56533 l 0,-10.8019 c 0,-6.79815 -3.83846,-12.59234 -9.34199,-15.15167 l 1.5741,-49.44228 z"
+       d="m -209.00337,504.41241 -29.83967,0.57997 -37.94973,47.44863 -28.26555,0 c -8.66639,0 -15.63842,7.38528 -15.63842,16.56535 l 0,8.3008 -57.7288,0 c -5.99421,0 -8.77952,5.64713 -12.18225,10.87439 l -40.82418,62.74528 c -8.84268,13.58401 4.81923,11.45435 10.81344,11.45435 l 188.10616,0 c 5.99421,0 10.81346,-5.10484 10.81346,-11.45435 l 0,-54.55324 4.82501,0 c 8.66639,0 15.63842,-7.38527 15.63842,-16.56533 l 0,-10.8019 c 0,-6.79815 -3.83846,-12.59234 -9.34199,-15.15167 l 1.5741,-49.44228 z"
        style="fill:#ffffff;fill-opacity:1;stroke:#cdcdcd;stroke-width:4.64200306;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\hulldamageoverlay.png"
        inkscape:export-xdpi="90"
@@ -2058,5 +1851,90 @@
              id="rect4838" /></flowRegion><flowPara
            id="flowPara4842">STATE:</flowPara><flowPara
            id="flowPara4844" /></flowRoot>    </g>
+    <path
+       style="fill:none;stroke:#ffff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -138.06742,618.43602 759.37079,0"
+       id="path3370"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\powerman2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g4119"
+       transform="matrix(0.88706647,0,0,0.88706647,28.629708,64.393849)"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\powerman2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="color:#000000;fill:#000000;stroke:#ffff00;stroke-width:2.43676995999999990;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4109"
+         width="376.80478"
+         height="32.65741"
+         x="34.274857"
+         y="608.83276"
+         ry="10.450371"
+         rx="10.450371" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4111"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+         transform="matrix(2.5191257,0,0,2.5191257,67.738155,383.28824)"><flowRegion
+           id="flowRegion4113"><rect
+             id="rect4115"
+             width="222.85715"
+             height="90"
+             x="-10"
+             y="89.505043"
+             style="fill:#ff0000" /></flowRegion><flowPara
+           id="flowPara4117">SYSTEMS REPORT</flowPara></flowRoot>    </g>
+    <path
+       style="fill:none;stroke:#ffff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 135.19101,708.8373 -26.29856,0 -29.996781,-29.99678"
+       id="path3372"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\powerman2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\hulldamageoverlay.png"
+       inkscape:connector-curvature="0"
+       id="path3374"
+       d="m -234.40659,696.90765 -16.46799,0.31766 -20.9438,25.98911 -15.59926,0 c -4.78284,0 -8.63058,4.04515 -8.63058,9.07336 l 0,4.54661 -31.85952,0 c -3.3081,0 -4.84527,3.09311 -6.72317,5.95624 l -22.53016,34.36756 c -4.88012,7.44039 2.65965,6.27391 5.96775,6.27391 l 103.81253,0 c 3.3081,0 5.96776,-2.79608 5.96776,-6.27391 l 0,-29.88052 2.66284,0 c 4.78283,0 8.63057,-4.04514 8.63057,-9.07335 l 0,-5.91654 c 0,-3.72356 -2.11838,-6.89722 -5.15568,-8.29904 l 0.86871,-27.08109 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:#cdcdcd;stroke-width:4.64200306;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <g
+       id="g3404"
+       transform="translate(11.041308,166.78186)"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\leakIcon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:none;stroke:#ffff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 246.25865,703.02609 26.29856,0 29.99678,-29.99678"
+         id="path3378"
+         inkscape:connector-curvature="0" />
+      <g
+         id="g3380"
+         transform="translate(93.664228,6.0217242)"
+         inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\powerman2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         style="stroke:#ffffff">
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot3382"
+           style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+           transform="matrix(1.2839127,0,0,1.2839127,-295.39342,526.29504)"><flowRegion
+             id="flowRegion3384"><rect
+               id="rect3386"
+               width="223.24371"
+               height="85.357887"
+               x="376.28183"
+               y="94.737572"
+               style="font-size:11px;fill:#ffffff;fill-opacity:1;stroke:none" /></flowRegion><flowPara
+             id="flowPara3388">FUEL LEAK DETECTED</flowPara><flowPara
+             id="flowPara3390" /></flowRoot>      </g>
+    </g>
   </g>
 </svg>

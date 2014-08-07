@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="manual-sec2-page1-2.svg">
+  <defs
+     id="defs4">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5319"
+       id="pattern3893"
+       patternTransform="matrix(9.3489217,0,0,5.1808362,36.767217,357.20061)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5319"
+       id="pattern8453"
+       patternTransform="matrix(9.3489217,0,0,5.1808362,535.39141,357.20061)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_1white"
+       id="pattern5319"
+       patternTransform="matrix(9.8417199,0,0,5.4541388,8.5045012,326.3414)" />
+    <pattern
+       inkscape:stockid="Stripes 1:1 white"
+       id="Strips1_1white"
+       patternTransform="translate(0,0) scale(10,10)"
+       height="1"
+       width="2"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always">
+      <rect
+         id="rect4577"
+         height="2"
+         width="1"
+         y="-0.5"
+         x="0"
+         style="fill:white;stroke:none" />
+    </pattern>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.59284482"
+     inkscape:cx="1009.9036"
+     inkscape:cy="184.29607"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.2677)">
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;stroke:none"
+       id="rect8437"
+       width="499.39279"
+       height="49.411575"
+       x="527.31281"
+       y="357.26169" />
+    <rect
+       y="357.26169"
+       x="28.688557"
+       height="49.411575"
+       width="499.39279"
+       id="rect5317"
+       style="fill:#b3b3b3;fill-opacity:1;stroke:none" />
+    <rect
+       y="350.54834"
+       x="527.42749"
+       height="55.481796"
+       width="499.45233"
+       id="rect8439"
+       style="fill:url(#pattern8453);fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:url(#pattern3893);fill-opacity:1;stroke:none"
+       id="rect3085"
+       width="499.45233"
+       height="55.481796"
+       x="28.803286"
+       y="350.54834" />
+    <path
+       sodipodi:nodetypes="cccccc"
+       inkscape:connector-curvature="0"
+       id="path8441"
+       d="m 527.67808,401.8201 306.33276,0 27.38946,-27.74571 0,-33.39578 -333.51257,0 z"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.9936381px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.9936381px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 29.053891,401.8201 306.332749,0 27.38946,-27.74571 0,-33.39578 -333.512564,0 z"
+       id="path2995"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       transform="matrix(0.94992764,0,0,0.94989078,0.96323486,312.54602)"><flowRegion
+         id="flowRegion2989"><rect
+           id="rect2991"
+           width="440.5311"
+           height="105.8735"
+           x="35.291164"
+           y="34.62038"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended" /></flowRegion><flowPara
+         id="flowPara2993">SECTION 2</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2997"
+       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended Bold"
+       transform="matrix(0.94992764,0,0,0.94989078,-54.543574,158.54732)"><flowRegion
+         id="flowRegion2999"><rect
+           id="rect3001"
+           width="494.30185"
+           height="220.04022"
+           x="127.77836"
+           y="304.78033"
+           style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended Bold" /></flowRegion><flowPara
+         id="flowPara4772">SYSTEM</flowPara><flowPara
+         id="flowPara4776">AUTHORISATION</flowPara><flowPara
+         id="flowPara4778">CODES</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 363.06207,356.73475 166.17527,0"
+       id="path3007"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path8451"
+       d="m 861.68627,356.73475 166.17533,0"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <flowRoot
+       transform="matrix(1.4330008,0,0,1.4329452,494.46785,300.14056)"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       id="flowRoot3009"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3011"><rect
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+           y="34.62038"
+           x="35.291164"
+           height="103.43962"
+           width="329.78986"
+           id="rect3013" /></flowRegion><flowPara
+         id="flowPara3015">AUTH. CODES</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3051"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.94992764,0,0,0.94989078,28.688557,47.211921)"><flowRegion
+         id="flowRegion3053"><rect
+           id="rect3055"
+           width="298.14951"
+           height="126.56142"
+           x="-6.0846834"
+           y="262.18753" /></flowRegion><flowPara
+         id="flowPara3057" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3064"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.94992764,0,0,0.94989078,28.688557,47.211921)"><flowRegion
+         id="flowRegion3066"><rect
+           id="rect3068"
+           width="144.81548"
+           height="58.412964"
+           x="152.1171"
+           y="404.56915" /></flowRegion><flowPara
+         id="flowPara3070" /></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 28.688557,1006.3825 1004.565543,0"
+       id="path3079"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3.12519693;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3081"
+       width="485.52078"
+       height="588.38208"
+       x="35.624569"
+       y="407.59686" />
+    <rect
+       y="407.59686"
+       x="535.0174"
+       height="588.38208"
+       width="485.52078"
+       id="rect3083"
+       style="fill:none;stroke:#000000;stroke-width:3.12519693;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 66.836617,585.44214 427.720673,0"
+       id="path5321"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5323"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       transform="matrix(0.75448924,0,0,0.75445997,162.34265,337.53487)"><flowRegion
+         id="flowRegion5325"><rect
+           id="rect5327"
+           width="485.64856"
+           height="94.895737"
+           x="606.03448"
+           y="106.41965"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended" /></flowRegion><flowPara
+         id="flowPara5329">!! CAUTION !!</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.75448924,0,0,0.75445997,98.281113,578.66345)"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       id="flowRoot8455"
+       xml:space="preserve"><flowRegion
+         id="flowRegion8457"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+           y="106.41965"
+           x="606.03448"
+           height="94.895737"
+           width="485.64856"
+           id="rect8459" /></flowRegion><flowPara
+         id="flowPara8461"
+         style="font-size:17.62647629px" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8463"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       transform="matrix(0.94992764,0,0,0.94989078,33.221444,371.05322)"><flowRegion
+         id="flowRegion8465"><rect
+           id="rect8467"
+           width="411.32101"
+           height="145.42522"
+           x="574.81683"
+           y="351.70456"
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended" /></flowRegion><flowPara
+         id="flowPara8516">Incorrect use of the information on the following pages could cause damage to ship systems and should only be used in an emergency.</flowPara><flowPara
+         id="flowPara8471" /></flowRoot>    <g
+       id="g8502"
+       transform="matrix(0.59844833,0,0,0.59842511,299.70333,270.06037)">
+      <path
+         inkscape:transform-center-y="-51.308352"
+         transform="translate(175.84736,356.3367)"
+         d="m 787.42265,336.20623 -177.73734,-2e-5 -177.73736,2e-5 88.86869,-153.92505 88.86866,-153.92507 88.86866,153.92507 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="1.5707963"
+         sodipodi:arg1="0.52359878"
+         sodipodi:r2="102.61669"
+         sodipodi:r1="205.23341"
+         sodipodi:cy="233.58952"
+         sodipodi:cx="609.6853"
+         sodipodi:sides="3"
+         id="path8500"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:22.13768005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="star" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4780"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         transform="matrix(5.6532516,0,0,5.6532516,-3562.1999,-1284.3068)"><flowRegion
+           id="flowRegion4782"><rect
+             id="rect4784"
+             width="40.688686"
+             height="61.940102"
+             x="763.49603"
+             y="308.18127" /></flowRegion><flowPara
+           id="flowPara4786">!</flowPara></flowRoot>    </g>
+  </g>
+</svg>
