@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="failure.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4387">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4389" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop4391" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4387"
+       id="linearGradient4393"
+       x1="-60.699905"
+       y1="632.79248"
+       x2="186.22214"
+       y2="632.79248"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.43020266"
+     inkscape:cx="-110.87024"
+     inkscape:cy="465.98056"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1"
+       id="rect2985"
+       width="1023"
+       height="767"
+       x="-81.784164"
+       y="252.34805"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\pilotconsole\data\failure\bg.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer">
+    <path
+       style="fill:#000000;stroke:#cdcdcd;stroke-width:5.79879951;stroke-miterlimit:4;stroke-opacity:1"
+       d="m -270.60376,451.05315 62.90528,0 c 8.4394,0 15.22454,-6.89805 15.22454,-15.47797 l 0,-73.7162 6.79325,0 c 12.20165,0 22.01776,-9.97952 22.01776,-22.38427 l 0,-14.5963 c 0,-9.18615 -5.40427,-17.01565 -13.15283,-20.47401 l 2.21622,-66.80991 0,0 0,0 -42.01206,0.78372 -53.43041,64.11594 -39.7958,0 c -12.20169,0 -22.01779,9.97951 -22.01779,22.38426 l 0,11.21663 -38.12342,0 4.03633,20.53011 c 0,0 11.91653,2.46549 13.9711,3.69824 2.05458,1.23274 9.04013,12.32744 9.04013,12.32744 l 9.04013,10.68379 11.50562,1.23275 c 0,0 5.75281,11.0947 5.75281,13.14927 0,2.05458 -4.52007,15.61477 -4.52007,15.61477 0,0 12.73837,10.68379 14.79294,11.50562 2.05458,0.82183 14.38202,2.8764 16.02568,3.28732 1.64366,0.41091 16.02569,6.57464 16.02569,6.57464 l -0.82183,11.91653 z"
+       id="path3271"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\pilotconsole\data\failure\rightPart.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#000000;stroke:#cdcdcd;stroke-width:5.79879951000000030;stroke-miterlimit:4;stroke-opacity:1"
+       d="m -404.84632,611.54661 -43.15447,0 c -8.43942,0 -12.3609,7.63081 -17.1517,14.69425 L -522.63,711.02675 c -12.44983,18.35568 6.78514,15.47797 15.22456,15.47797 l 201.93438,0 -1.68869,-3.7447 -11.0947,-4.52007 -4.93098,-6.98555 -9.45105,-3.69824 -15.61476,0.82183 -2.87641,-11.0947 3.69824,-11.0947 -11.91654,-1.23275 -13.9711,-5.75281 -11.50562,-11.91653 9.45104,-11.91653 -13.14928,-8.62922 1.23275,-9.04012 -17.66934,-6.98556 z"
+       id="rect2985-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\pilotconsole\data\failure\leftPart.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3273"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       transform="matrix(1.9044418,0,0,1.9044418,-1882.8306,220.8204)"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\pilotconsole\data\failure\warning.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3275"><rect
+           id="rect3277"
+           width="515.08142"
+           height="57.560188"
+           x="92.979431"
+           y="357.34091"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff0000;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended" /></flowRegion><flowPara
+         id="flowPara3279">&gt;&gt;WARNING&lt;&lt;</flowPara></flowRoot>    <flowRoot
+       transform="matrix(1.9044418,0,0,1.9044418,-1882.8306,-419.57545)"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       id="flowRoot3289"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\pilotconsole\data\failure\warning.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3291"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff0000;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+           y="357.34091"
+           x="92.979431"
+           height="57.560188"
+           width="515.08142"
+           id="rect3293" /></flowRegion><flowPara
+         id="flowPara3295">&gt;&gt;WARNING&lt;&lt;</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3365"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       transform="matrix(0.9121675,0,0,0.9121675,91.905777,50.989592)"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\pilotconsole\data\failure\bg.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3367"><rect
+           id="rect3369"
+           width="545.5954"
+           height="210.13022"
+           x="92.979431"
+           y="357.34091"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffff00;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended" /></flowRegion><flowPara
+         id="flowPara3371">STRUCTURAL </flowPara><flowPara
+         id="flowPara3373">FAILURE</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.49892557,0,0,0.49892557,244.20964,642.72622)"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       id="flowRoot3375"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\pilotconsole\data\failure\bg.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3377"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffff00;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+           y="357.34091"
+           x="92.979431"
+           height="210.13022"
+           width="545.5954"
+           id="rect3379" /></flowRegion><flowPara
+         id="flowPara3383">WARRANTY IS NOW VOID</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#ffff00;stroke-width:7.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m -89.527941,359.6654 1023.070481,0"
+       id="path3387"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\pilotconsole\data\failure\bg.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4157"
+       d="m -89.527941,900.10836 1023.070481,0"
+       style="fill:none;stroke:#ffff00;stroke-width:7.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\pilotconsole\data\failure\bg.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
