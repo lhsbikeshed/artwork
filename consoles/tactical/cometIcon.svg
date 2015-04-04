@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg3300"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="cometIcon.svg"
+   inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\common\warpScreen\cometIcon.png"
+   inkscape:export-xdpi="115.2"
+   inkscape:export-ydpi="115.2">
+  <defs
+     id="defs3302">
+    <inkscape:path-effect
+       effect="vonkoch"
+       id="path-effect3323"
+       is_visible="true"
+       ref_path="m 378.86948,234.10936 286.64532,0"
+       generator="m 378.86948,322.68764 95.54844,0 m 95.54844,0 95.54844,0"
+       similar_only="false"
+       nbgenerations="1"
+       drawall="true"
+       maxComplexity="1000" />
+    <inkscape:path-effect
+       effect="envelope"
+       id="path-effect3321"
+       is_visible="true"
+       yy="true"
+       xx="true"
+       bendpath1="m 378.86948,145.53108 286.64532,0"
+       bendpath2="m 665.5148,145.53108 0,177.15656"
+       bendpath3="m 378.86948,322.68764 286.64532,0"
+       bendpath4="m 378.86948,145.53108 0,177.15656" />
+    <inkscape:path-effect
+       effect="envelope"
+       id="path-effect3319"
+       is_visible="true"
+       yy="true"
+       xx="true"
+       bendpath1="m 378.86948,145.53108 286.64532,0"
+       bendpath2="m 665.5148,145.53108 0,177.15656"
+       bendpath3="m 378.86948,322.68764 286.64532,0"
+       bendpath4="m 378.86948,145.53108 0,177.15656" />
+    <inkscape:path-effect
+       effect="sketch"
+       id="path-effect3317"
+       is_visible="true"
+       nbiter_approxstrokes="5"
+       strokelength="100"
+       strokelength_rdm="0.3;1"
+       strokeoverlap="0.3"
+       strokeoverlap_rdm="0.3;1"
+       ends_tolerance="0.1;1"
+       parallel_offset="5;1"
+       tremble_size="5;1"
+       tremble_frequency="1"
+       nbtangents="5"
+       tgt_places_rdmness="1;1"
+       tgtscale="10"
+       tgtlength="100"
+       tgtlength_rdm="0.3;1" />
+    <inkscape:path-effect
+       effect="rough_hatches"
+       id="path-effect3315"
+       is_visible="true"
+       direction="522.19214,229.10936 , 71.66133,0"
+       dist_rdm="75;1"
+       growth="0"
+       do_bend="true"
+       bender="522.19214,234.10936 , 5,0"
+       bottom_edge_variation="17.715656;1"
+       top_edge_variation="17.715656;1"
+       bottom_tgt_variation="0;1"
+       top_tgt_variation="0;1"
+       scale_bf="1"
+       scale_bb="1"
+       scale_tf="1"
+       scale_tb="1"
+       top_smth_variation="0;1"
+       bottom_smth_variation="0;1"
+       fat_output="true"
+       stroke_width_top="1"
+       stroke_width_bottom="1"
+       front_thickness="1"
+       back_thickness="0.25" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect3313"
+       is_visible="true"
+       pattern="M 0,0 1,0"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect3311"
+       is_visible="true"
+       pattern="M 0,0 1,0"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <filter
+       inkscape:collect="always"
+       id="filter4112">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="23.351631"
+         id="feGaussianBlur4114" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.61211857"
+     inkscape:cx="69.89306"
+     inkscape:cy="607.2692"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3305">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="star"
+       style="fill:#cccccc;fill-opacity:0.6825397;stroke:none;filter:url(#filter4112)"
+       id="path4102"
+       sodipodi:sides="11"
+       sodipodi:cx="87.701271"
+       sodipodi:cy="170.08743"
+       sodipodi:r1="310.30884"
+       sodipodi:r2="310.30884"
+       sodipodi:arg1="0.21069854"
+       sodipodi:arg2="0.49629788"
+       inkscape:flatsided="false"
+       inkscape:rounded="0.41"
+       inkscape:randomized="0.108"
+       d="m 417.19249,263.54616 c -7.65973,35.39003 -66.95103,3.82863 -87.29828,32.78309 -20.34725,28.95446 -21.78631,55.0489 -46.80704,82.1943 -25.02074,27.1454 -33.55134,68.05042 -67.42444,83.20276 -33.87311,15.15235 2.20043,1.72701 -31.98471,9.03313 -34.18514,7.30613 -89.356979,43.70141 -125.902364,41.66023 -36.545384,-2.04118 -66.1815446,-68.13426 -98.350707,-80.12749 -32.169164,-11.99323 -37.543091,-6.65521 -63.711109,-30.38546 -26.16802,-23.73025 -45.55437,-6.28371 -62.89207,-38.01565 -17.3377,-31.73193 -42.93854,-69.2128 -56.00577,-101.23503 -13.06723,-32.02223 26.94425,-31.49822 18.79393,-66.25661 -8.15031,-34.75839 -46.28553,-84.71595 -38.84876,-121.412723 7.43678,-36.696773 70.79723,-45.273481 83.68276,-78.5631806 12.88553,-33.2897014 14.24879,-50.1202294 42.08994,-71.7230594 27.841145,-21.602828 1.12895,-2.775952 34.117213,-21.858982 32.98827,-19.083035 39.866575,-61.568565 75.7746165,-63.950515 35.9080395,-2.38196 61.7838745,-10.80649 95.7962385,-5.04025 34.012362,5.76625 48.226412,49.01276 81.053562,67.48784 32.82715,18.475078 103.33624,15.033005 133.24743,35.704111 29.91119,20.671107 26.05582,39.460591 47.43551,70.3759999 21.37969,30.9154071 31.75675,21.3003051 47.17707,53.6151211 15.42032,32.314817 -23.9819,83.532198 -27.05543,118.607828 -3.07352,35.07562 54.77214,48.51452 47.11241,83.90454 z"
+       inkscape:transform-center-x="2.3513429"
+       inkscape:transform-center-y="1.3210297"
+       transform="matrix(0.76437018,0,0,0.62939746,308.12425,271.23383)" />
+    <path
+       sodipodi:type="star"
+       style="fill:#999999;stroke:#000000;stroke-width:4.42947626000000040;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3325"
+       sodipodi:sides="11"
+       sodipodi:cx="486.74203"
+       sodipodi:cy="454.23953"
+       sodipodi:r1="139.13303"
+       sodipodi:r2="139.13303"
+       sodipodi:arg1="0.5880026"
+       sodipodi:arg2="0.87360193"
+       inkscape:flatsided="false"
+       inkscape:rounded="0.41"
+       inkscape:randomized="0.108"
+       d="m 605.77135,522.0949 c -10.04238,13.09378 -5.29393,18.23871 -18.75816,27.65521 -13.46422,9.4165 -36.90054,38.27358 -51.40902,44.46595 -14.50848,6.19236 -16.15224,5.31924 -32.59994,9.47338 -16.4477,4.15414 -24.13777,1.33952 -40.0979,0.66211 -15.96013,-0.67741 -36.7159,-30.00586 -50.77808,-37.69371 -14.06218,-7.68785 -19.07792,-8.61044 -30.71254,-19.87882 -11.63462,-11.26837 -14.83706,0.71799 -24.41364,-12.92807 -9.57659,-13.64606 -5.08677,-18.74596 -8.05791,-34.35761 -2.97114,-15.61164 -10.49106,-36.54878 -8.08678,-52.16845 2.40428,-15.61966 -0.8906,-16.94569 5.02678,-31.81437 5.91738,-14.86868 10.21462,-16.96525 20.75121,-29.93415 10.53659,-12.9689 5.80338,-16.96396 18.72771,-26.92383 12.92433,-9.95987 43.90391,-17.41678 57.51349,-25.21341 13.60958,-7.79664 11.98791,-9.97409 28.11608,-11.52711 16.12817,-1.55301 23.86683,6.84056 40.62275,6.76545 16.75591,-0.0751 5.03465,-11.18023 20.23046,-3.84554 15.19581,7.33469 49.75907,16.09714 61.22923,28.76912 11.47016,12.67199 17.62097,0.98657 24.44457,15.52428 6.8236,14.53772 2.28186,37.9665 7.53258,53.65521 5.25072,15.68871 6.60883,21.35431 6.46666,38.29721 -0.14217,16.94291 -16.85794,29.30868 -19.40398,45.94524 -2.54604,16.63657 3.69881,1.97813 -6.34357,15.07191 z"
+       inkscape:transform-center-x="4.477253"
+       inkscape:transform-center-y="-20.366964"
+       transform="matrix(1,0,0,0.66054172,-119.27372,77.638154)"
+       inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\tacticalconsole\cometIcon.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2" />
+    <path
+       transform="matrix(1,0,0,0.66054172,-119.27372,77.638154)"
+       style="fill:#666666;stroke:none"
+       inkscape:transform-center-x="4.477253"
+       inkscape:transform-center-y="-20.366964"
+       d="m 605.77135,522.0949 c -10.04238,13.09378 -5.29393,18.23871 -18.75816,27.65521 -13.46422,9.4165 -36.90054,38.27358 -51.40902,44.46595 -14.50848,6.19236 -16.15224,5.31924 -32.59994,9.47338 -16.4477,4.15414 -24.13777,1.33952 -40.0979,0.66211 18.99368,-9.01117 20.08819,-50.71816 37.7126,-59.2582 19.34679,-9.37463 36.96328,-20.11083 46.55519,-42.079 9.59192,-21.96817 14.88011,-68.31202 15.77172,-98.2047 0.89161,-29.89269 4.2082,-33.00699 -6.26677,-71.78822 11.47016,12.67199 54.01699,21.56619 60.84059,36.1039 6.8236,14.53772 2.28186,37.9665 7.53258,53.65521 5.25072,15.68871 6.60883,21.35431 6.46666,38.29721 -0.14217,16.94291 -16.85794,29.30868 -19.40398,45.94524 -2.54604,16.63657 3.69881,1.97813 -6.34357,15.07191 z"
+       id="path3327"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssscssscsssss"
+       inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\tacticalconsole\cometIcon.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2" />
+    <path
+       transform="matrix(1,0,0,0.66054172,-119.27372,77.638154)"
+       inkscape:transform-center-y="-20.366964"
+       inkscape:transform-center-x="4.477253"
+       d="m 605.77135,522.0949 c -10.04238,13.09378 -5.29393,18.23871 -18.75816,27.65521 -13.46422,9.4165 -36.90054,38.27358 -51.40902,44.46595 -14.50848,6.19236 -16.15224,5.31924 -32.59994,9.47338 -16.4477,4.15414 -24.13777,1.33952 -40.0979,0.66211 -15.96013,-0.67741 -36.7159,-30.00586 -50.77808,-37.69371 -14.06218,-7.68785 -19.07792,-8.61044 -30.71254,-19.87882 -11.63462,-11.26837 -14.83706,0.71799 -24.41364,-12.92807 -9.57659,-13.64606 -5.08677,-18.74596 -8.05791,-34.35761 -2.97114,-15.61164 -10.49106,-36.54878 -8.08678,-52.16845 2.40428,-15.61966 -0.8906,-16.94569 5.02678,-31.81437 5.91738,-14.86868 10.21462,-16.96525 20.75121,-29.93415 10.53659,-12.9689 5.80338,-16.96396 18.72771,-26.92383 12.92433,-9.95987 43.90391,-17.41678 57.51349,-25.21341 13.60958,-7.79664 11.98791,-9.97409 28.11608,-11.52711 16.12817,-1.55301 23.86683,6.84056 40.62275,6.76545 16.75591,-0.0751 5.03465,-11.18023 20.23046,-3.84554 15.19581,7.33469 49.75907,16.09714 61.22923,28.76912 11.47016,12.67199 17.62097,0.98657 24.44457,15.52428 6.8236,14.53772 2.28186,37.9665 7.53258,53.65521 5.25072,15.68871 6.60883,21.35431 6.46666,38.29721 -0.14217,16.94291 -16.85794,29.30868 -19.40398,45.94524 -2.54604,16.63657 3.69881,1.97813 -6.34357,15.07191 z"
+       inkscape:randomized="0.108"
+       inkscape:rounded="0.41"
+       inkscape:flatsided="false"
+       sodipodi:arg2="0.87360193"
+       sodipodi:arg1="0.5880026"
+       sodipodi:r2="139.13303"
+       sodipodi:r1="139.13303"
+       sodipodi:cy="454.23953"
+       sodipodi:cx="486.74203"
+       sodipodi:sides="11"
+       id="path3330"
+       style="fill:none;stroke:#000000;stroke-width:4.42947626000000040;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="star"
+       inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\tacticalconsole\cometIcon.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2" />
+  </g>
+</svg>

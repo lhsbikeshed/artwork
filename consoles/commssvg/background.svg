@@ -14,7 +14,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="background.svg">
+   sodipodi:docname="background.svg"
+   inkscape:export-filename="C:\Users\tom\Dropbox\starship\art\consoles\commssvg\background.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,13 +28,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="336.92699"
-     inkscape:cy="554.49044"
+     inkscape:cx="-221.64444"
+     inkscape:cy="563.06187"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-height="1057"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1" />
@@ -61,6 +64,86 @@
        inkscape:export-filename="C:\Users\tom\Dropbox\starship\commsconsole\data\idlebg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
+    <g
+       transform="matrix(1.074748,0,0,1.074748,-1315.3538,-58.216879)"
+       id="g3206"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\commsconsole\data\evacAlert.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:type="star"
+         style="color:#000000;fill:#ffff00;fill-opacity:1;stroke:#267575;stroke-width:1.63759291;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.51960784;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path3208"
+         sodipodi:sides="3"
+         sodipodi:cx="-167.59451"
+         sodipodi:cy="306.37753"
+         sodipodi:r1="211.79584"
+         sodipodi:r2="125.15932"
+         sodipodi:arg1="0.53021579"
+         sodipodi:arg2="1.5774133"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="M 15.121324,413.48682 -351.7118,411.05945 -166.19307,94.586332 z"
+         transform="matrix(0.54009289,0,0,0.54009289,240.8244,251.51811)"
+         inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\airlockFailedOverlay.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         xml:space="preserve"
+         style="font-size:171.49092102px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="127.16504"
+         y="459.57495"
+         id="text3210"
+         sodipodi:linespacing="125%"
+         inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\airlockFailedOverlay.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           id="tspan3212"
+           x="127.16504"
+           y="459.57495">!</tspan></text>
+    </g>
+    <g
+       id="g3304"
+       transform="matrix(1.074748,0,0,1.074748,-566.78233,-58.216879)"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\commsconsole\data\evacAlert.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\airlockFailedOverlay.png"
+         transform="matrix(0.54009289,0,0,0.54009289,240.8244,251.51811)"
+         d="M 15.121324,413.48682 -351.7118,411.05945 -166.19307,94.586332 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="1.5774133"
+         sodipodi:arg1="0.53021579"
+         sodipodi:r2="125.15932"
+         sodipodi:r1="211.79584"
+         sodipodi:cy="306.37753"
+         sodipodi:cx="-167.59451"
+         sodipodi:sides="3"
+         id="path3306"
+         style="color:#000000;fill:#ffff00;fill-opacity:1;stroke:#267575;stroke-width:1.63759291;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.51960784;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="star" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\airlockFailedOverlay.png"
+         sodipodi:linespacing="125%"
+         id="text3308"
+         y="459.57495"
+         x="127.16504"
+         style="font-size:171.49092102px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="459.57495"
+           x="127.16504"
+           id="tspan3310"
+           sodipodi:role="line">!</tspan></text>
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -68,7 +151,7 @@
      inkscape:label="Layer">
     <g
        id="g3963"
-       transform="translate(-17.538143,-226.94588)"
+       transform="matrix(0.6269197,0,0,0.6269197,-177.7933,337.32433)"
        inkscape:export-filename="C:\Users\tom\Documents\Processing\commstest\hold.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -122,14 +205,14 @@
          inkscape:transform-center-x="26.051002"
          id="g3867"
          inkscape:label="Logo"
-         style="stroke:#ffffff;stroke-width:21.2039299;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         style="stroke:#ffffff;stroke-width:33.82240295;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
          transform="matrix(0.22527188,0.03312068,-0.03312068,0.22527188,443.80582,555.03018)">
         <g
-           style="stroke:#ffffff;stroke-width:9.14897537;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+           style="stroke:#ffffff;stroke-width:14.59353638;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
            id="g3869"
            transform="matrix(2.3176288,0,0,2.3176288,1.21488,1.2265818)">
           <circle
-             style="fill:#3528a8;fill-opacity:1;stroke:#ffffff;stroke-width:9.14897537;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             style="fill:#3528a8;fill-opacity:1;stroke:#ffffff;stroke-width:14.59353638;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
              id="circle3871"
              r="57"
              cy="57"
@@ -164,16 +247,16 @@
        ry="16.162441" />
     <g
        id="g3998"
-       transform="translate(0,30)">
+       transform="matrix(0.71107247,0,0,0.71107247,297.5661,262.49761)">
       <rect
-         ry="16.162441"
+         ry="22.729668"
          y="514.27954"
          x="-31.996235"
          height="220.04106"
          width="813.52563"
          id="rect3992"
-         style="fill:#333333;fill-opacity:1;stroke:#ffff00;stroke-width:2.29929495;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-         rx="16.162441" />
+         style="fill:#333333;fill-opacity:1;stroke:#ffff00;stroke-width:3.23355937;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         rx="22.729668" />
       <flowRoot
          transform="translate(-317.1879,-57.578695)"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
@@ -188,22 +271,23 @@
              id="rect3982" /></flowRegion><flowPara
            id="flowPara3986">COMMS</flowPara><flowPara
            id="flowPara3990">FREQUENCY</flowPara></flowRoot>      <rect
-         ry="16.162441"
+         ry="22.729668"
          y="528.09302"
          x="367.69553"
          height="83.842659"
          width="394.96964"
          id="rect3994"
-         style="fill:#483737;fill-opacity:1;stroke:#ffff00;stroke-width:1.64199996;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+         style="fill:#483737;fill-opacity:1;stroke:#ffff00;stroke-width:2.30918789;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         rx="22.729668" />
       <rect
-         style="fill:#483737;fill-opacity:1;stroke:#ffff00;stroke-width:2.29224467;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         style="fill:#483737;fill-opacity:1;stroke:#ffff00;stroke-width:3.22364426;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
          id="rect4007"
          width="775.74799"
          height="83.192413"
          x="-14.836497"
          y="629.84674"
-         ry="16.162441"
-         rx="16.162441" />
+         ry="22.729668"
+         rx="22.729668" />
     </g>
     <rect
        style="fill:#000000;fill-opacity:1;stroke:#ffff00;stroke-width:2.98841858;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
@@ -226,5 +310,20 @@
            x="-104.28571"
            y="96.647896"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff0000;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended" /></flowRegion><flowPara
-         id="flowPara4783">COMMS</flowPara></flowRoot>  </g>
+         id="flowPara4783">COMMS</flowPara></flowRoot>    <flowRoot
+       transform="matrix(1.5514753,0,0,1.5514753,-1086.2785,13.51968)"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       id="flowRoot3312"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\commsconsole\data\evacAlert.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3314"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffff00;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+           y="96.647896"
+           x="-104.28571"
+           height="148.13913"
+           width="776.66162"
+           id="rect3316" /></flowRegion><flowPara
+         id="flowPara3318">EVACUATION ALERT</flowPara></flowRoot>  </g>
 </svg>

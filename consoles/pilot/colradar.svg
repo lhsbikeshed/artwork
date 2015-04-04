@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="New document 1">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.2167969"
+     inkscape:cx="-205.83874"
+     inkscape:cy="526.15578"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke:#000000"
+       id="rect2985"
+       width="1024"
+       height="768"
+       x="-194.77368"
+       y="189.44083"
+       rx="19.329"
+       ry="0"
+       inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\pilotconsole\collisionOverlay.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       rx="14.942651"
+       style="color:#000000;fill:#000000;stroke:#ffff00;stroke-width:3.48425889;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect2996"
+       width="538.78101"
+       height="46.695778"
+       x="-186.38568"
+       y="197.32248"
+       ry="14.942651"
+       inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\pilotconsole\collisionOverlay.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2988"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       transform="matrix(3.7160127,0,0,3.7160127,-136.96817,-136.12161)"
+       inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\pilotconsole\collisionOverlay.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion2990"><rect
+           id="rect2992"
+           width="222.85715"
+           height="90"
+           x="-10"
+           y="89.505043"
+           style="fill:#ff0000" /></flowRegion><flowPara
+         id="flowPara2994">COLLISION RADAR</flowPara></flowRoot>    <rect
+       rx="14.942651"
+       style="color:#000000;fill:#000000;stroke:#ffff00;stroke-width:3.48425889;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect2996-1"
+       width="538.78101"
+       height="46.695778"
+       x="44.415089"
+       y="903.49207"
+       ry="14.942651"
+       inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\pilotconsole\collisionOverlay.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="fill:#000000;fill-opacity:0.68253969999999997;stroke:#ffffff;stroke-width:14.69999981000000000;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path5390"
+       sodipodi:sides="11"
+       sodipodi:cx="-552.26966"
+       sodipodi:cy="387.50183"
+       sodipodi:r1="113.12033"
+       sodipodi:r2="113.12033"
+       sodipodi:arg1="0.70311017"
+       sodipodi:arg2="0.98870951"
+       inkscape:flatsided="false"
+       inkscape:rounded="0.41"
+       inkscape:randomized="0.108"
+       d="m -454.82172,454.49431 c -9.44498,8.57228 -31.14383,30.80513 -42.41266,37.16196 -11.26883,6.35683 -16.43022,3.02578 -28.72414,7.34854 -12.29391,4.32276 -10.07372,1.20328 -22.87909,1.04996 -12.80538,-0.15332 -10.87415,1.4061 -23.54693,-1.61713 -12.67278,-3.02323 -37.99336,-17.17403 -48.45045,-24.81737 -10.4571,-7.64334 -3.52372,-7.2879 -11.7816,-17.40769 -8.25788,-10.11979 -28.06199,-19.23603 -33.37213,-31.44691 -5.31014,-12.21088 -5.92796,-10.30494 -10.10899,-23.15223 -4.18103,-12.84729 0.68578,-27.11114 2.30077,-39.90947 1.615,-12.79834 4.1884,-14.74932 10.43972,-25.95386 6.25131,-11.20453 21.20099,-16.61736 31.34209,-25.61597 10.14111,-8.99861 5.0137,-0.97167 16.25909,-8.91076 11.24538,-7.93909 15.92025,-19.482 29.1265,-22.44357 13.20624,-2.96156 8.57944,-10.41787 22.47673,-10.38892 13.89729,0.029 35.13983,-3.08582 47.98092,1.61713 12.84109,4.70295 13.03278,6.10407 25.33368,11.66121 12.3009,5.55714 2.38706,17.82351 12.18396,26.74665 9.7969,8.92313 26.29003,10.79818 32.96977,22.10795 6.67974,11.30976 -6.02128,34.38414 -2.2083,47.54707 3.81297,13.16293 10.81299,5.23674 7.38207,17.39296 -3.43091,12.15622 9.06147,25.45666 2.99421,37.19254 -6.06725,11.73588 -7.86025,13.26564 -17.30522,21.83791 z"
+       inkscape:transform-center-x="4.5203264"
+       inkscape:transform-center-y="-3.1556132"
+       inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\pilotconsole\rockIcon1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>

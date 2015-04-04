@@ -38,16 +38,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.80496421"
-     inkscape:cx="698.81381"
-     inkscape:cy="488.48325"
+     inkscape:zoom="0.85994697"
+     inkscape:cx="980.09811"
+     inkscape:cy="549.94069"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1430"
-     inkscape:window-height="1004"
-     inkscape:window-x="-3"
-     inkscape:window-y="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -73,13 +73,13 @@
        x="-18.539585"
        y="84.399925"
        ry="0"
-       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\dropnew.png"
+       inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\dropnew.png"
        inkscape:export-xdpi="115.2"
        inkscape:export-ydpi="115.2" />
     <g
        id="g3160"
        transform="matrix(0.37653183,0,0,0.37653183,437.97538,-64.213462)"
-       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\dropnew.png"
+       inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\dropnew.png"
        inkscape:export-xdpi="115.2"
        inkscape:export-ydpi="115.2">
       <path
@@ -118,7 +118,7 @@
        x="37.268738"
        y="302.01825"
        ry="44.722485"
-       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\dropnew.png"
+       inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\dropnew.png"
        inkscape:export-xdpi="115.2"
        inkscape:export-ydpi="115.2" />
     <text
@@ -128,7 +128,7 @@
        y="125.74284"
        id="text3026"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\dropnew.png"
+       inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\dropnew.png"
        inkscape:export-xdpi="115.2"
        inkscape:export-ydpi="115.2"><tspan
          sodipodi:role="line"
@@ -140,7 +140,7 @@
        id="flowRoot4334"
        style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
        transform="translate(-64.125576,-104.53347)"
-       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\dropnew.png"
+       inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\dropnew.png"
        inkscape:export-xdpi="115.2"
        inkscape:export-ydpi="115.2"><flowRegion
          id="flowRegion4336"><rect
@@ -155,7 +155,7 @@
        id="flowRoot4342"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
        transform="translate(-54.462818,-178.32181)"
-       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\dropnew.png"
+       inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\dropnew.png"
        inkscape:export-xdpi="115.2"
        inkscape:export-ydpi="115.2"><flowRegion
          id="flowRegion4344"><rect
@@ -165,11 +165,9 @@
            x="62.36871"
            y="360.15735"
            style="font-size:14px;fill:#ffff00" /></flowRegion><flowPara
-         id="flowPara2413">&gt; INSTRUCT TACTICAL CREWMEMBER TO REMOVE THE ACCESS PANEL ON CONDUIT #3 (ABOVE THEIR HEAD)</flowPara><flowPara
-         id="flowPara3014">&gt; IF CONNECTED IN WRONG ORDER, <flowSpan
-   style="fill:#ff0000"
-   id="flowSpan3067">DISCONNECT ALL CABLES</flowSpan> AND START AGAIN</flowPara><flowPara
-         id="flowPara3021">&gt; CONNECT <flowSpan
+         id="flowPara2413">&gt; INSTRUCT TACTICAL CREWMEMBER TO REMOVE THE HYPERSPACE JUMP CONDUIT PANEL (ABOVE THEIR HEAD)</flowPara><flowPara
+         id="flowPara3014">&gt; DISCONNECT ALL CABLES</flowPara><flowPara
+         id="flowPara3021">&gt; RECONNECT <flowSpan
    style="fill:#ff0000"
    id="flowSpan3023">COLOUR</flowSpan> TO <flowSpan
    style="fill:#ff0000"
@@ -254,7 +252,7 @@
        id="path4591"
        d="m 723.70098,468.48529 c -90.96554,0 -112.47359,-121.77188 -199.89474,-122.92441"
        style="fill:none;stroke:#262626;stroke-width:13.30000019;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\dropnew.png"
+       inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\dropnew.png"
        inkscape:export-xdpi="115.2"
        inkscape:export-ydpi="115.2" />
     <g
@@ -266,7 +264,7 @@
        inkscape:tile-cy="344.42551"
        inkscape:tile-w="266.60429"
        inkscape:tile-h="44.36084"
-       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\dropnew.png"
+       inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\dropnew.png"
        inkscape:export-xdpi="115.2"
        inkscape:export-ydpi="115.2">
       <path
@@ -288,7 +286,7 @@
        id="path3789"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\dropnew.png"
+       inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\dropnew.png"
        inkscape:export-xdpi="115.2"
        inkscape:export-ydpi="115.2" />
     <path
@@ -297,7 +295,7 @@
        id="path4561"
        d="m 60.872272,468.48529 c 90.965538,0 106.324568,-55.011 193.745718,-56.16353"
        style="fill:none;stroke:#262626;stroke-width:13.30000019;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\dropnew.png"
+       inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\dropnew.png"
        inkscape:export-xdpi="115.2"
        inkscape:export-ydpi="115.2" />
     <path
@@ -306,7 +304,7 @@
        id="path4565"
        d="m 60.872272,481.71793 c 90.965538,0 108.959858,0.54818 196.381008,1.70071"
        style="fill:none;stroke:#262626;stroke-width:13.30000019;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\dropnew.png"
+       inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\dropnew.png"
        inkscape:export-xdpi="115.2"
        inkscape:export-ydpi="115.2" />
     <path
@@ -315,7 +313,7 @@
        id="path4587"
        d="m 60.872272,494.01598 c 90.965538,0 112.473588,121.77188 199.894738,122.92441"
        style="fill:none;stroke:#262626;stroke-width:13.30000019;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\dropnew.png"
+       inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\dropnew.png"
        inkscape:export-xdpi="115.2"
        inkscape:export-ydpi="115.2" />
     <path
@@ -324,7 +322,7 @@
        id="path4593"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\dropnew.png"
+       inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\dropnew.png"
        inkscape:export-xdpi="115.2"
        inkscape:export-ydpi="115.2" />
     <use
@@ -333,7 +331,7 @@
        inkscape:tiled-clone-of="#use3749"
        xlink:href="#use3749"
        id="use4577"
-       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\dropnew.png"
+       inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\dropnew.png"
        inkscape:export-xdpi="115.2"
        inkscape:export-ydpi="115.2" />
     <path
@@ -342,7 +340,7 @@
        id="path4589"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\dropnew.png"
+       inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\dropnew.png"
        inkscape:export-xdpi="115.2"
        inkscape:export-ydpi="115.2" />
     <path
@@ -351,7 +349,7 @@
        id="path4595"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\dropnew.png"
+       inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\dropnew.png"
        inkscape:export-xdpi="115.2"
        inkscape:export-ydpi="115.2" />
     <use
@@ -361,7 +359,7 @@
        xlink:href="#use3749"
        transform="translate(0,68.315694)"
        id="use4579"
-       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\dropnew.png"
+       inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\dropnew.png"
        inkscape:export-xdpi="115.2"
        inkscape:export-ydpi="115.2" />
     <path
@@ -370,7 +368,7 @@
        id="path4597"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\dropnew.png"
+       inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\dropnew.png"
        inkscape:export-xdpi="115.2"
        inkscape:export-ydpi="115.2" />
     <use
@@ -380,7 +378,7 @@
        xlink:href="#use3749"
        transform="translate(0,136.63139)"
        id="use4581"
-       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\dropnew.png"
+       inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\dropnew.png"
        inkscape:export-xdpi="115.2"
        inkscape:export-ydpi="115.2" />
     <path
@@ -389,7 +387,7 @@
        id="path4599"
        d="m 723.70098,494.01598 c -90.96554,0 -106.32457,55.011 -193.74572,56.16353"
        style="fill:none;stroke:#262626;stroke-width:13.30000019;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\dropnew.png"
+       inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\dropnew.png"
        inkscape:export-xdpi="115.2"
        inkscape:export-ydpi="115.2" />
     <use
@@ -399,7 +397,7 @@
        xlink:href="#use3749"
        transform="translate(0,204.94708)"
        id="use4583"
-       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\dropnew.png"
+       inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\dropnew.png"
        inkscape:export-xdpi="115.2"
        inkscape:export-ydpi="115.2" />
     <use
@@ -409,7 +407,7 @@
        xlink:href="#use3749"
        transform="translate(0,273.26277)"
        id="use4585"
-       inkscape:export-filename="C:\Users\tom\Dropbox\starship\engineerconsole\data\dropnew.png"
+       inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\dropnew.png"
        inkscape:export-xdpi="115.2"
        inkscape:export-ydpi="115.2" />
     <path

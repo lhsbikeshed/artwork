@@ -59,17 +59,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.71420365"
-     inkscape:cx="765.18342"
-     inkscape:cy="229.61694"
+     inkscape:zoom="1.1215229"
+     inkscape:cx="343.72861"
+     inkscape:cy="376.25238"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4735"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1057"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
+     inkscape:window-width="944"
+     inkscape:window-height="1041"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
      showguides="true"
      inkscape:guide-bbox="true" />
   <metadata
@@ -389,7 +389,7 @@
              height="160.63565"
              width="455.13434"
              id="rect8815" /></flowRegion><flowPara
-           id="flowPara8817">EPS NODE A *must* be connected to DATA CONDUIT socket A</flowPara></flowRoot>      <path
+           id="flowPara8817">EPS NODE A *must* be connected to DATA CONDUIT socket P45</flowPara></flowRoot>      <path
          transform="translate(12.907563,464.87946)"
          d="m 23.233614,350.41382 c 0,3.08908 -2.504195,5.59328 -5.593277,5.59328 -3.089082,0 -5.593277,-2.5042 -5.593277,-5.59328 0,-3.08908 2.504195,-5.59328 5.593277,-5.59328 3.089082,0 5.593277,2.5042 5.593277,5.59328 z"
          sodipodi:ry="5.5932775"

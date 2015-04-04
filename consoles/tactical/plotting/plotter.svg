@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="plotter.svg"
+   inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\tacticalconsole\dropBackground.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9601"
+       id="pattern9620"
+       patternTransform="matrix(18.13493,18.13493,-35.394556,35.394556,-1.0906407,-215.44549)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9603"
+       id="pattern9618"
+       patternTransform="matrix(18.13493,18.13493,-35.394556,35.394556,-1.0906407,-6.406056)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9589"
+       id="pattern9603"
+       patternTransform="matrix(18.13493,18.13493,-35.394556,35.394556,1053.9593,-91.376521)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern9589"
+       id="pattern9601"
+       patternTransform="matrix(18.13493,18.13493,-35.394556,35.394556,1053.9593,-300.41596)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_1"
+       id="pattern9589"
+       patternTransform="matrix(18.13493,18.13493,-35.394556,35.394556,1.1202286e-8,0)" />
+    <pattern
+       inkscape:stockid="Stripes 1:1"
+       id="Strips1_1"
+       patternTransform="translate(0,0) scale(10,10)"
+       height="1"
+       width="2"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always">
+      <rect
+         id="rect8868"
+         height="2"
+         width="1"
+         y="-0.5"
+         x="0"
+         style="fill:black;stroke:none" />
+    </pattern>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.56490217"
+     inkscape:cx="21.350336"
+     inkscape:cy="413.20471"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="rect2985"
+       width="1024"
+       height="768"
+       x="-183.98309"
+       y="89.74369"
+       rx="0"
+       ry="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer">
+    <rect
+       rx="8.7060318"
+       ry="8.7060318"
+       y="105.77393"
+       x="-167.325"
+       height="52.183716"
+       width="668.21368"
+       id="rect3798-1"
+       style="color:#000000;fill:#000000;stroke:#ffff00;stroke-width:5.03264999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\tacticalconsole\data\weaponsTitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3800-8"
+       y="148.14075"
+       x="-150.62831"
+       style="font-size:49.37353516px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       xml:space="preserve"
+       transform="scale(0.99945399,1.0005463)"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\tacticalconsole\data\weaponsTitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         y="148.14075"
+         x="-150.62831"
+         id="tspan3802-6"
+         sodipodi:role="line">JUMP PLANNING</tspan></text>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\tacticalconsole\data\weaponsTitle.png"
+       style="color:#000000;fill:#000000;stroke:#ffff00;stroke-width:5.03264999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4122"
+       width="671.25464"
+       height="589.13995"
+       x="-166.16277"
+       y="242.2104"
+       ry="8.7060318"
+       rx="8.7060318" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\tacticalconsole\data\weaponsTitle.png"
+       transform="scale(0.99945399,1.0005463)"
+       xml:space="preserve"
+       style="font-size:22.3938446px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       x="-150.9313"
+       y="272.12018"
+       id="text4124"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4126"
+         x="-150.9313"
+         y="272.12018">WAYPOINT LIST</tspan></text>
+    <path
+       style="fill:none;stroke:#ffff00;stroke-width:1.39999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -147.60485,282.24911 604.36632,0"
+       id="path4128"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:none;stroke:#ffff00;stroke-width:6.5999999;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2999"
+       width="304.89743"
+       height="165.36571"
+       x="516.76776"
+       y="662.88251"
+       rx="8.7060318"
+       ry="8.7060318" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3769"
+       y="688.57068"
+       x="563.14203"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       xml:space="preserve"
+       transform="scale(0.99945399,1.0005463)"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\tacticalconsole\data\weaponsTitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         y="688.57068"
+         x="563.14203"
+         id="tspan3771"
+         sodipodi:role="line">JUMP STATUS</tspan></text>
+    <rect
+       ry="8.7060318"
+       rx="8.7060318"
+       y="705.31189"
+       x="530.91089"
+       height="104.44151"
+       width="271.17151"
+       id="rect3773"
+       style="fill:#999999;stroke:#ffff00;stroke-width:6.59999990000000030;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       ry="8.7060318"
+       rx="8.7060318"
+       y="242.94069"
+       x="516.76776"
+       height="405.79871"
+       width="304.89743"
+       id="rect4604"
+       style="fill:none;stroke:#ffff00;stroke-width:6.59999943;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\tom\Dropbox\starship\tacticalconsole\data\weaponsTitle.png"
+       transform="scale(0.99945399,1.0005463)"
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+       x="535.92889"
+       y="272.12018"
+       id="text4606"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4608"
+         x="535.92889"
+         y="272.12018">JUMP CHECKLIST</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4612"
+       d="m 536.31852,282.24911 271.14306,0"
+       style="fill:none;stroke:#ffff00;stroke-width:1.39999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4626"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"><flowRegion
+         id="flowRegion4628"><rect
+           id="rect4630"
+           width="265.99942"
+           height="345.96243"
+           x="537.98242"
+           y="290.26572"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended" /></flowRegion><flowPara
+         id="flowPara4632">&gt; RAISE LANDING GEAR</flowPara><flowPara
+         id="flowPara4634">&gt; STOW WEAPONS</flowPara><flowPara
+         id="flowPara4636">&gt; PLOT ROUTE TO DESTINATION</flowPara><flowPara
+         id="flowPara4638">&gt; PARK INSIDE JUMPGATE</flowPara><flowPara
+         id="flowPara4640">&gt; AIM TOWARD EMPTY SPACE</flowPara><flowPara
+         id="flowPara4642">&gt; START JUMP SYSTEM</flowPara></flowRoot>    <g
+       id="g9605"
+       transform="translate(1055.0499,-84.970465)">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\tacticalconsole\jumpOffline.png"
+         style="color:#000000;fill:#000000;stroke:#ffff00;stroke-width:5.03264999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect7369"
+         width="856.51111"
+         height="388.86264"
+         x="-1153.7803"
+         y="376.14584"
+         ry="8.7060318"
+         rx="8.7060308" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text7371"
+         y="541.14374"
+         x="-1131.1307"
+         style="font-size:71.43235016px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+         xml:space="preserve"
+         transform="scale(0.99945399,1.0005463)"
+         inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\tacticalconsole\jumpOffline.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           y="541.14374"
+           x="-1131.1307"
+           id="tspan7373"
+           sodipodi:role="line">JUMP SYSTEM</tspan></text>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\tacticalconsole\jumpOffline.png"
+         transform="scale(0.99945399,1.0005463)"
+         xml:space="preserve"
+         style="font-size:57.15061569px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+         x="-1051.3219"
+         y="616.26343"
+         id="text7375"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan7377"
+           x="-1051.3219"
+           y="616.26343">&gt;&gt;OFFLINE&lt;&lt;</tspan></text>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\tacticalconsole\jumpOffline.png"
+         transform="translate(-1053.9593,91.376521)"
+         id="g9591">
+        <rect
+           y="336.37082"
+           x="-98.886917"
+           height="51.32106"
+           width="853.68201"
+           id="rect9587"
+           style="fill:#f3ff18;fill-opacity:1;stroke:none" />
+        <rect
+           style="fill:url(#pattern9618);fill-opacity:1;stroke:none"
+           id="rect7379"
+           width="851.17853"
+           height="51.32106"
+           x="-97.009315"
+           y="336.37082" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\tacticalconsole\jumpOffline.png"
+         transform="translate(-1053.9593,300.41596)"
+         id="g9595">
+        <rect
+           style="fill:#f3ff18;fill-opacity:1;stroke:none"
+           id="rect9597"
+           width="853.68201"
+           height="51.32106"
+           x="-98.886917"
+           y="336.37082" />
+        <rect
+           y="336.37082"
+           x="-97.009315"
+           height="51.32106"
+           width="851.17853"
+           id="rect9599"
+           style="fill:url(#pattern9620);fill-opacity:1;stroke:none" />
+      </g>
+    </g>
+  </g>
+</svg>

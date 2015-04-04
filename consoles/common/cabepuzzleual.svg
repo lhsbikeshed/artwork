@@ -1,0 +1,1234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg3732"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="New document 2">
+  <defs
+     id="defs3">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5468"
+       id="pattern6234"
+       patternTransform="matrix(8.8129176,8.8129172,-8.8129176,8.8129172,-494.44928,133.85464)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8593"
+       id="pattern6186"
+       patternTransform="matrix(3.9775116,11.065356,-3.9775116,11.065356,-564.56301,-21.753193)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8593"
+       id="pattern5468"
+       patternTransform="matrix(3.9775116,11.065356,-3.9775116,11.065356,212.2987,-87.456991)" />
+    <pattern
+       patternTransform="matrix(-8.7011122,8.7011122,-8.7011122,-8.7011122,388.81659,-1336.2009)"
+       id="pattern3947"
+       xlink:href="#pattern8597"
+       inkscape:collect="always" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8518"
+       id="pattern8532"
+       patternTransform="matrix(9.4438749,-7.3267195,9.4438749,7.3267195,-654.37196,169.24567)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8462"
+       id="pattern8518"
+       patternTransform="matrix(9.1713493,9.7295515,-9.1713493,9.7295515,-337.60784,60.630887)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8442"
+       id="pattern8462"
+       patternTransform="matrix(3.9775116,11.065356,-3.9775116,11.065356,-59.618676,10.050445)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_1"
+       id="pattern8442"
+       patternTransform="matrix(11.029664,11.029664,-11.029664,11.029664,0,0)" />
+    <pattern
+       inkscape:stockid="Stripes 1:1"
+       id="Strips1_1"
+       patternTransform="translate(0,0) scale(10,10)"
+       height="1"
+       width="2"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always">
+      <rect
+         id="rect7717"
+         height="2"
+         width="1"
+         y="-0.5"
+         x="0"
+         style="fill:black;stroke:none" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8518"
+       id="pattern8591"
+       patternTransform="matrix(6.8984704,-7.3183363,6.8984704,7.3183363,-489.90489,1549.3356)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8462"
+       id="pattern3755"
+       patternTransform="matrix(9.1713493,9.7295515,-9.1713493,9.7295515,-337.60784,60.630887)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8442"
+       id="pattern3757"
+       patternTransform="matrix(3.9775116,11.065356,-3.9775116,11.065356,-59.618676,10.050445)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_1"
+       id="pattern3759"
+       patternTransform="matrix(11.029664,11.029664,-11.029664,11.029664,0,0)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8462"
+       id="pattern8593"
+       patternTransform="matrix(3.9775116,11.065356,-3.9775116,11.065356,212.2987,168.44831)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8442"
+       id="pattern3766"
+       patternTransform="matrix(3.9775116,11.065356,-3.9775116,11.065356,-59.618676,10.050445)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_1"
+       id="pattern3768"
+       patternTransform="matrix(11.029664,11.029664,-11.029664,11.029664,0,0)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8442"
+       id="pattern8595"
+       patternTransform="matrix(-11.029664,11.029664,-11.029664,-11.029664,485.20924,209.9509)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_1"
+       id="pattern3775"
+       patternTransform="matrix(11.029664,11.029664,-11.029664,11.029664,0,0)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8442"
+       id="pattern8597"
+       patternTransform="matrix(11.029664,11.029664,-11.029664,11.029664,0,-50.256504)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_1"
+       id="pattern3782"
+       patternTransform="matrix(11.029664,11.029664,-11.029664,11.029664,0,0)" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:document-units="mm"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.60839844"
+     inkscape:cx="913.56844"
+     inkscape:cy="522.84362"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="rect4324"
+       width="1024"
+       height="768"
+       x="-105.19422"
+       y="65.755447"
+       rx="0"
+       ry="0" />
+    <rect
+       ry="0"
+       rx="0"
+       y="65.755447"
+       x="979.62122"
+       height="768"
+       width="1024"
+       id="rect5094"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer">
+    <g
+       id="g5358"
+       transform="matrix(0,-1,1,0,136.23603,-610.64191)">
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\screens\cablepuzzle\bg.png"
+         transform="matrix(0.91666667,0,0,0.91666667,-1082.7127,-330.61518)"
+         id="g8444">
+        <rect
+           y="205.07202"
+           x="-95.370338"
+           height="194.75627"
+           width="102.39763"
+           id="rect8432"
+           style="fill:#fffc10;fill-opacity:1;stroke:none" />
+        <rect
+           style="fill:url(#pattern8595);fill-opacity:1;stroke:none"
+           id="rect6996"
+           width="102.39763"
+           height="194.75627"
+           x="-95.370338"
+           y="205.07202" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\screens\cablepuzzle\bg.png"
+         transform="matrix(0,1,-1,0,-851.6588,22.148247)"
+         id="g4647">
+        <rect
+           rx="7.5"
+           ry="7.5"
+           y="243.86218"
+           x="-153"
+           height="56.5"
+           width="158"
+           id="rect4649"
+           style="fill:#808080;stroke:#ffffff;stroke-width:0.80000001;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+        <flowRoot
+           transform="matrix(0.45393031,0,0,0.45393031,-177.98682,73.776834)"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+           id="flowRoot4651"
+           xml:space="preserve"><flowRegion
+             id="flowRegion4653"><rect
+               style="fill:#ffffff"
+               y="384.07251"
+               x="70.89682"
+               height="183.63438"
+               width="268.47812"
+               id="rect4655" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+             id="flowPara4657">AUX</flowPara><flowPara
+             id="flowPara4679"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended">POWER</flowPara></flowRoot>        <flowRoot
+           xml:space="preserve"
+           id="flowRoot4659"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+           transform="matrix(0.5503768,0,0,0.5503768,-65.639594,33.250553)"><flowRegion
+             id="flowRegion4661"><rect
+               id="rect4663"
+               width="268.47812"
+               height="183.63438"
+               x="70.89682"
+               y="384.07251"
+               style="fill:#ffffff" /></flowRegion><flowPara
+             id="flowPara4665"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended">A</flowPara></flowRoot>        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -31.472348,244.14543 0,55.84884"
+           id="path4667"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -31.628229,271.86218 36.506459,0"
+           id="path4669"
+           inkscape:connector-curvature="0" />
+        <flowRoot
+           transform="matrix(0.5503768,0,0,0.5503768,-65.639594,59.250553)"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+           id="flowRoot4671"
+           xml:space="preserve"><flowRegion
+             id="flowRegion4673"><rect
+               style="fill:#ffffff"
+               y="384.07251"
+               x="70.89682"
+               height="183.63438"
+               width="268.47812"
+               id="rect4675" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+             id="flowPara4677">B</flowPara></flowRoot>      </g>
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\screens\cablepuzzle\bg.png"
+         y="26.470016"
+         x="-1141.8368"
+         height="22.360693"
+         width="3.9042482"
+         id="rect8464"
+         style="fill:#0000ff;fill-opacity:1;stroke:#000000" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\screens\cablepuzzle\bg.png"
+         style="fill:#00ff00;fill-opacity:1;stroke:#000000"
+         id="rect8484"
+         width="3.9042482"
+         height="22.360693"
+         x="-1120.3634"
+         y="26.470016" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\screens\cablepuzzle\bg.png"
+         y="26.470016"
+         x="-1113.2648"
+         height="22.360693"
+         width="3.9042482"
+         id="rect8486"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\screens\cablepuzzle\bg.png"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000"
+         id="rect8488"
+         width="3.9042482"
+         height="22.360693"
+         x="-1105.4563"
+         y="26.470016" />
+    </g>
+    <g
+       id="g5333"
+       transform="matrix(0,-1.2676154,1.2676154,0,1844.6655,-735.61554)">
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\screens\cablepuzzle\bg.png"
+         id="g8448"
+         transform="matrix(0.79901961,0,0,0.79901961,-949.37138,-283.90128)">
+        <rect
+           style="fill:#fffc10;fill-opacity:1;stroke:none"
+           id="rect8450"
+           width="102.39763"
+           height="194.75627"
+           x="-95.370338"
+           y="205.07202" />
+        <rect
+           y="205.07202"
+           x="-95.370338"
+           height="194.75627"
+           width="102.39763"
+           id="rect8452"
+           style="fill:url(#pattern3947);fill-opacity:1;stroke:none" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\screens\cablepuzzle\bg.png"
+         transform="matrix(0,-1,-1,0,-710.84655,-125.85175)"
+         id="g4564">
+        <rect
+           style="fill:#808080;stroke:#ffffff;stroke-width:0.63110626;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4540"
+           width="137.5"
+           height="56.5"
+           x="-153"
+           y="243.86218"
+           ry="5.9166212"
+           rx="5.9166212" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot3844"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+           transform="matrix(-0.45393031,0,0,0.45393031,-35.168996,73.776834)"><flowRegion
+             id="flowRegion3846"><rect
+               id="rect3848"
+               width="268.47812"
+               height="183.63438"
+               x="70.89682"
+               y="384.07251"
+               style="fill:#ffffff" /></flowRegion><flowPara
+             id="flowPara3850"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended">EPS NODE</flowPara></flowRoot>        <flowRoot
+           transform="matrix(-0.5503768,0,0,0.5503768,15.043741,33.250553)"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+           id="flowRoot4524"
+           xml:space="preserve"><flowRegion
+             id="flowRegion4526"><rect
+               style="fill:#ffffff"
+               y="384.07251"
+               x="70.89682"
+               height="183.63438"
+               width="268.47812"
+               id="rect4528" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+             id="flowPara4530">A</flowPara></flowRoot>        <path
+           inkscape:connector-curvature="0"
+           id="path4604"
+           d="m -51.972348,244.14543 0,55.84884"
+           style="fill:none;stroke:#ffffff;stroke-width:0.78888279px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4606"
+           d="m -52.128229,271.86218 36.506459,0"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:0.78888273px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot4608"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+           transform="matrix(-0.5503768,0,0,0.5503768,17.010908,59.250553)"><flowRegion
+             id="flowRegion4610"><rect
+               id="rect4612"
+               width="268.47812"
+               height="183.63438"
+               x="70.89682"
+               y="384.07251"
+               style="fill:#ffffff" /></flowRegion><flowPara
+             id="flowPara4614"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended">B</flowPara></flowRoot>      </g>
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\screens\cablepuzzle\bg.png"
+         y="-132.14909"
+         x="-998.08948"
+         height="22.360693"
+         width="3.9042482"
+         id="rect8490"
+         style="fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-width:0.78888279" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\screens\cablepuzzle\bg.png"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.78888279"
+         id="rect8492"
+         width="3.9042482"
+         height="22.360693"
+         x="-977.68091"
+         y="-132.14909" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\screens\cablepuzzle\bg.png"
+         y="-132.14909"
+         x="-971.29218"
+         height="22.360693"
+         width="3.9042482"
+         id="rect8494"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.78888279" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\screens\cablepuzzle\bg.png"
+         style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:0.78888279"
+         id="rect8496"
+         width="3.9042482"
+         height="22.360693"
+         x="-964.90338"
+         y="-132.14909" />
+    </g>
+    <g
+       id="g5236"
+       transform="matrix(0,1,-1,0,467.81162,902.52596)">
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\screens\cablepuzzle\bg.png"
+         transform="matrix(0.93318871,0,0,1.2028464,-202.3035,-6.7239374)"
+         id="g8526">
+        <rect
+           y="205.07202"
+           x="-95.370338"
+           height="194.75627"
+           width="102.39763"
+           id="rect8528"
+           style="fill:#fffc10;fill-opacity:1;stroke:none" />
+        <rect
+           style="fill:url(#pattern8532);fill-opacity:1;stroke:none"
+           id="rect8530"
+           width="102.39763"
+           height="194.75627"
+           x="-95.370338"
+           y="205.07202" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\screens\cablepuzzle\bg.png"
+         transform="matrix(0,1,1,0,-523.39794,415.75055)"
+         id="g4828">
+        <rect
+           rx="7.5000005"
+           ry="7.5000005"
+           y="243.86218"
+           x="-164.31372"
+           height="74.5"
+           width="214.56856"
+           id="rect4830"
+           style="fill:#808080;stroke:#ffffff;stroke-width:0.80000007;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+        <flowRoot
+           transform="matrix(-0.45393031,0,0,0.45393031,79.981528,79.433688)"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+           id="flowRoot4832"
+           xml:space="preserve"><flowRegion
+             id="flowRegion4834"><rect
+               style="fill:#ffffff"
+               y="384.07251"
+               x="70.89682"
+               height="199.21181"
+               width="307.42169"
+               id="rect4836" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+             id="flowPara4842">DATA</flowPara><flowPara
+             id="flowPara4869"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended">CONDUIT</flowPara></flowRoot>        <flowRoot
+           xml:space="preserve"
+           id="flowRoot4844"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+           transform="matrix(-0.5503768,0,0,0.5503768,-51.095336,35.371873)"><flowRegion
+             id="flowRegion4846"><rect
+               id="rect4848"
+               width="268.47812"
+               height="183.63438"
+               x="70.89682"
+               y="384.07251"
+               style="fill:#ffffff" /></flowRegion><flowPara
+             id="flowPara4850"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended">P45</flowPara></flowRoot>        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -82.384036,244.29935 0,73.041"
+           id="path4852"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -163.97261,279.36218 81.108235,0"
+           id="path4854"
+           inkscape:connector-curvature="0" />
+        <flowRoot
+           transform="matrix(-0.5503768,0,0,0.5503768,-48.934677,72.654359)"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+           id="flowRoot4856"
+           xml:space="preserve"><flowRegion
+             id="flowRegion4858"><rect
+               style="fill:#ffffff"
+               y="384.07251"
+               x="70.89682"
+               height="183.63438"
+               width="268.47812"
+               id="rect4860" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+             id="flowPara4862">M32</flowPara></flowRoot>      </g>
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\screens\cablepuzzle\bg.png"
+         y="230.40558"
+         x="-268.51352"
+         height="22.360693"
+         width="3.9042482"
+         id="rect8534"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\screens\cablepuzzle\bg.png"
+         style="fill:#00ff00;fill-opacity:1;stroke:#000000"
+         id="rect8536"
+         width="3.9042482"
+         height="22.360693"
+         x="-255.02609"
+         y="230.40558" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\screens\cablepuzzle\bg.png"
+         y="230.40558"
+         x="-235.68234"
+         height="22.360693"
+         width="3.9042482"
+         id="rect8538"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\screens\cablepuzzle\bg.png"
+         style="fill:#ffff00;fill-opacity:1;stroke:#000000"
+         id="rect8540"
+         width="3.9042482"
+         height="22.360693"
+         x="-226.27664"
+         y="230.40558" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\screens\cablepuzzle\bg.png"
+         y="230.40558"
+         x="-217.58084"
+         height="22.360693"
+         width="3.9042482"
+         id="rect8542"
+         style="fill:#0000ff;fill-opacity:1;stroke:#000000" />
+    </g>
+    <g
+       id="g5263"
+       transform="matrix(0,1.3294758,-1.3294758,0,1706.9405,1360.7807)">
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\screens\cablepuzzle\bg.png"
+         id="g8512"
+         transform="matrix(0.96091831,0,0,0.9057887,-485.41595,-323.25968)">
+        <rect
+           style="fill:#fffc10;fill-opacity:1;stroke:none"
+           id="rect8514"
+           width="102.39763"
+           height="194.75627"
+           x="-95.370338"
+           y="205.07202" />
+        <rect
+           y="205.07202"
+           x="-95.370338"
+           height="194.75627"
+           width="102.39763"
+           id="rect8516"
+           style="fill:url(#pattern8591);fill-opacity:1;stroke:none" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\screens\cablepuzzle\bg.png"
+         id="g4788"
+         transform="matrix(0,-1,1,0,-808.20883,-125.85177)">
+        <rect
+           style="fill:#808080;stroke:#ffffff;stroke-width:0.60174096;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4790"
+           width="158"
+           height="74.5"
+           x="-153"
+           y="243.86218"
+           ry="5.6413217"
+           rx="5.6413212" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot4792"
+           style="font-size:40px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+           transform="matrix(0.45393031,0,0,0.45393031,-153.94518,73.776834)"><flowRegion
+             id="flowRegion4794"><rect
+               id="rect4796"
+               width="268.47812"
+               height="183.63438"
+               x="70.89682"
+               y="384.07251"
+               style="text-align:end;text-anchor:end;fill:#ffffff" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#ffffff;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+             id="flowPara4800">BACKUP</flowPara><flowPara
+             id="flowPara4824"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#ffffff;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended">DATA</flowPara><flowPara
+             id="flowPara4826"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#ffffff;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended">BUS</flowPara></flowRoot>        <flowRoot
+           transform="matrix(0.5503768,0,0,0.5503768,-189.38328,35.371873)"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+           id="flowRoot4802"
+           xml:space="preserve"><flowRegion
+             id="flowRegion4804"><rect
+               style="fill:#ffffff"
+               y="384.07251"
+               x="70.89682"
+               height="183.63438"
+               width="268.47812"
+               id="rect4806" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+             id="flowPara4808">14</flowPara></flowRoot>        <path
+           inkscape:connector-curvature="0"
+           id="path4810"
+           d="m -116.38761,244.30358 0,73.65756"
+           style="fill:none;stroke:#ffffff;stroke-width:0.75217617px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4812"
+           d="m -152.54349,279.36218 36.50646,0"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:0.75217611px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot4814"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+           transform="matrix(0.5503768,0,0,0.5503768,-189.38328,72.654359)"><flowRegion
+             id="flowRegion4816"><rect
+               id="rect4818"
+               width="268.47812"
+               height="183.63438"
+               x="70.89682"
+               y="384.07251"
+               style="fill:#ffffff" /></flowRegion><flowPara
+             id="flowPara4820"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended">15</flowPara></flowRoot>      </g>
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\screens\cablepuzzle\bg.png"
+         style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:0.75217617"
+         id="rect8520"
+         width="3.9042482"
+         height="22.360693"
+         x="-511.67877"
+         y="26.591782" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\screens\cablepuzzle\bg.png"
+         y="26.591782"
+         x="-540.41534"
+         height="22.360693"
+         width="3.9042482"
+         id="rect8522"
+         style="fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-width:0.75217617" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\screens\cablepuzzle\bg.png"
+         style="fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-width:0.75217617"
+         id="rect8524"
+         width="3.9042482"
+         height="22.360693"
+         x="-550.57983"
+         y="26.591782" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\screens\cablepuzzle\bg.png"
+         y="26.591782"
+         x="-505.27271"
+         height="22.360693"
+         width="3.9042482"
+         id="rect8709"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75217617" />
+    </g>
+    <g
+       id="g5290"
+       transform="translate(2199.5867,383.24055)">
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\screens\cablepuzzle\bg.png"
+         transform="matrix(2.2156862,0,0,0.79644229,-677.73323,-276.34547)"
+         id="g8454">
+        <rect
+           y="205.07202"
+           x="-95.370338"
+           height="162.76811"
+           width="102.39763"
+           id="rect8456"
+           style="fill:#fffc10;fill-opacity:1;stroke:none" />
+        <rect
+           style="fill:url(#pattern6186);fill-opacity:1;stroke:none"
+           id="rect8458"
+           width="102.39763"
+           height="162.76811"
+           x="-95.370338"
+           y="205.07202" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\screens\cablepuzzle\bg.png"
+         id="g4681"
+         transform="translate(-717.87474,-239.09617)">
+        <g
+           transform="translate(-6,-102)"
+           id="g4759">
+          <rect
+             rx="7.4999995"
+             ry="7.5000005"
+             y="243.86218"
+             x="-153"
+             height="98.08371"
+             width="199.7193"
+             id="rect4683"
+             style="fill:#b3b3b3;stroke:#ffffff;stroke-width:0.80000001;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+          <rect
+             style="fill:#999999;stroke:#ffffff;stroke-width:0.80000001;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+             id="rect4725"
+             width="199.7193"
+             height="43.132263"
+             x="-153"
+             y="243.86218"
+             ry="7.5"
+             rx="7.4999995" />
+          <flowRoot
+             transform="matrix(0.35502765,0,0,0.35502765,-160.20128,109.30824)"
+             style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+             id="flowRoot4685"
+             xml:space="preserve"><flowRegion
+               id="flowRegion4687"><rect
+                 style="fill:#ffffff"
+                 y="384.07251"
+                 x="70.89682"
+                 height="176.37987"
+                 width="531.03632"
+                 id="rect4689" /></flowRegion><flowPara
+               id="flowPara4693"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended">CONTROL/NAV</flowPara><flowPara
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+               id="flowPara4717">BYPASS PANEL</flowPara></flowRoot>          <rect
+             style="fill:#999999;fill-opacity:1;stroke:#ffffff;stroke-width:0.80000001;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+             id="rect4727"
+             width="89"
+             height="30.5"
+             x="-51.152847"
+             y="303.41437"
+             rx="7.4999995"
+             ry="7.5" />
+          <flowRoot
+             transform="matrix(0.5503768,0,0,0.5503768,-88.688576,92.919015)"
+             style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+             id="flowRoot4707"
+             xml:space="preserve"><flowRegion
+               id="flowRegion4709"><rect
+                 style="fill:#ffffff"
+                 y="384.07251"
+                 x="70.89682"
+                 height="183.63438"
+                 width="268.47812"
+                 id="rect4711" /></flowRegion><flowPara
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+               id="flowPara4713">FD/F</flowPara></flowRoot>          <rect
+             ry="7.5"
+             rx="7.4999995"
+             y="302.3967"
+             x="-144.84145"
+             height="30.5"
+             width="89"
+             id="rect4729"
+             style="fill:#999999;fill-opacity:1;stroke:#ffffff;stroke-width:0.80000001;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+          <flowRoot
+             xml:space="preserve"
+             id="flowRoot4731"
+             style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+             transform="matrix(0.5503768,0,0,0.5503768,-182.37718,91.901355)"><flowRegion
+               id="flowRegion4733"><rect
+                 id="rect4735"
+                 width="268.47812"
+                 height="183.63438"
+                 x="70.89682"
+                 y="384.07251"
+                 style="fill:#ffffff" /></flowRegion><flowPara
+               id="flowPara4737"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended">XC-01</flowPara></flowRoot>        </g>
+      </g>
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\screens\cablepuzzle\bg.png"
+         y="-7.2630835"
+         x="-740.638"
+         height="22.360693"
+         width="3.9042482"
+         id="rect8498"
+         style="fill:#ff00ff;fill-opacity:1;stroke:#000000" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\screens\cablepuzzle\bg.png"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000"
+         id="rect8500"
+         width="3.9042482"
+         height="22.360693"
+         x="-731.23236"
+         y="-7.2630835" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\screens\cablepuzzle\bg.png"
+         y="-7.2630835"
+         x="-721.82666"
+         height="22.360693"
+         width="3.9042482"
+         id="rect8502"
+         style="fill:#ffff00;fill-opacity:1;stroke:#000000" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\screens\cablepuzzle\bg.png"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000"
+         id="rect8711"
+         width="3.9042482"
+         height="31.207201"
+         x="-826.91132"
+         y="-9.0606527" />
+    </g>
+    <g
+       id="g6273"
+       transform="translate(765.40834,-44.284731)">
+      <rect
+         y="322.55237"
+         x="-410.73898"
+         height="114.02065"
+         width="226.88101"
+         id="rect5388"
+         style="fill:#fffc10;fill-opacity:1;stroke:none" />
+      <rect
+         style="fill:url(#pattern6234);fill-opacity:1;stroke:none"
+         id="rect5390"
+         width="226.88101"
+         height="114.02065"
+         x="-410.73898"
+         y="322.55237" />
+      <rect
+         style="fill:#b3b3b3;stroke:#ffffff;stroke-width:0.80000001;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect5396"
+         width="199.7193"
+         height="89.86541"
+         x="-398.56976"
+         y="338.33585"
+         ry="7.5"
+         rx="7.4999995" />
+      <rect
+         rx="7.4999995"
+         ry="7.5"
+         y="338.33585"
+         x="-398.56976"
+         height="43.132263"
+         width="199.7193"
+         id="rect5398"
+         style="fill:#999999;stroke:#ffffff;stroke-width:0.80000001;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot5400"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         transform="matrix(0.35502765,0,0,0.35502765,-405.77104,203.78189)"><flowRegion
+           id="flowRegion5402"><rect
+             id="rect5404"
+             width="531.03632"
+             height="176.37987"
+             x="70.89682"
+             y="384.07251"
+             style="fill:#ffffff" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+           id="flowPara5406">CONTROL/NAV</flowPara><flowPara
+           id="flowPara5408"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended">BYPASS PANEL</flowPara></flowRoot>      <g
+         transform="translate(-102.72873,-37.804173)"
+         id="g6254">
+        <rect
+           ry="7.5"
+           rx="7.4999995"
+           y="426.65207"
+           x="-293.16122"
+           height="30.5"
+           width="89"
+           id="rect5430"
+           style="fill:#999999;fill-opacity:1;stroke:#ffffff;stroke-width:0.80000001;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot5432"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+           transform="matrix(0.49303183,0,0,0.5503768,-326.3833,216.15671)"><flowRegion
+             id="flowRegion5434"><rect
+               id="rect5436"
+               width="268.47812"
+               height="183.63438"
+               x="70.89682"
+               y="384.07251"
+               style="fill:#ffffff" /></flowRegion><flowPara
+             id="flowPara5438"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended">PDER</flowPara></flowRoot>        <rect
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\screens\cablepuzzle\bg.png"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000"
+           id="rect5456"
+           width="3.9042482"
+           height="22.360693"
+           x="-275.05908"
+           y="457.07077" />
+        <rect
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\screens\cablepuzzle\bg.png"
+           y="457.07077"
+           x="-259.44208"
+           height="22.360693"
+           width="3.9042482"
+           id="rect5458"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000" />
+        <rect
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\screens\cablepuzzle\bg.png"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000"
+           id="rect5460"
+           width="3.9042482"
+           height="22.360693"
+           x="-242.58284"
+           y="457.07077" />
+        <rect
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\screens\cablepuzzle\bg.png"
+           y="457.07077"
+           x="-228.03065"
+           height="22.360693"
+           width="3.9042482"
+           id="rect5462"
+           style="fill:#ff0000;fill-opacity:1;stroke:#000000" />
+      </g>
+      <g
+         id="g6265">
+        <rect
+           style="fill:#999999;fill-opacity:1;stroke:#ffffff;stroke-width:0.80000001;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect5440"
+           width="89"
+           height="30.5"
+           x="-293.16119"
+           y="388.65207"
+           rx="7.4999995"
+           ry="7.5" />
+        <flowRoot
+           transform="matrix(0.44309961,0,0,0.5503768,-323.19089,178.15671)"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+           id="flowRoot5442"
+           xml:space="preserve"><flowRegion
+             id="flowRegion5444"><rect
+               style="fill:#ffffff"
+               y="384.07251"
+               x="70.89682"
+               height="183.63438"
+               width="268.47812"
+               id="rect5446" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+             id="flowPara5448">XM-23</flowPara></flowRoot>        <rect
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\screens\cablepuzzle\bg.png"
+           y="173.63545"
+           x="402.84818"
+           height="31.207201"
+           width="3.9042482"
+           id="rect5466"
+           style="fill:#ff0000;fill-opacity:1;stroke:#000000"
+           transform="matrix(0,1,-1,0,0,0)" />
+      </g>
+    </g>
+    <g
+       id="g6367"
+       transform="translate(18.080257,21.367576)">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\screens\cablepuzzle\bg.png"
+         inkscape:connector-curvature="0"
+         id="path8599"
+         d="m -122.73167,133.67884 1024.55805,0"
+         style="fill:none;stroke:#ff0000;stroke-width:22.96771812;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\screens\cablepuzzle\bg.png"
+         transform="matrix(1.9442025,0,0,1.9442025,278.1816,-1237.4404)"
+         id="g8574">
+        <rect
+           rx="8.0325956"
+           style="fill:#000000;fill-opacity:1;stroke:#ffff00;stroke-width:1.97194397;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect8544"
+           width="208.81085"
+           height="82.319664"
+           x="-58.226105"
+           y="664.85742"
+           ry="8.0325956" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot8546"
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+           transform="translate(-3.1943849,-11.002881)"><flowRegion
+             id="flowRegion8548"><rect
+               id="rect8550"
+               width="145.87691"
+               height="66.017288"
+               x="-40.107277"
+               y="677.1994"
+               style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff0000;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended" /></flowRegion><flowPara
+             id="flowPara8552">WARNING!</flowPara></flowRoot>        <flowRoot
+           transform="translate(-8.8732912,8.8732913)"
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+           id="flowRoot8554"
+           xml:space="preserve"><flowRegion
+             id="flowRegion8556"><rect
+               style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffff00;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+               y="677.1994"
+               x="-40.107277"
+               height="58.15834"
+               width="125.44147"
+               id="rect8558" /></flowRegion><flowPara
+             id="flowPara8560">SYSTEM CONNECTIONS CRITICALLY DAMAGED</flowPara></flowRoot>        <path
+           sodipodi:type="star"
+           style="fill:#ffff00;fill-opacity:1;stroke:#ffff00;stroke-width:1.97194397;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path8562"
+           sodipodi:sides="3"
+           sodipodi:cx="110.38374"
+           sodipodi:cy="701.51227"
+           sodipodi:r1="35.769379"
+           sodipodi:r2="43.425129"
+           sodipodi:arg1="0.51914611"
+           sodipodi:arg2="1.5663437"
+           inkscape:flatsided="true"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 141.44026,719.25885 -61.953766,0.27586 30.737976,-53.79147 z"
+           inkscape:transform-center-x="-1.2999594"
+           inkscape:transform-center-y="-0.75815859"
+           transform="translate(-3.016919,12.600074)" />
+        <path
+           transform="matrix(0.88579706,0,0,0.88478718,9.4581044,93.370103)"
+           inkscape:transform-center-y="-0.67081321"
+           inkscape:transform-center-x="-1.1514999"
+           d="m 141.44026,719.25885 -61.953766,0.27586 30.737976,-53.79147 z"
+           inkscape:randomized="0"
+           inkscape:rounded="0"
+           inkscape:flatsided="true"
+           sodipodi:arg2="1.5663437"
+           sodipodi:arg1="0.51914611"
+           sodipodi:r2="43.425129"
+           sodipodi:r1="35.769379"
+           sodipodi:cy="701.51227"
+           sodipodi:cx="110.38374"
+           sodipodi:sides="3"
+           id="path8564"
+           style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:2.22745037;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           sodipodi:type="star" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot8566"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           transform="translate(19.876172,7.4535646)"><flowRegion
+             id="flowRegion8568"><rect
+               id="rect8570"
+               width="58.474991"
+               height="52.529884"
+               x="81.45681"
+               y="682.34595" /></flowRegion><flowPara
+             id="flowPara8572">!</flowPara></flowRoot>      </g>
+    </g>
+    <g
+       transform="translate(1104.5393,21.367576)"
+       id="g6386">
+      <path
+         style="fill:none;stroke:#ff0000;stroke-width:22.96771812;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m -122.73167,133.67884 1024.55805,0"
+         id="path6388"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\screens\cablepuzzle\bg.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <g
+         id="g6390"
+         transform="matrix(1.9442025,0,0,1.9442025,278.1816,-1237.4404)"
+         inkscape:export-filename="F:\ship\consoles\VanConsoles\src\data\engineerconsole\screens\cablepuzzle\bg.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <rect
+           ry="8.0325956"
+           y="664.85742"
+           x="-58.226105"
+           height="82.319664"
+           width="208.81085"
+           id="rect6392"
+           style="fill:#000000;fill-opacity:1;stroke:#ffff00;stroke-width:1.97194397;stroke-miterlimit:4;stroke-dasharray:none"
+           rx="8.0325956" />
+        <flowRoot
+           transform="translate(-3.1943849,-11.002881)"
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+           id="flowRoot6394"
+           xml:space="preserve"><flowRegion
+             id="flowRegion6396"><rect
+               style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff0000;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+               y="677.1994"
+               x="-40.107277"
+               height="66.017288"
+               width="145.87691"
+               id="rect6398" /></flowRegion><flowPara
+             id="flowPara6400">WARNING!</flowPara></flowRoot>        <flowRoot
+           xml:space="preserve"
+           id="flowRoot6402"
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended"
+           transform="translate(-8.8732912,8.8732913)"><flowRegion
+             id="flowRegion6404"><rect
+               id="rect6406"
+               width="125.44147"
+               height="58.15834"
+               x="-40.107277"
+               y="677.1994"
+               style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffff00;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended" /></flowRegion><flowPara
+             id="flowPara6408">SYSTEM CONNECTIONS CRITICALLY DAMAGED</flowPara></flowRoot>        <path
+           transform="translate(-3.016919,12.600074)"
+           inkscape:transform-center-y="-0.75815859"
+           inkscape:transform-center-x="-1.2999594"
+           d="m 141.44026,719.25885 -61.953766,0.27586 30.737976,-53.79147 z"
+           inkscape:randomized="0"
+           inkscape:rounded="0"
+           inkscape:flatsided="true"
+           sodipodi:arg2="1.5663437"
+           sodipodi:arg1="0.51914611"
+           sodipodi:r2="43.425129"
+           sodipodi:r1="35.769379"
+           sodipodi:cy="701.51227"
+           sodipodi:cx="110.38374"
+           sodipodi:sides="3"
+           id="path6410"
+           style="fill:#ffff00;fill-opacity:1;stroke:#ffff00;stroke-width:1.97194397;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           sodipodi:type="star" />
+        <path
+           sodipodi:type="star"
+           style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:2.22745037;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path6412"
+           sodipodi:sides="3"
+           sodipodi:cx="110.38374"
+           sodipodi:cy="701.51227"
+           sodipodi:r1="35.769379"
+           sodipodi:r2="43.425129"
+           sodipodi:arg1="0.51914611"
+           sodipodi:arg2="1.5663437"
+           inkscape:flatsided="true"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 141.44026,719.25885 -61.953766,0.27586 30.737976,-53.79147 z"
+           inkscape:transform-center-x="-1.1514999"
+           inkscape:transform-center-y="-0.67081321"
+           transform="matrix(0.88579706,0,0,0.88478718,9.4581044,93.370103)" />
+        <flowRoot
+           transform="translate(19.876172,7.4535646)"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           id="flowRoot6414"
+           xml:space="preserve"><flowRegion
+             id="flowRegion6416"><rect
+               y="682.34595"
+               x="81.45681"
+               height="52.529884"
+               width="58.474991"
+               id="rect6418" /></flowRegion><flowPara
+             id="flowPara6420">!</flowPara></flowRoot>      </g>
+    </g>
+  </g>
+</svg>

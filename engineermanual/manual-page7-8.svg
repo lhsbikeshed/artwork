@@ -59,11 +59,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.29642241"
-     inkscape:cx="1545.4222"
-     inkscape:cy="-79.374544"
+     inkscape:zoom="1.030531"
+     inkscape:cx="573.71027"
+     inkscape:cy="464.03461"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g5501"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1057"
@@ -337,7 +337,7 @@
              x="36.508102"
              y="157.53099"
              style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Hanzel Extended;-inkscape-font-specification:Hanzel Extended" /></flowRegion><flowPara
-           id="flowPara8807">DATA CONDUIT socket P45 should be connected to CONTROL/NAV BYPASS socket PDER  </flowPara></flowRoot>      <path
+           id="flowPara8807">DATA CONDUIT socket M32 should be connected to CONTROL/NAV BYPASS socket PDER  </flowPara></flowRoot>      <path
          sodipodi:type="arc"
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.42236972;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
          id="path8809"
